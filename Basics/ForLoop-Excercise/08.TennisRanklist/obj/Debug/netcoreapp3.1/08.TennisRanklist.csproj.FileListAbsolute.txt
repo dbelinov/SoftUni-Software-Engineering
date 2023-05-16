@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\bin\Debug\netcoreapp3.1\08.TennisRanklist.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\08.TennisRanklist\obj\Debug\netcoreapp3.1\08.TennisRanklist.genruntimeconfig.cache

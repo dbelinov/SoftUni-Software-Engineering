@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\obj\Debug\netcoreapp3.1\07.ProjectCreation.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\obj\Debug\netcoreapp3.1\07.ProjectCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\obj\Debug\netcoreapp3.1\07.ProjectCreation.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\obj\Debug\netcoreapp3.1\07.ProjectCreation.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\obj\Debug\netcoreapp3.1\07.ProjectCreation.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\bin\Debug\netcoreapp3.1\07.ProjectCreation.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\bin\Debug\netcoreapp3.1\07.ProjectCreation.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\bin\Debug\netcoreapp3.1\07.ProjectCreation.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\bin\Debug\netcoreapp3.1\07.ProjectCreation.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\bin\Debug\netcoreapp3.1\07.ProjectCreation.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\bin\Debug\netcoreapp3.1\07.ProjectCreation.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\obj\Debug\netcoreapp3.1\07.ProjectCreation.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\obj\Debug\netcoreapp3.1\07.ProjectCreation.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\07.ProjectCreation\obj\Debug\netcoreapp3.1\07.ProjectCreation.genruntimeconfig.cache

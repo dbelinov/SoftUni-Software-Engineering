@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\bin\Debug\netcoreapp3.1\10.OddEvenSum.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\10.OddEvenSum\obj\Debug\netcoreapp3.1\10.OddEvenSum.genruntimeconfig.cache

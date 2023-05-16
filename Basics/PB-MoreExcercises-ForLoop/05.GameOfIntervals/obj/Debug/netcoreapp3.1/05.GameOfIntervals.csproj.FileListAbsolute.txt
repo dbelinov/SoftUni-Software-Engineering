@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.genruntimeconfig.cache

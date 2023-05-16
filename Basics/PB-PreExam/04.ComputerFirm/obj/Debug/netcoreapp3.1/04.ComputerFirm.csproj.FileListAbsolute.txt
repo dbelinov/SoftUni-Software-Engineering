@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\bin\Debug\netcoreapp3.1\04.ComputerFirm.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\bin\Debug\netcoreapp3.1\04.ComputerFirm.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\bin\Debug\netcoreapp3.1\04.ComputerFirm.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\bin\Debug\netcoreapp3.1\04.ComputerFirm.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\bin\Debug\netcoreapp3.1\04.ComputerFirm.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\bin\Debug\netcoreapp3.1\04.ComputerFirm.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\obj\Debug\netcoreapp3.1\04.ComputerFirm.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\obj\Debug\netcoreapp3.1\04.ComputerFirm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\obj\Debug\netcoreapp3.1\04.ComputerFirm.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\obj\Debug\netcoreapp3.1\04.ComputerFirm.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\obj\Debug\netcoreapp3.1\04.ComputerFirm.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\obj\Debug\netcoreapp3.1\04.ComputerFirm.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\obj\Debug\netcoreapp3.1\04.ComputerFirm.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\04.ComputerFirm\obj\Debug\netcoreapp3.1\04.ComputerFirm.genruntimeconfig.cache

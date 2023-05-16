@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.genruntimeconfig.cache

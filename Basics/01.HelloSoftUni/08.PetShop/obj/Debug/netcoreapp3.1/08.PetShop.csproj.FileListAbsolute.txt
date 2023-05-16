@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\01.HelloSoftUni\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\bin\Debug\netcoreapp3.1\03.FinalCompetititon.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\bin\Debug\netcoreapp3.1\03.FinalCompetititon.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\bin\Debug\netcoreapp3.1\03.FinalCompetititon.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\bin\Debug\netcoreapp3.1\03.FinalCompetititon.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\bin\Debug\netcoreapp3.1\03.FinalCompetititon.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\bin\Debug\netcoreapp3.1\03.FinalCompetititon.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\obj\Debug\netcoreapp3.1\03.FinalCompetititon.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\obj\Debug\netcoreapp3.1\03.FinalCompetititon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\obj\Debug\netcoreapp3.1\03.FinalCompetititon.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\obj\Debug\netcoreapp3.1\03.FinalCompetititon.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\obj\Debug\netcoreapp3.1\03.FinalCompetititon.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\obj\Debug\netcoreapp3.1\03.FinalCompetititon.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\obj\Debug\netcoreapp3.1\03.FinalCompetititon.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\03.FinalCompetititon\obj\Debug\netcoreapp3.1\03.FinalCompetititon.genruntimeconfig.cache

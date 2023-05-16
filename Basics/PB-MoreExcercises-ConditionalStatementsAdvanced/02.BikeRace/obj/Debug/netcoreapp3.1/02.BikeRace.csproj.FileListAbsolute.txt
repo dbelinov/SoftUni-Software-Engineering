@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\bin\Debug\netcoreapp3.1\02.BikeRace.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\bin\Debug\netcoreapp3.1\02.BikeRace.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\bin\Debug\netcoreapp3.1\02.BikeRace.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\bin\Debug\netcoreapp3.1\02.BikeRace.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\bin\Debug\netcoreapp3.1\02.BikeRace.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\bin\Debug\netcoreapp3.1\02.BikeRace.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\obj\Debug\netcoreapp3.1\02.BikeRace.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\obj\Debug\netcoreapp3.1\02.BikeRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\obj\Debug\netcoreapp3.1\02.BikeRace.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\obj\Debug\netcoreapp3.1\02.BikeRace.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\obj\Debug\netcoreapp3.1\02.BikeRace.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\obj\Debug\netcoreapp3.1\02.BikeRace.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\obj\Debug\netcoreapp3.1\02.BikeRace.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\02.BikeRace\obj\Debug\netcoreapp3.1\02.BikeRace.genruntimeconfig.cache

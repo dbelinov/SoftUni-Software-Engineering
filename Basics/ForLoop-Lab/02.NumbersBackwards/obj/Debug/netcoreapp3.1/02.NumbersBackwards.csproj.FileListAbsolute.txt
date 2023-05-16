@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\bin\Debug\netcoreapp3.1\02.NumbersBackwards.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\bin\Debug\netcoreapp3.1\02.NumbersBackwards.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\bin\Debug\netcoreapp3.1\02.NumbersBackwards.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\bin\Debug\netcoreapp3.1\02.NumbersBackwards.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\bin\Debug\netcoreapp3.1\02.NumbersBackwards.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\bin\Debug\netcoreapp3.1\02.NumbersBackwards.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\obj\Debug\netcoreapp3.1\02.NumbersBackwards.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\obj\Debug\netcoreapp3.1\02.NumbersBackwards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\obj\Debug\netcoreapp3.1\02.NumbersBackwards.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\obj\Debug\netcoreapp3.1\02.NumbersBackwards.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\obj\Debug\netcoreapp3.1\02.NumbersBackwards.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\obj\Debug\netcoreapp3.1\02.NumbersBackwards.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\obj\Debug\netcoreapp3.1\02.NumbersBackwards.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\02.NumbersBackwards\obj\Debug\netcoreapp3.1\02.NumbersBackwards.genruntimeconfig.cache

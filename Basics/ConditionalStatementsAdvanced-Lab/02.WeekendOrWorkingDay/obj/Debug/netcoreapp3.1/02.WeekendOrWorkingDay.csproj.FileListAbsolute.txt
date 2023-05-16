@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\bin\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\02.WeekendOrWorkingDay\obj\Debug\netcoreapp3.1\02.WeekendOrWorkingDay.genruntimeconfig.cache

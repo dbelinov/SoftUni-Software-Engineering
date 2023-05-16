@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\bin\Debug\netcoreapp3.1\06.CinemaTickets.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\06.CinemaTickets\obj\Debug\netcoreapp3.1\06.CinemaTickets.genruntimeconfig.cache

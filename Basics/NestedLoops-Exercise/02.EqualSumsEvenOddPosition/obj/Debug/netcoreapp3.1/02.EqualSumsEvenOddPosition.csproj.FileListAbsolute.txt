@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\02.EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02.EqualSumsEvenOddPosition.genruntimeconfig.cache

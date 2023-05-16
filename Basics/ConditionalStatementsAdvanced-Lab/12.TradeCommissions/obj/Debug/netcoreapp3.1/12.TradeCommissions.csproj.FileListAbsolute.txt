@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\bin\Debug\netcoreapp3.1\12.TradeCommissions.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Lab\12.TradeCommissions\obj\Debug\netcoreapp3.1\12.TradeCommissions.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\bin\Debug\netcoreapp3.1\02.SummerOutfit.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\02.SummerOutfit\obj\Debug\netcoreapp3.1\02.SummerOutfit.genruntimeconfig.cache

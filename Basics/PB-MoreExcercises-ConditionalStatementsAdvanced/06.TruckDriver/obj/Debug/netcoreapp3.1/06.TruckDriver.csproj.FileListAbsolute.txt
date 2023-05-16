@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\bin\Debug\netcoreapp3.1\06.TruckDriver.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\bin\Debug\netcoreapp3.1\06.TruckDriver.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\bin\Debug\netcoreapp3.1\06.TruckDriver.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\bin\Debug\netcoreapp3.1\06.TruckDriver.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\bin\Debug\netcoreapp3.1\06.TruckDriver.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\bin\Debug\netcoreapp3.1\06.TruckDriver.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\obj\Debug\netcoreapp3.1\06.TruckDriver.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\obj\Debug\netcoreapp3.1\06.TruckDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\obj\Debug\netcoreapp3.1\06.TruckDriver.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\obj\Debug\netcoreapp3.1\06.TruckDriver.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\obj\Debug\netcoreapp3.1\06.TruckDriver.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\obj\Debug\netcoreapp3.1\06.TruckDriver.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\obj\Debug\netcoreapp3.1\06.TruckDriver.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\06.TruckDriver\obj\Debug\netcoreapp3.1\06.TruckDriver.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\bin\Debug\netcoreapp3.1\05.SpecialNumbers.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\05.SpecialNumbers\obj\Debug\netcoreapp3.1\05.SpecialNumbers.genruntimeconfig.cache

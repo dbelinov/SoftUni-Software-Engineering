@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ExamSummer2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.genruntimeconfig.cache

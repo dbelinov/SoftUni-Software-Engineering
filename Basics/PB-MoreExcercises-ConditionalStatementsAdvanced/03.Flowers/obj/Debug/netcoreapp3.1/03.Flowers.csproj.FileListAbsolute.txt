@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.genruntimeconfig.cache

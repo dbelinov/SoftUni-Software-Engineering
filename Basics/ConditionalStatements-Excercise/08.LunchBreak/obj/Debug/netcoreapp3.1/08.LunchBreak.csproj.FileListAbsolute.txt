@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\bin\Debug\netcoreapp3.1\08.LunchBreak.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\bin\Debug\netcoreapp3.1\08.LunchBreak.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\bin\Debug\netcoreapp3.1\08.LunchBreak.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\bin\Debug\netcoreapp3.1\08.LunchBreak.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\bin\Debug\netcoreapp3.1\08.LunchBreak.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\bin\Debug\netcoreapp3.1\08.LunchBreak.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\08.LunchBreak\obj\Debug\netcoreapp3.1\08.LunchBreak.genruntimeconfig.cache

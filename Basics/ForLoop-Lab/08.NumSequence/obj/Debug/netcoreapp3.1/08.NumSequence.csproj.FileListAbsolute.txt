@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\bin\Debug\netcoreapp3.1\08.NumSequence.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\bin\Debug\netcoreapp3.1\08.NumSequence.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\bin\Debug\netcoreapp3.1\08.NumSequence.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\bin\Debug\netcoreapp3.1\08.NumSequence.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\bin\Debug\netcoreapp3.1\08.NumSequence.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\bin\Debug\netcoreapp3.1\08.NumSequence.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\obj\Debug\netcoreapp3.1\08.NumSequence.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\obj\Debug\netcoreapp3.1\08.NumSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\obj\Debug\netcoreapp3.1\08.NumSequence.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\obj\Debug\netcoreapp3.1\08.NumSequence.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\obj\Debug\netcoreapp3.1\08.NumSequence.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\obj\Debug\netcoreapp3.1\08.NumSequence.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\obj\Debug\netcoreapp3.1\08.NumSequence.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\08.NumSequence\obj\Debug\netcoreapp3.1\08.NumSequence.genruntimeconfig.cache

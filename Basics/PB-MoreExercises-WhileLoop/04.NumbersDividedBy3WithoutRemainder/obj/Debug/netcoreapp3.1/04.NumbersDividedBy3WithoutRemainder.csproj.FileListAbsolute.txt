@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\04.NumbersDividedBy3WithoutRemainder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutRemainder.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-NestedLoops\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.genruntimeconfig.cache

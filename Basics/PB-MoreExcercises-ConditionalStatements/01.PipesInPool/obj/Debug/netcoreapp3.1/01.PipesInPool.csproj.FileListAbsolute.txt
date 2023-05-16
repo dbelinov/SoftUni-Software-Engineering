@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\bin\Debug\netcoreapp3.1\01.PipesInPool.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\01.PipesInPool\obj\Debug\netcoreapp3.1\01.PipesInPool.genruntimeconfig.cache

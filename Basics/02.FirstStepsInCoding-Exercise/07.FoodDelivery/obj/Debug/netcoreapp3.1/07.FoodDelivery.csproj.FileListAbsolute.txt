@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\netcoreapp3.1\07.FoodDelivery.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\netcoreapp3.1\07.FoodDelivery.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\netcoreapp3.1\07.FoodDelivery.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\netcoreapp3.1\07.FoodDelivery.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\netcoreapp3.1\07.FoodDelivery.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\bin\Debug\netcoreapp3.1\07.FoodDelivery.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\07.FoodDelivery\obj\Debug\netcoreapp3.1\07.FoodDelivery.genruntimeconfig.cache

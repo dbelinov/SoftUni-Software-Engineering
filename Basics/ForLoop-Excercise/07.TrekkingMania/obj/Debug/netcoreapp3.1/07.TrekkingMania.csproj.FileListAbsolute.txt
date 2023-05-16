@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\bin\Debug\netcoreapp3.1\07.TrekkingMania.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\07.TrekkingMania\obj\Debug\netcoreapp3.1\07.TrekkingMania.genruntimeconfig.cache

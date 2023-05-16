@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\bin\Debug\netcoreapp3.1\04.SmartLily.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\bin\Debug\netcoreapp3.1\04.SmartLily.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\bin\Debug\netcoreapp3.1\04.SmartLily.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\bin\Debug\netcoreapp3.1\04.SmartLily.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\bin\Debug\netcoreapp3.1\04.SmartLily.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\bin\Debug\netcoreapp3.1\04.SmartLily.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\obj\Debug\netcoreapp3.1\04.SmartLily.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\obj\Debug\netcoreapp3.1\04.SmartLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\obj\Debug\netcoreapp3.1\04.SmartLily.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\obj\Debug\netcoreapp3.1\04.SmartLily.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\obj\Debug\netcoreapp3.1\04.SmartLily.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\obj\Debug\netcoreapp3.1\04.SmartLily.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\obj\Debug\netcoreapp3.1\04.SmartLily.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\04.SmartLily\obj\Debug\netcoreapp3.1\04.SmartLily.genruntimeconfig.cache

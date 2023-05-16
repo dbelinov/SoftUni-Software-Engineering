@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\bin\Debug\netcoreapp3.1\05.HairSalon.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\bin\Debug\netcoreapp3.1\05.HairSalon.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\bin\Debug\netcoreapp3.1\05.HairSalon.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\bin\Debug\netcoreapp3.1\05.HairSalon.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\bin\Debug\netcoreapp3.1\05.HairSalon.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\bin\Debug\netcoreapp3.1\05.HairSalon.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\05.HairSalon\obj\Debug\netcoreapp3.1\05.HairSalon.genruntimeconfig.cache

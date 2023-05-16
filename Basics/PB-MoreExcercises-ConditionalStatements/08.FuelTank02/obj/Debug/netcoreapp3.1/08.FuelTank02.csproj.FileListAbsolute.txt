@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\bin\Debug\netcoreapp3.1\08.FuelTank02.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\bin\Debug\netcoreapp3.1\08.FuelTank02.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\bin\Debug\netcoreapp3.1\08.FuelTank02.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\bin\Debug\netcoreapp3.1\08.FuelTank02.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\bin\Debug\netcoreapp3.1\08.FuelTank02.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\bin\Debug\netcoreapp3.1\08.FuelTank02.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\obj\Debug\netcoreapp3.1\08.FuelTank02.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\obj\Debug\netcoreapp3.1\08.FuelTank02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\obj\Debug\netcoreapp3.1\08.FuelTank02.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\obj\Debug\netcoreapp3.1\08.FuelTank02.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\obj\Debug\netcoreapp3.1\08.FuelTank02.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\obj\Debug\netcoreapp3.1\08.FuelTank02.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\obj\Debug\netcoreapp3.1\08.FuelTank02.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\08.FuelTank02\obj\Debug\netcoreapp3.1\08.FuelTank02.genruntimeconfig.cache

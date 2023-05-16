@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\bin\Debug\netcoreapp3.1\04.TrainTheTrainers.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\04.TrainTheTrainers\obj\Debug\netcoreapp3.1\04.TrainTheTrainers.genruntimeconfig.cache

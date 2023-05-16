@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\bin\Debug\netcoreapp3.1\05.SchoolSupplies.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\bin\Debug\netcoreapp3.1\05.SchoolSupplies.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\bin\Debug\netcoreapp3.1\05.SchoolSupplies.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\bin\Debug\netcoreapp3.1\05.SchoolSupplies.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\bin\Debug\netcoreapp3.1\05.SchoolSupplies.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\bin\Debug\netcoreapp3.1\05.SchoolSupplies.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\obj\Debug\netcoreapp3.1\05.SchoolSupplies.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\obj\Debug\netcoreapp3.1\05.SchoolSupplies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\obj\Debug\netcoreapp3.1\05.SchoolSupplies.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\obj\Debug\netcoreapp3.1\05.SchoolSupplies.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\obj\Debug\netcoreapp3.1\05.SchoolSupplies.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\obj\Debug\netcoreapp3.1\05.SchoolSupplies.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\obj\Debug\netcoreapp3.1\05.SchoolSupplies.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\02.FirstStepsInCoding-Exercise\SchoolSupplies\obj\Debug\netcoreapp3.1\05.SchoolSupplies.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\bin\Debug\netcoreapp3.1\05.TrainingLab.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\05.TrainingLab\obj\Debug\netcoreapp3.1\05.TrainingLab.genruntimeconfig.cache

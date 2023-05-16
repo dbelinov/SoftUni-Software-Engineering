@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\bin\Debug\netcoreapp3.1\01.PyramidOfNumbers.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\bin\Debug\netcoreapp3.1\01.PyramidOfNumbers.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\bin\Debug\netcoreapp3.1\01.PyramidOfNumbers.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\bin\Debug\netcoreapp3.1\01.PyramidOfNumbers.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\bin\Debug\netcoreapp3.1\01.PyramidOfNumbers.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\bin\Debug\netcoreapp3.1\01.PyramidOfNumbers.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\obj\Debug\netcoreapp3.1\01.PyramidOfNumbers.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\obj\Debug\netcoreapp3.1\01.PyramidOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\obj\Debug\netcoreapp3.1\01.PyramidOfNumbers.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\obj\Debug\netcoreapp3.1\01.PyramidOfNumbers.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\obj\Debug\netcoreapp3.1\01.PyramidOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\obj\Debug\netcoreapp3.1\01.PyramidOfNumbers.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\obj\Debug\netcoreapp3.1\01.PyramidOfNumbers.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Exercise\01.PyramidOfNumbers\obj\Debug\netcoreapp3.1\01.PyramidOfNumbers.genruntimeconfig.cache

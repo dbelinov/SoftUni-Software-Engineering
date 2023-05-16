@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\bin\Debug\netcoreapp3.1\02.BonusPoints.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\bin\Debug\netcoreapp3.1\02.BonusPoints.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\bin\Debug\netcoreapp3.1\02.BonusPoints.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\bin\Debug\netcoreapp3.1\02.BonusPoints.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\bin\Debug\netcoreapp3.1\02.BonusPoints.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\bin\Debug\netcoreapp3.1\02.BonusPoints.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\02.BonusPoints\obj\Debug\netcoreapp3.1\02.BonusPoints.genruntimeconfig.cache

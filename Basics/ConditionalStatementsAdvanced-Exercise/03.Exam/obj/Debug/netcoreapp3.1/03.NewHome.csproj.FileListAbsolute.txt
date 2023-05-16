@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\bin\Debug\netcoreapp3.1\03.NewHome.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\bin\Debug\netcoreapp3.1\03.NewHome.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\bin\Debug\netcoreapp3.1\03.NewHome.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\bin\Debug\netcoreapp3.1\03.NewHome.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\bin\Debug\netcoreapp3.1\03.NewHome.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\bin\Debug\netcoreapp3.1\03.NewHome.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\obj\Debug\netcoreapp3.1\03.NewHome.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\obj\Debug\netcoreapp3.1\03.NewHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\obj\Debug\netcoreapp3.1\03.NewHome.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\obj\Debug\netcoreapp3.1\03.NewHome.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\obj\Debug\netcoreapp3.1\03.NewHome.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\obj\Debug\netcoreapp3.1\03.NewHome.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\obj\Debug\netcoreapp3.1\03.NewHome.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatementsAdvanced-Exercise\03.Exam\obj\Debug\netcoreapp3.1\03.NewHome.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\bin\Debug\netcoreapp3.1\02.Hospital.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\bin\Debug\netcoreapp3.1\02.Hospital.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\bin\Debug\netcoreapp3.1\02.Hospital.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\bin\Debug\netcoreapp3.1\02.Hospital.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\bin\Debug\netcoreapp3.1\02.Hospital.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\bin\Debug\netcoreapp3.1\02.Hospital.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\obj\Debug\netcoreapp3.1\02.Hospital.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\obj\Debug\netcoreapp3.1\02.Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\obj\Debug\netcoreapp3.1\02.Hospital.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\obj\Debug\netcoreapp3.1\02.Hospital.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\obj\Debug\netcoreapp3.1\02.Hospital.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\obj\Debug\netcoreapp3.1\02.Hospital.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\obj\Debug\netcoreapp3.1\02.Hospital.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\02.Hospital\obj\Debug\netcoreapp3.1\02.Hospital.genruntimeconfig.cache

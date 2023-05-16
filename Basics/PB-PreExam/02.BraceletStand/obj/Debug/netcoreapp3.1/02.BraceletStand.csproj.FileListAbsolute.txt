@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\bin\Debug\netcoreapp3.1\02.BraceletStand.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\bin\Debug\netcoreapp3.1\02.BraceletStand.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\bin\Debug\netcoreapp3.1\02.BraceletStand.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\bin\Debug\netcoreapp3.1\02.BraceletStand.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\bin\Debug\netcoreapp3.1\02.BraceletStand.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\bin\Debug\netcoreapp3.1\02.BraceletStand.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-PreExam\02.BraceletStand\obj\Debug\netcoreapp3.1\02.BraceletStand.genruntimeconfig.cache

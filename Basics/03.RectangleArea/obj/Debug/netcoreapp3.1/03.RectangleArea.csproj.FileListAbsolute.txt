@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.genruntimeconfig.cache

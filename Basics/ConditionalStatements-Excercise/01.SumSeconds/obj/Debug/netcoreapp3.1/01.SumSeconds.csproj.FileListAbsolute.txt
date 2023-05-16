@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\bin\Debug\netcoreapp3.1\01.SumSeconds.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\01.SumSeconds\obj\Debug\netcoreapp3.1\01.SumSeconds.genruntimeconfig.cache

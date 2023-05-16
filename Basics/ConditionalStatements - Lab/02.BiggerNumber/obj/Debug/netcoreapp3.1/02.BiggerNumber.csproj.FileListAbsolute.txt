@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\bin\Debug\netcoreapp3.1\02.BiggerNumber.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\bin\Debug\netcoreapp3.1\02.BiggerNumber.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\bin\Debug\netcoreapp3.1\02.BiggerNumber.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\bin\Debug\netcoreapp3.1\02.BiggerNumber.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\bin\Debug\netcoreapp3.1\02.BiggerNumber.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\bin\Debug\netcoreapp3.1\02.BiggerNumber.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\obj\Debug\netcoreapp3.1\02.BiggerNumber.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\obj\Debug\netcoreapp3.1\02.BiggerNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\obj\Debug\netcoreapp3.1\02.BiggerNumber.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\obj\Debug\netcoreapp3.1\02.BiggerNumber.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\obj\Debug\netcoreapp3.1\02.BiggerNumber.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\obj\Debug\netcoreapp3.1\02.BiggerNumber.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\obj\Debug\netcoreapp3.1\02.BiggerNumber.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\02.BiggerNumber\obj\Debug\netcoreapp3.1\02.BiggerNumber.genruntimeconfig.cache

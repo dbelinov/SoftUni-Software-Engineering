@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.genruntimeconfig.cache

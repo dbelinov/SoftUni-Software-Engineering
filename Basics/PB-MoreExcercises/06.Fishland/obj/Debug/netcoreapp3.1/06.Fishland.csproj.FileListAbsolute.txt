@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\bin\Debug\netcoreapp3.1\06.Fishland.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises\06.Fishland\obj\Debug\netcoreapp3.1\06.Fishland.genruntimeconfig.cache

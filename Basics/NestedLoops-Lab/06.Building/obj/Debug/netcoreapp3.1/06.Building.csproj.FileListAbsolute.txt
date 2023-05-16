@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\bin\Debug\netcoreapp3.1\06.Building.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\NestedLoops-Lab\06.Building\obj\Debug\netcoreapp3.1\06.Building.genruntimeconfig.cache

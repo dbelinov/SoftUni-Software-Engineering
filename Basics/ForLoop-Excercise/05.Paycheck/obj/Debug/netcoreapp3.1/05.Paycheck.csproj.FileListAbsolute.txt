@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\bin\Debug\netcoreapp3.1\05.Paycheck.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\bin\Debug\netcoreapp3.1\05.Paycheck.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\bin\Debug\netcoreapp3.1\05.Paycheck.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\bin\Debug\netcoreapp3.1\05.Paycheck.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\bin\Debug\netcoreapp3.1\05.Paycheck.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\bin\Debug\netcoreapp3.1\05.Paycheck.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\obj\Debug\netcoreapp3.1\05.Paycheck.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\obj\Debug\netcoreapp3.1\05.Paycheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\obj\Debug\netcoreapp3.1\05.Paycheck.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\obj\Debug\netcoreapp3.1\05.Paycheck.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\obj\Debug\netcoreapp3.1\05.Paycheck.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\obj\Debug\netcoreapp3.1\05.Paycheck.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\obj\Debug\netcoreapp3.1\05.Paycheck.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Excercise\05.Paycheck\obj\Debug\netcoreapp3.1\05.Paycheck.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\bin\Debug\netcoreapp3.1\03.NToNum3.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\bin\Debug\netcoreapp3.1\03.NToNum3.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\bin\Debug\netcoreapp3.1\03.NToNum3.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\bin\Debug\netcoreapp3.1\03.NToNum3.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\bin\Debug\netcoreapp3.1\03.NToNum3.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\bin\Debug\netcoreapp3.1\03.NToNum3.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\obj\Debug\netcoreapp3.1\03.NToNum3.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\obj\Debug\netcoreapp3.1\03.NToNum3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\obj\Debug\netcoreapp3.1\03.NToNum3.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\obj\Debug\netcoreapp3.1\03.NToNum3.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\obj\Debug\netcoreapp3.1\03.NToNum3.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\obj\Debug\netcoreapp3.1\03.NToNum3.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\obj\Debug\netcoreapp3.1\03.NToNum3.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\03.NToNum3\obj\Debug\netcoreapp3.1\03.NToNum3.genruntimeconfig.cache

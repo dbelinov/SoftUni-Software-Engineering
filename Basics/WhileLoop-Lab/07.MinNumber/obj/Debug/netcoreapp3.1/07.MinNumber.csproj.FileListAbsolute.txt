@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\WhileLoop-Lab\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.genruntimeconfig.cache

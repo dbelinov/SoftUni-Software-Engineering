@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\bin\Debug\netcoreapp3.1\04.TransportPrice.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatements\04.TransportPrice\obj\Debug\netcoreapp3.1\04.TransportPrice.genruntimeconfig.cache

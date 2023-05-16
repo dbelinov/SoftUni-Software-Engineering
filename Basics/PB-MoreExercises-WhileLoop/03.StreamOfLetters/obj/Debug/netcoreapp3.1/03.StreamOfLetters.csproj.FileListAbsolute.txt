@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\bin\Debug\netcoreapp3.1\03.StreamOfLetters.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\bin\Debug\netcoreapp3.1\03.StreamOfLetters.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\bin\Debug\netcoreapp3.1\03.StreamOfLetters.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\bin\Debug\netcoreapp3.1\03.StreamOfLetters.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\bin\Debug\netcoreapp3.1\03.StreamOfLetters.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\bin\Debug\netcoreapp3.1\03.StreamOfLetters.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\obj\Debug\netcoreapp3.1\03.StreamOfLetters.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\obj\Debug\netcoreapp3.1\03.StreamOfLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\obj\Debug\netcoreapp3.1\03.StreamOfLetters.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\obj\Debug\netcoreapp3.1\03.StreamOfLetters.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\obj\Debug\netcoreapp3.1\03.StreamOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\obj\Debug\netcoreapp3.1\03.StreamOfLetters.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\obj\Debug\netcoreapp3.1\03.StreamOfLetters.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExercises-WhileLoop\03.StreamOfLetters\obj\Debug\netcoreapp3.1\03.StreamOfLetters.genruntimeconfig.cache

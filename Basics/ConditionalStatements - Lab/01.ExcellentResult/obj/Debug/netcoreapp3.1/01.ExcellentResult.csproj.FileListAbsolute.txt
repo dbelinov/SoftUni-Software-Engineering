@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\bin\Debug\netcoreapp3.1\01.ExcellentResult.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements - Lab\01.ExcellentResult\obj\Debug\netcoreapp3.1\01.ExcellentResult.genruntimeconfig.cache

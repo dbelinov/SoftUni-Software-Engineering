@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\bin\Debug\netcoreapp3.1\07.SumNums.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\bin\Debug\netcoreapp3.1\07.SumNums.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\bin\Debug\netcoreapp3.1\07.SumNums.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\bin\Debug\netcoreapp3.1\07.SumNums.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\bin\Debug\netcoreapp3.1\07.SumNums.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\bin\Debug\netcoreapp3.1\07.SumNums.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\obj\Debug\netcoreapp3.1\07.SumNums.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\obj\Debug\netcoreapp3.1\07.SumNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\obj\Debug\netcoreapp3.1\07.SumNums.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\obj\Debug\netcoreapp3.1\07.SumNums.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\obj\Debug\netcoreapp3.1\07.SumNums.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\obj\Debug\netcoreapp3.1\07.SumNums.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\obj\Debug\netcoreapp3.1\07.SumNums.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ForLoop-Lab\07.SumNums\obj\Debug\netcoreapp3.1\07.SumNums.genruntimeconfig.cache

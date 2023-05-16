@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\bin\Debug\netcoreapp3.1\08.EqualPairs.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\bin\Debug\netcoreapp3.1\08.EqualPairs.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\bin\Debug\netcoreapp3.1\08.EqualPairs.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\bin\Debug\netcoreapp3.1\08.EqualPairs.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\bin\Debug\netcoreapp3.1\08.EqualPairs.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\bin\Debug\netcoreapp3.1\08.EqualPairs.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ForLoop\08.EqualPairs\obj\Debug\netcoreapp3.1\08.EqualPairs.genruntimeconfig.cache

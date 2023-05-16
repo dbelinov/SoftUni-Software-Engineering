@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\06.WorldSwimmingRecord.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\06.WorldSwimmingRecord.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\06.WorldSwimmingRecord.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\06.WorldSwimmingRecord.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\06.WorldSwimmingRecord.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\bin\Debug\netcoreapp3.1\06.WorldSwimmingRecord.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\ConditionalStatements-Excercise\06.WorldSwimmingRecord\obj\Debug\netcoreapp3.1\06.WorldSwimmingRecord.genruntimeconfig.cache

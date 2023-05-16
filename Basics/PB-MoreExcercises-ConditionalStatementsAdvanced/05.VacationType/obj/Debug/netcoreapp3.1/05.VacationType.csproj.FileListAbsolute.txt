@@ -1,0 +1,14 @@
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\bin\Debug\netcoreapp3.1\05.VacationType.exe
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\bin\Debug\netcoreapp3.1\05.VacationType.deps.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\bin\Debug\netcoreapp3.1\05.VacationType.runtimeconfig.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\bin\Debug\netcoreapp3.1\05.VacationType.runtimeconfig.dev.json
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\bin\Debug\netcoreapp3.1\05.VacationType.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\bin\Debug\netcoreapp3.1\05.VacationType.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\obj\Debug\netcoreapp3.1\05.VacationType.csproj.AssemblyReference.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\obj\Debug\netcoreapp3.1\05.VacationType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\obj\Debug\netcoreapp3.1\05.VacationType.AssemblyInfoInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\obj\Debug\netcoreapp3.1\05.VacationType.AssemblyInfo.cs
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\obj\Debug\netcoreapp3.1\05.VacationType.csproj.CoreCompileInputs.cache
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\obj\Debug\netcoreapp3.1\05.VacationType.dll
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\obj\Debug\netcoreapp3.1\05.VacationType.pdb
+C:\Users\jrgth\Documents\ProgrammingBasics2023\PB-MoreExcercises-ConditionalStatementsAdvanced\05.VacationType\obj\Debug\netcoreapp3.1\05.VacationType.genruntimeconfig.cache
