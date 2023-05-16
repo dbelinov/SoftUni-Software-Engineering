@@ -1,0 +1,13 @@
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/MovieRatings/bin/Debug/netcoreapp3.1/MovieRatings.deps.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/MovieRatings/bin/Debug/netcoreapp3.1/MovieRatings.runtimeconfig.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/MovieRatings/bin/Debug/netcoreapp3.1/MovieRatings.runtimeconfig.dev.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/MovieRatings/bin/Debug/netcoreapp3.1/MovieRatings.dll
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/MovieRatings/bin/Debug/netcoreapp3.1/MovieRatings.pdb
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/MovieRatings/obj/Debug/netcoreapp3.1/MovieRatings.csproj.AssemblyReference.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/MovieRatings/obj/Debug/netcoreapp3.1/MovieRatings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/MovieRatings/obj/Debug/netcoreapp3.1/MovieRatings.AssemblyInfoInputs.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/MovieRatings/obj/Debug/netcoreapp3.1/MovieRatings.AssemblyInfo.cs
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/MovieRatings/obj/Debug/netcoreapp3.1/MovieRatings.csproj.CoreCompileInputs.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/MovieRatings/obj/Debug/netcoreapp3.1/MovieRatings.dll
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/MovieRatings/obj/Debug/netcoreapp3.1/MovieRatings.pdb
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/MovieRatings/obj/Debug/netcoreapp3.1/MovieRatings.genruntimeconfig.cache

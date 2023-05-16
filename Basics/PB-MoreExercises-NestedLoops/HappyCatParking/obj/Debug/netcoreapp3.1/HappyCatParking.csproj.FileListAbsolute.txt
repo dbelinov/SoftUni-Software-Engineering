@@ -1,0 +1,13 @@
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/HappyCatParking/bin/Debug/netcoreapp3.1/HappyCatParking.deps.json
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/HappyCatParking/bin/Debug/netcoreapp3.1/HappyCatParking.runtimeconfig.json
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/HappyCatParking/bin/Debug/netcoreapp3.1/HappyCatParking.runtimeconfig.dev.json
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/HappyCatParking/bin/Debug/netcoreapp3.1/HappyCatParking.dll
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/HappyCatParking/bin/Debug/netcoreapp3.1/HappyCatParking.pdb
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/HappyCatParking/obj/Debug/netcoreapp3.1/HappyCatParking.csproj.AssemblyReference.cache
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/HappyCatParking/obj/Debug/netcoreapp3.1/HappyCatParking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/HappyCatParking/obj/Debug/netcoreapp3.1/HappyCatParking.AssemblyInfoInputs.cache
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/HappyCatParking/obj/Debug/netcoreapp3.1/HappyCatParking.AssemblyInfo.cs
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/HappyCatParking/obj/Debug/netcoreapp3.1/HappyCatParking.csproj.CoreCompileInputs.cache
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/HappyCatParking/obj/Debug/netcoreapp3.1/HappyCatParking.dll
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/HappyCatParking/obj/Debug/netcoreapp3.1/HappyCatParking.pdb
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/HappyCatParking/obj/Debug/netcoreapp3.1/HappyCatParking.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Vacation/bin/Debug/netcoreapp3.1/Vacation.deps.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Vacation/bin/Debug/netcoreapp3.1/Vacation.runtimeconfig.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Vacation/bin/Debug/netcoreapp3.1/Vacation.runtimeconfig.dev.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Vacation/bin/Debug/netcoreapp3.1/Vacation.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Vacation/bin/Debug/netcoreapp3.1/Vacation.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.AssemblyInfo.cs
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Vacation/obj/Debug/netcoreapp3.1/Vacation.genruntimeconfig.cache

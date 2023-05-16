@@ -1,0 +1,13 @@
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaVoucher/bin/Debug/netcoreapp3.1/CinemaVoucher.deps.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaVoucher/bin/Debug/netcoreapp3.1/CinemaVoucher.runtimeconfig.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaVoucher/bin/Debug/netcoreapp3.1/CinemaVoucher.runtimeconfig.dev.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaVoucher/bin/Debug/netcoreapp3.1/CinemaVoucher.dll
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaVoucher/bin/Debug/netcoreapp3.1/CinemaVoucher.pdb
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaVoucher/obj/Debug/netcoreapp3.1/CinemaVoucher.csproj.AssemblyReference.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaVoucher/obj/Debug/netcoreapp3.1/CinemaVoucher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaVoucher/obj/Debug/netcoreapp3.1/CinemaVoucher.AssemblyInfoInputs.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaVoucher/obj/Debug/netcoreapp3.1/CinemaVoucher.AssemblyInfo.cs
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaVoucher/obj/Debug/netcoreapp3.1/CinemaVoucher.csproj.CoreCompileInputs.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaVoucher/obj/Debug/netcoreapp3.1/CinemaVoucher.dll
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaVoucher/obj/Debug/netcoreapp3.1/CinemaVoucher.pdb
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaVoucher/obj/Debug/netcoreapp3.1/CinemaVoucher.genruntimeconfig.cache

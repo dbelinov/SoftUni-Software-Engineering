@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/bin/Debug/netcoreapp3.1/Orders.deps.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/bin/Debug/netcoreapp3.1/Orders.runtimeconfig.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/bin/Debug/netcoreapp3.1/Orders.runtimeconfig.dev.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/bin/Debug/netcoreapp3.1/Orders.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/bin/Debug/netcoreapp3.1/Orders.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/obj/Debug/netcoreapp3.1/Orders.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/obj/Debug/netcoreapp3.1/Orders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/obj/Debug/netcoreapp3.1/Orders.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/obj/Debug/netcoreapp3.1/Orders.AssemblyInfo.cs
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/obj/Debug/netcoreapp3.1/Orders.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/obj/Debug/netcoreapp3.1/Orders.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/obj/Debug/netcoreapp3.1/Orders.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/obj/Debug/netcoreapp3.1/Orders.genruntimeconfig.cache

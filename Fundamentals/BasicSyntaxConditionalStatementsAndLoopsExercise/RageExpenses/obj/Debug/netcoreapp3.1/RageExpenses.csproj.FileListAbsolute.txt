@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/bin/Debug/netcoreapp3.1/RageExpenses.deps.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/bin/Debug/netcoreapp3.1/RageExpenses.runtimeconfig.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/bin/Debug/netcoreapp3.1/RageExpenses.runtimeconfig.dev.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/bin/Debug/netcoreapp3.1/RageExpenses.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/bin/Debug/netcoreapp3.1/RageExpenses.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/obj/Debug/netcoreapp3.1/RageExpenses.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/obj/Debug/netcoreapp3.1/RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/obj/Debug/netcoreapp3.1/RageExpenses.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/obj/Debug/netcoreapp3.1/RageExpenses.AssemblyInfo.cs
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/obj/Debug/netcoreapp3.1/RageExpenses.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/obj/Debug/netcoreapp3.1/RageExpenses.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/obj/Debug/netcoreapp3.1/RageExpenses.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/obj/Debug/netcoreapp3.1/RageExpenses.genruntimeconfig.cache

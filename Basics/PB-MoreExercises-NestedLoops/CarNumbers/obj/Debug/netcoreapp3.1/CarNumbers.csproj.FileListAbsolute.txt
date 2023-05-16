@@ -1,0 +1,13 @@
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/CarNumbers/bin/Debug/netcoreapp3.1/CarNumbers.deps.json
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/CarNumbers/bin/Debug/netcoreapp3.1/CarNumbers.runtimeconfig.json
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/CarNumbers/bin/Debug/netcoreapp3.1/CarNumbers.runtimeconfig.dev.json
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/CarNumbers/bin/Debug/netcoreapp3.1/CarNumbers.dll
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/CarNumbers/bin/Debug/netcoreapp3.1/CarNumbers.pdb
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/CarNumbers/obj/Debug/netcoreapp3.1/CarNumbers.csproj.AssemblyReference.cache
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/CarNumbers/obj/Debug/netcoreapp3.1/CarNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/CarNumbers/obj/Debug/netcoreapp3.1/CarNumbers.AssemblyInfoInputs.cache
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/CarNumbers/obj/Debug/netcoreapp3.1/CarNumbers.AssemblyInfo.cs
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/CarNumbers/obj/Debug/netcoreapp3.1/CarNumbers.csproj.CoreCompileInputs.cache
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/CarNumbers/obj/Debug/netcoreapp3.1/CarNumbers.dll
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/CarNumbers/obj/Debug/netcoreapp3.1/CarNumbers.pdb
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/CarNumbers/obj/Debug/netcoreapp3.1/CarNumbers.genruntimeconfig.cache

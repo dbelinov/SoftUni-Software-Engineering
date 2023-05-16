@@ -1,0 +1,13 @@
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaTickets/bin/Debug/netcoreapp3.1/CinemaTickets.deps.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaTickets/bin/Debug/netcoreapp3.1/CinemaTickets.runtimeconfig.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaTickets/bin/Debug/netcoreapp3.1/CinemaTickets.runtimeconfig.dev.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaTickets/bin/Debug/netcoreapp3.1/CinemaTickets.dll
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaTickets/bin/Debug/netcoreapp3.1/CinemaTickets.pdb
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaTickets/obj/Debug/netcoreapp3.1/CinemaTickets.csproj.AssemblyReference.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaTickets/obj/Debug/netcoreapp3.1/CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaTickets/obj/Debug/netcoreapp3.1/CinemaTickets.AssemblyInfoInputs.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaTickets/obj/Debug/netcoreapp3.1/CinemaTickets.AssemblyInfo.cs
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaTickets/obj/Debug/netcoreapp3.1/CinemaTickets.csproj.CoreCompileInputs.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaTickets/obj/Debug/netcoreapp3.1/CinemaTickets.dll
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaTickets/obj/Debug/netcoreapp3.1/CinemaTickets.pdb
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/CinemaTickets/obj/Debug/netcoreapp3.1/CinemaTickets.genruntimeconfig.cache

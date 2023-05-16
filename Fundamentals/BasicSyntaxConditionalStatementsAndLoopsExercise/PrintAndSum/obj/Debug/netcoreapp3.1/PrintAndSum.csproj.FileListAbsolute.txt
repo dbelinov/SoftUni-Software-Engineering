@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/PrintAndSum/bin/Debug/netcoreapp3.1/PrintAndSum.deps.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/PrintAndSum/bin/Debug/netcoreapp3.1/PrintAndSum.runtimeconfig.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/PrintAndSum/bin/Debug/netcoreapp3.1/PrintAndSum.runtimeconfig.dev.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/PrintAndSum/bin/Debug/netcoreapp3.1/PrintAndSum.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/PrintAndSum/bin/Debug/netcoreapp3.1/PrintAndSum.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/PrintAndSum/obj/Debug/netcoreapp3.1/PrintAndSum.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/PrintAndSum/obj/Debug/netcoreapp3.1/PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/PrintAndSum/obj/Debug/netcoreapp3.1/PrintAndSum.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/PrintAndSum/obj/Debug/netcoreapp3.1/PrintAndSum.AssemblyInfo.cs
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/PrintAndSum/obj/Debug/netcoreapp3.1/PrintAndSum.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/PrintAndSum/obj/Debug/netcoreapp3.1/PrintAndSum.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/PrintAndSum/obj/Debug/netcoreapp3.1/PrintAndSum.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/PrintAndSum/obj/Debug/netcoreapp3.1/PrintAndSum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/ChallengeTheWedding/bin/Debug/netcoreapp3.1/ChallengeTheWedding.deps.json
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/ChallengeTheWedding/bin/Debug/netcoreapp3.1/ChallengeTheWedding.runtimeconfig.json
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/ChallengeTheWedding/bin/Debug/netcoreapp3.1/ChallengeTheWedding.runtimeconfig.dev.json
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/ChallengeTheWedding/bin/Debug/netcoreapp3.1/ChallengeTheWedding.dll
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/ChallengeTheWedding/bin/Debug/netcoreapp3.1/ChallengeTheWedding.pdb
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/ChallengeTheWedding/obj/Debug/netcoreapp3.1/ChallengeTheWedding.csproj.AssemblyReference.cache
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/ChallengeTheWedding/obj/Debug/netcoreapp3.1/ChallengeTheWedding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/ChallengeTheWedding/obj/Debug/netcoreapp3.1/ChallengeTheWedding.AssemblyInfoInputs.cache
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/ChallengeTheWedding/obj/Debug/netcoreapp3.1/ChallengeTheWedding.AssemblyInfo.cs
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/ChallengeTheWedding/obj/Debug/netcoreapp3.1/ChallengeTheWedding.csproj.CoreCompileInputs.cache
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/ChallengeTheWedding/obj/Debug/netcoreapp3.1/ChallengeTheWedding.dll
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/ChallengeTheWedding/obj/Debug/netcoreapp3.1/ChallengeTheWedding.pdb
+/Users/dbelinov/RiderProjects/PB-MoreExercises-NestedLoops/ChallengeTheWedding/obj/Debug/netcoreapp3.1/ChallengeTheWedding.genruntimeconfig.cache

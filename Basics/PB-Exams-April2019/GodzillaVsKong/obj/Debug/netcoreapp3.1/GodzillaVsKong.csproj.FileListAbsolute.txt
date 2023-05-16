@@ -1,0 +1,13 @@
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/GodzillaVsKong/bin/Debug/netcoreapp3.1/GodzillaVsKong.deps.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/GodzillaVsKong/bin/Debug/netcoreapp3.1/GodzillaVsKong.runtimeconfig.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/GodzillaVsKong/bin/Debug/netcoreapp3.1/GodzillaVsKong.runtimeconfig.dev.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/GodzillaVsKong/bin/Debug/netcoreapp3.1/GodzillaVsKong.dll
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/GodzillaVsKong/bin/Debug/netcoreapp3.1/GodzillaVsKong.pdb
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/GodzillaVsKong/obj/Debug/netcoreapp3.1/GodzillaVsKong.csproj.AssemblyReference.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/GodzillaVsKong/obj/Debug/netcoreapp3.1/GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/GodzillaVsKong/obj/Debug/netcoreapp3.1/GodzillaVsKong.AssemblyInfoInputs.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/GodzillaVsKong/obj/Debug/netcoreapp3.1/GodzillaVsKong.AssemblyInfo.cs
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/GodzillaVsKong/obj/Debug/netcoreapp3.1/GodzillaVsKong.csproj.CoreCompileInputs.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/GodzillaVsKong/obj/Debug/netcoreapp3.1/GodzillaVsKong.dll
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/GodzillaVsKong/obj/Debug/netcoreapp3.1/GodzillaVsKong.pdb
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/GodzillaVsKong/obj/Debug/netcoreapp3.1/GodzillaVsKong.genruntimeconfig.cache

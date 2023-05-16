@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Login/bin/Debug/netcoreapp3.1/Login.deps.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Login/bin/Debug/netcoreapp3.1/Login.runtimeconfig.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Login/bin/Debug/netcoreapp3.1/Login.runtimeconfig.dev.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Login/bin/Debug/netcoreapp3.1/Login.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Login/bin/Debug/netcoreapp3.1/Login.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Login/obj/Debug/netcoreapp3.1/Login.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Login/obj/Debug/netcoreapp3.1/Login.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Login/obj/Debug/netcoreapp3.1/Login.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Login/obj/Debug/netcoreapp3.1/Login.AssemblyInfo.cs
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Login/obj/Debug/netcoreapp3.1/Login.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Login/obj/Debug/netcoreapp3.1/Login.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Login/obj/Debug/netcoreapp3.1/Login.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/BasicSyntaxConditionalStatementsAndLoopsExercise/Login/obj/Debug/netcoreapp3.1/Login.genruntimeconfig.cache

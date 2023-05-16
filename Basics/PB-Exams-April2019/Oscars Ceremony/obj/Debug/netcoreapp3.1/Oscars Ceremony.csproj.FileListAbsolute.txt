@@ -1,0 +1,13 @@
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/Oscars Ceremony/bin/Debug/netcoreapp3.1/Oscars Ceremony.deps.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/Oscars Ceremony/bin/Debug/netcoreapp3.1/Oscars Ceremony.runtimeconfig.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/Oscars Ceremony/bin/Debug/netcoreapp3.1/Oscars Ceremony.runtimeconfig.dev.json
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/Oscars Ceremony/bin/Debug/netcoreapp3.1/Oscars Ceremony.dll
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/Oscars Ceremony/bin/Debug/netcoreapp3.1/Oscars Ceremony.pdb
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/Oscars Ceremony/obj/Debug/netcoreapp3.1/Oscars Ceremony.csproj.AssemblyReference.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/Oscars Ceremony/obj/Debug/netcoreapp3.1/Oscars Ceremony.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/Oscars Ceremony/obj/Debug/netcoreapp3.1/Oscars Ceremony.AssemblyInfoInputs.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/Oscars Ceremony/obj/Debug/netcoreapp3.1/Oscars Ceremony.AssemblyInfo.cs
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/Oscars Ceremony/obj/Debug/netcoreapp3.1/Oscars Ceremony.csproj.CoreCompileInputs.cache
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/Oscars Ceremony/obj/Debug/netcoreapp3.1/Oscars Ceremony.dll
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/Oscars Ceremony/obj/Debug/netcoreapp3.1/Oscars Ceremony.pdb
+/Users/dbelinov/RiderProjects/PB-Exams-April2019/Oscars Ceremony/obj/Debug/netcoreapp3.1/Oscars Ceremony.genruntimeconfig.cache
