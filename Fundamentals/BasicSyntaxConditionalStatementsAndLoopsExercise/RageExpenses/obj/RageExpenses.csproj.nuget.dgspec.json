@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/RageExpenses.csproj": {}
+    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/RageExpenses.csproj": {}
   },
   "projects": {
-    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/RageExpenses.csproj": {
+    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/RageExpenses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/RageExpenses.csproj",
+        "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/RageExpenses.csproj",
         "projectName": "RageExpenses",
-        "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/RageExpenses.csproj",
+        "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/RageExpenses.csproj",
         "packagesPath": "/Users/dbelinov/.nuget/packages/",
-        "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/obj/",
+        "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/RageExpenses/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dbelinov/.nuget/NuGet/NuGet.Config"

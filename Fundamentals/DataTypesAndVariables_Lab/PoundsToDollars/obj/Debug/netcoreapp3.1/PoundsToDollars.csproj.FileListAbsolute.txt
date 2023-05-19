@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/PoundsToDollars/bin/Debug/netcoreapp3.1/PoundsToDollars.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/PoundsToDollars/bin/Debug/netcoreapp3.1/PoundsToDollars.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/PoundsToDollars/bin/Debug/netcoreapp3.1/PoundsToDollars.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/PoundsToDollars/bin/Debug/netcoreapp3.1/PoundsToDollars.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/PoundsToDollars/bin/Debug/netcoreapp3.1/PoundsToDollars.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/PoundsToDollars/obj/Debug/netcoreapp3.1/PoundsToDollars.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/PoundsToDollars/obj/Debug/netcoreapp3.1/PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/PoundsToDollars/obj/Debug/netcoreapp3.1/PoundsToDollars.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/PoundsToDollars/obj/Debug/netcoreapp3.1/PoundsToDollars.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/PoundsToDollars/obj/Debug/netcoreapp3.1/PoundsToDollars.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/PoundsToDollars/obj/Debug/netcoreapp3.1/PoundsToDollars.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/PoundsToDollars/obj/Debug/netcoreapp3.1/PoundsToDollars.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/PoundsToDollars/obj/Debug/netcoreapp3.1/PoundsToDollars.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConvertMetersToKilometers/bin/Debug/netcoreapp3.1/ConvertMetersToKilometers.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConvertMetersToKilometers/bin/Debug/netcoreapp3.1/ConvertMetersToKilometers.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConvertMetersToKilometers/bin/Debug/netcoreapp3.1/ConvertMetersToKilometers.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConvertMetersToKilometers/bin/Debug/netcoreapp3.1/ConvertMetersToKilometers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConvertMetersToKilometers/bin/Debug/netcoreapp3.1/ConvertMetersToKilometers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConvertMetersToKilometers/obj/Debug/netcoreapp3.1/ConvertMetersToKilometers.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConvertMetersToKilometers/obj/Debug/netcoreapp3.1/ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConvertMetersToKilometers/obj/Debug/netcoreapp3.1/ConvertMetersToKilometers.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConvertMetersToKilometers/obj/Debug/netcoreapp3.1/ConvertMetersToKilometers.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConvertMetersToKilometers/obj/Debug/netcoreapp3.1/ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConvertMetersToKilometers/obj/Debug/netcoreapp3.1/ConvertMetersToKilometers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConvertMetersToKilometers/obj/Debug/netcoreapp3.1/ConvertMetersToKilometers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConvertMetersToKilometers/obj/Debug/netcoreapp3.1/ConvertMetersToKilometers.genruntimeconfig.cache

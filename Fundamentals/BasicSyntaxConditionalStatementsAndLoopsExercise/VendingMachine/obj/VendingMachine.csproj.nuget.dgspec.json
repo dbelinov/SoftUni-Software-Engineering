@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/VendingMachine/VendingMachine.csproj": {}
+    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/VendingMachine/VendingMachine.csproj": {}
   },
   "projects": {
-    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/VendingMachine/VendingMachine.csproj": {
+    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/VendingMachine/VendingMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/VendingMachine/VendingMachine.csproj",
+        "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/VendingMachine/VendingMachine.csproj",
         "projectName": "VendingMachine",
-        "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/VendingMachine/VendingMachine.csproj",
+        "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/VendingMachine/VendingMachine.csproj",
         "packagesPath": "/Users/dbelinov/.nuget/packages/",
-        "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/VendingMachine/obj/",
+        "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/VendingMachine/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dbelinov/.nuget/NuGet/NuGet.Config"

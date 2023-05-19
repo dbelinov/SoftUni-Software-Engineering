@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/Ages/Ages.csproj",
+      "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/Ages/Ages.csproj",
       "projectName": "Ages",
-      "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/Ages/Ages.csproj",
+      "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/Ages/Ages.csproj",
       "packagesPath": "/Users/dbelinov/.nuget/packages/",
-      "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/Ages/obj/",
+      "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/Ages/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dbelinov/.nuget/NuGet/NuGet.Config"

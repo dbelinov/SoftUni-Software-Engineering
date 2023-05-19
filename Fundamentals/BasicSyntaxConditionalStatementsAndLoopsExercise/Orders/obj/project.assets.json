@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/Orders.csproj",
+      "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/Orders.csproj",
       "projectName": "Orders",
-      "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/Orders.csproj",
+      "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/Orders.csproj",
       "packagesPath": "/Users/dbelinov/.nuget/packages/",
-      "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/obj/",
+      "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/Orders/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dbelinov/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/TriangleOfNumbers/TriangleOfNumbers.csproj": {}
+    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/TriangleOfNumbers/TriangleOfNumbers.csproj": {}
   },
   "projects": {
-    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/TriangleOfNumbers/TriangleOfNumbers.csproj": {
+    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/TriangleOfNumbers/TriangleOfNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/TriangleOfNumbers/TriangleOfNumbers.csproj",
+        "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/TriangleOfNumbers/TriangleOfNumbers.csproj",
         "projectName": "TriangleOfNumbers",
-        "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/TriangleOfNumbers/TriangleOfNumbers.csproj",
+        "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/TriangleOfNumbers/TriangleOfNumbers.csproj",
         "packagesPath": "/Users/dbelinov/.nuget/packages/",
-        "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/TriangleOfNumbers/obj/",
+        "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/TriangleOfNumbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dbelinov/.nuget/NuGet/NuGet.Config"

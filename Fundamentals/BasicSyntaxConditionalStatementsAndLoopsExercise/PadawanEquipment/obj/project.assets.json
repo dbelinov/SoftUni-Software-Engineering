@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/PadawanEquipment/PadawanEquipment.csproj",
+      "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/PadawanEquipment/PadawanEquipment.csproj",
       "projectName": "PadawanEquipment",
-      "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/PadawanEquipment/PadawanEquipment.csproj",
+      "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/PadawanEquipment/PadawanEquipment.csproj",
       "packagesPath": "/Users/dbelinov/.nuget/packages/",
-      "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C#/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/PadawanEquipment/obj/",
+      "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsAndLoopsExercise/PadawanEquipment/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dbelinov/.nuget/NuGet/NuGet.Config"

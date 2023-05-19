@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/ExactSumOfRealNumbers.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/ExactSumOfRealNumbers.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/ExactSumOfRealNumbers.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/ExactSumOfRealNumbers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ExactSumOfRealNumbers/bin/Debug/netcoreapp3.1/ExactSumOfRealNumbers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/ExactSumOfRealNumbers.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/ExactSumOfRealNumbers.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/ExactSumOfRealNumbers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/ExactSumOfRealNumbers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ExactSumOfRealNumbers/obj/Debug/netcoreapp3.1/ExactSumOfRealNumbers.genruntimeconfig.cache
