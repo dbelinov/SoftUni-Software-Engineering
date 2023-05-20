@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/SpecialNumbers/bin/Debug/netcoreapp3.1/SpecialNumbers.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/SpecialNumbers/bin/Debug/netcoreapp3.1/SpecialNumbers.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/SpecialNumbers/bin/Debug/netcoreapp3.1/SpecialNumbers.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/SpecialNumbers/bin/Debug/netcoreapp3.1/SpecialNumbers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/SpecialNumbers/bin/Debug/netcoreapp3.1/SpecialNumbers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/SpecialNumbers/obj/Debug/netcoreapp3.1/SpecialNumbers.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/SpecialNumbers/obj/Debug/netcoreapp3.1/SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/SpecialNumbers/obj/Debug/netcoreapp3.1/SpecialNumbers.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/SpecialNumbers/obj/Debug/netcoreapp3.1/SpecialNumbers.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/SpecialNumbers/obj/Debug/netcoreapp3.1/SpecialNumbers.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/SpecialNumbers/obj/Debug/netcoreapp3.1/SpecialNumbers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/SpecialNumbers/obj/Debug/netcoreapp3.1/SpecialNumbers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/SpecialNumbers/obj/Debug/netcoreapp3.1/SpecialNumbers.genruntimeconfig.cache

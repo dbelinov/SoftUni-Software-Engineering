@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConcatNames/bin/Debug/netcoreapp3.1/ConcatNames.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConcatNames/bin/Debug/netcoreapp3.1/ConcatNames.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConcatNames/bin/Debug/netcoreapp3.1/ConcatNames.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConcatNames/bin/Debug/netcoreapp3.1/ConcatNames.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConcatNames/bin/Debug/netcoreapp3.1/ConcatNames.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConcatNames/obj/Debug/netcoreapp3.1/ConcatNames.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConcatNames/obj/Debug/netcoreapp3.1/ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConcatNames/obj/Debug/netcoreapp3.1/ConcatNames.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConcatNames/obj/Debug/netcoreapp3.1/ConcatNames.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConcatNames/obj/Debug/netcoreapp3.1/ConcatNames.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConcatNames/obj/Debug/netcoreapp3.1/ConcatNames.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConcatNames/obj/Debug/netcoreapp3.1/ConcatNames.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ConcatNames/obj/Debug/netcoreapp3.1/ConcatNames.genruntimeconfig.cache

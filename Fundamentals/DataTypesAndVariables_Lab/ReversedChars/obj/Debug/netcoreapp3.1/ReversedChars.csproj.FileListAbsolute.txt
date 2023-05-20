@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ReversedChars/bin/Debug/netcoreapp3.1/ReversedChars.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ReversedChars/bin/Debug/netcoreapp3.1/ReversedChars.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ReversedChars/bin/Debug/netcoreapp3.1/ReversedChars.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ReversedChars/bin/Debug/netcoreapp3.1/ReversedChars.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ReversedChars/bin/Debug/netcoreapp3.1/ReversedChars.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ReversedChars/obj/Debug/netcoreapp3.1/ReversedChars.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ReversedChars/obj/Debug/netcoreapp3.1/ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ReversedChars/obj/Debug/netcoreapp3.1/ReversedChars.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ReversedChars/obj/Debug/netcoreapp3.1/ReversedChars.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ReversedChars/obj/Debug/netcoreapp3.1/ReversedChars.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ReversedChars/obj/Debug/netcoreapp3.1/ReversedChars.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ReversedChars/obj/Debug/netcoreapp3.1/ReversedChars.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables_Lab/ReversedChars/obj/Debug/netcoreapp3.1/ReversedChars.genruntimeconfig.cache
