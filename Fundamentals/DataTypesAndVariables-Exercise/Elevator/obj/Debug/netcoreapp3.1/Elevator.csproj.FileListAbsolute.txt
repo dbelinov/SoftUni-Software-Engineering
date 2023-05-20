@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/Elevator/bin/Debug/netcoreapp3.1/Elevator.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/Elevator/bin/Debug/netcoreapp3.1/Elevator.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/Elevator/bin/Debug/netcoreapp3.1/Elevator.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/Elevator/bin/Debug/netcoreapp3.1/Elevator.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/Elevator/bin/Debug/netcoreapp3.1/Elevator.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/Elevator/obj/Debug/netcoreapp3.1/Elevator.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/Elevator/obj/Debug/netcoreapp3.1/Elevator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/Elevator/obj/Debug/netcoreapp3.1/Elevator.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/Elevator/obj/Debug/netcoreapp3.1/Elevator.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/Elevator/obj/Debug/netcoreapp3.1/Elevator.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/Elevator/obj/Debug/netcoreapp3.1/Elevator.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/Elevator/obj/Debug/netcoreapp3.1/Elevator.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/Elevator/obj/Debug/netcoreapp3.1/Elevator.genruntimeconfig.cache

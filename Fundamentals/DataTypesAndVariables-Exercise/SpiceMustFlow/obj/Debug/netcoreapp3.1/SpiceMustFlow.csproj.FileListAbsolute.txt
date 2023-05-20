@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SpiceMustFlow/bin/Debug/netcoreapp3.1/SpiceMustFlow.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SpiceMustFlow/bin/Debug/netcoreapp3.1/SpiceMustFlow.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SpiceMustFlow/bin/Debug/netcoreapp3.1/SpiceMustFlow.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SpiceMustFlow/bin/Debug/netcoreapp3.1/SpiceMustFlow.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SpiceMustFlow/bin/Debug/netcoreapp3.1/SpiceMustFlow.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SpiceMustFlow/obj/Debug/netcoreapp3.1/SpiceMustFlow.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SpiceMustFlow/obj/Debug/netcoreapp3.1/SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SpiceMustFlow/obj/Debug/netcoreapp3.1/SpiceMustFlow.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SpiceMustFlow/obj/Debug/netcoreapp3.1/SpiceMustFlow.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SpiceMustFlow/obj/Debug/netcoreapp3.1/SpiceMustFlow.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SpiceMustFlow/obj/Debug/netcoreapp3.1/SpiceMustFlow.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SpiceMustFlow/obj/Debug/netcoreapp3.1/SpiceMustFlow.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SpiceMustFlow/obj/Debug/netcoreapp3.1/SpiceMustFlow.genruntimeconfig.cache

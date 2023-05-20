@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumDigits/bin/Debug/netcoreapp3.1/SumDigits.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumDigits/bin/Debug/netcoreapp3.1/SumDigits.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumDigits/bin/Debug/netcoreapp3.1/SumDigits.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumDigits/bin/Debug/netcoreapp3.1/SumDigits.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumDigits/bin/Debug/netcoreapp3.1/SumDigits.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumDigits/obj/Debug/netcoreapp3.1/SumDigits.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumDigits/obj/Debug/netcoreapp3.1/SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumDigits/obj/Debug/netcoreapp3.1/SumDigits.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumDigits/obj/Debug/netcoreapp3.1/SumDigits.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumDigits/obj/Debug/netcoreapp3.1/SumDigits.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumDigits/obj/Debug/netcoreapp3.1/SumDigits.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumDigits/obj/Debug/netcoreapp3.1/SumDigits.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumDigits/obj/Debug/netcoreapp3.1/SumDigits.genruntimeconfig.cache

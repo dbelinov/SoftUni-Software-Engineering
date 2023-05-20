@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/WaterOverflow/bin/Debug/netcoreapp3.1/WaterOverflow.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/WaterOverflow/bin/Debug/netcoreapp3.1/WaterOverflow.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/WaterOverflow/bin/Debug/netcoreapp3.1/WaterOverflow.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/WaterOverflow/bin/Debug/netcoreapp3.1/WaterOverflow.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/WaterOverflow/bin/Debug/netcoreapp3.1/WaterOverflow.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/WaterOverflow/obj/Debug/netcoreapp3.1/WaterOverflow.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/WaterOverflow/obj/Debug/netcoreapp3.1/WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/WaterOverflow/obj/Debug/netcoreapp3.1/WaterOverflow.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/WaterOverflow/obj/Debug/netcoreapp3.1/WaterOverflow.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/WaterOverflow/obj/Debug/netcoreapp3.1/WaterOverflow.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/WaterOverflow/obj/Debug/netcoreapp3.1/WaterOverflow.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/WaterOverflow/obj/Debug/netcoreapp3.1/WaterOverflow.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/WaterOverflow/obj/Debug/netcoreapp3.1/WaterOverflow.genruntimeconfig.cache

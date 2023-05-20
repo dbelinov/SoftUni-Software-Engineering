@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/IntegerOperations/bin/Debug/netcoreapp3.1/IntegerOperations.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/IntegerOperations/bin/Debug/netcoreapp3.1/IntegerOperations.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/IntegerOperations/bin/Debug/netcoreapp3.1/IntegerOperations.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/IntegerOperations/bin/Debug/netcoreapp3.1/IntegerOperations.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/IntegerOperations/bin/Debug/netcoreapp3.1/IntegerOperations.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/IntegerOperations/obj/Debug/netcoreapp3.1/IntegerOperations.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/IntegerOperations/obj/Debug/netcoreapp3.1/IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/IntegerOperations/obj/Debug/netcoreapp3.1/IntegerOperations.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/IntegerOperations/obj/Debug/netcoreapp3.1/IntegerOperations.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/IntegerOperations/obj/Debug/netcoreapp3.1/IntegerOperations.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/IntegerOperations/obj/Debug/netcoreapp3.1/IntegerOperations.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/IntegerOperations/obj/Debug/netcoreapp3.1/IntegerOperations.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/IntegerOperations/obj/Debug/netcoreapp3.1/IntegerOperations.genruntimeconfig.cache

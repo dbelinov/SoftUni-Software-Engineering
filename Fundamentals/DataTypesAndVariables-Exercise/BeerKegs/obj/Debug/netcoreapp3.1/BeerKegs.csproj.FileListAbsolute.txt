@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/BeerKegs/bin/Debug/netcoreapp3.1/BeerKegs.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/BeerKegs/bin/Debug/netcoreapp3.1/BeerKegs.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/BeerKegs/bin/Debug/netcoreapp3.1/BeerKegs.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/BeerKegs/bin/Debug/netcoreapp3.1/BeerKegs.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/BeerKegs/bin/Debug/netcoreapp3.1/BeerKegs.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/BeerKegs/obj/Debug/netcoreapp3.1/BeerKegs.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/BeerKegs/obj/Debug/netcoreapp3.1/BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/BeerKegs/obj/Debug/netcoreapp3.1/BeerKegs.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/BeerKegs/obj/Debug/netcoreapp3.1/BeerKegs.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/BeerKegs/obj/Debug/netcoreapp3.1/BeerKegs.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/BeerKegs/obj/Debug/netcoreapp3.1/BeerKegs.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/BeerKegs/obj/Debug/netcoreapp3.1/BeerKegs.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/BeerKegs/obj/Debug/netcoreapp3.1/BeerKegs.genruntimeconfig.cache

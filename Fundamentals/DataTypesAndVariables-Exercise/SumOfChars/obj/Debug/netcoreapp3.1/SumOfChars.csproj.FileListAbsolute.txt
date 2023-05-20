@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumOfChars/bin/Debug/netcoreapp3.1/SumOfChars.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumOfChars/bin/Debug/netcoreapp3.1/SumOfChars.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumOfChars/bin/Debug/netcoreapp3.1/SumOfChars.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumOfChars/bin/Debug/netcoreapp3.1/SumOfChars.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumOfChars/bin/Debug/netcoreapp3.1/SumOfChars.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumOfChars/obj/Debug/netcoreapp3.1/SumOfChars.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumOfChars/obj/Debug/netcoreapp3.1/SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumOfChars/obj/Debug/netcoreapp3.1/SumOfChars.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumOfChars/obj/Debug/netcoreapp3.1/SumOfChars.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumOfChars/obj/Debug/netcoreapp3.1/SumOfChars.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumOfChars/obj/Debug/netcoreapp3.1/SumOfChars.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumOfChars/obj/Debug/netcoreapp3.1/SumOfChars.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/SumOfChars/obj/Debug/netcoreapp3.1/SumOfChars.genruntimeconfig.cache

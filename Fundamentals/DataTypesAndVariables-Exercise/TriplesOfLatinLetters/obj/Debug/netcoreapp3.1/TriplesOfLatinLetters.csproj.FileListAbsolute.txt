@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/TriplesOfLatinLetters/bin/Debug/netcoreapp3.1/TriplesOfLatinLetters.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/TriplesOfLatinLetters/bin/Debug/netcoreapp3.1/TriplesOfLatinLetters.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/TriplesOfLatinLetters/bin/Debug/netcoreapp3.1/TriplesOfLatinLetters.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/TriplesOfLatinLetters/bin/Debug/netcoreapp3.1/TriplesOfLatinLetters.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/TriplesOfLatinLetters/bin/Debug/netcoreapp3.1/TriplesOfLatinLetters.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/TriplesOfLatinLetters/obj/Debug/netcoreapp3.1/TriplesOfLatinLetters.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/TriplesOfLatinLetters/obj/Debug/netcoreapp3.1/TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/TriplesOfLatinLetters/obj/Debug/netcoreapp3.1/TriplesOfLatinLetters.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/TriplesOfLatinLetters/obj/Debug/netcoreapp3.1/TriplesOfLatinLetters.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/TriplesOfLatinLetters/obj/Debug/netcoreapp3.1/TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/TriplesOfLatinLetters/obj/Debug/netcoreapp3.1/TriplesOfLatinLetters.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/TriplesOfLatinLetters/obj/Debug/netcoreapp3.1/TriplesOfLatinLetters.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/DataTypesAndVariables-Exercise/TriplesOfLatinLetters/obj/Debug/netcoreapp3.1/TriplesOfLatinLetters.genruntimeconfig.cache
