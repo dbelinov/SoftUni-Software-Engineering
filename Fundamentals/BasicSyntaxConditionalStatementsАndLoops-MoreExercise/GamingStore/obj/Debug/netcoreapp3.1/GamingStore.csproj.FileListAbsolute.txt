@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/GamingStore/bin/Debug/netcoreapp3.1/GamingStore.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/GamingStore/bin/Debug/netcoreapp3.1/GamingStore.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/GamingStore/bin/Debug/netcoreapp3.1/GamingStore.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/GamingStore/bin/Debug/netcoreapp3.1/GamingStore.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/GamingStore/bin/Debug/netcoreapp3.1/GamingStore.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/GamingStore/obj/Debug/netcoreapp3.1/GamingStore.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/GamingStore/obj/Debug/netcoreapp3.1/GamingStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/GamingStore/obj/Debug/netcoreapp3.1/GamingStore.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/GamingStore/obj/Debug/netcoreapp3.1/GamingStore.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/GamingStore/obj/Debug/netcoreapp3.1/GamingStore.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/GamingStore/obj/Debug/netcoreapp3.1/GamingStore.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/GamingStore/obj/Debug/netcoreapp3.1/GamingStore.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/GamingStore/obj/Debug/netcoreapp3.1/GamingStore.genruntimeconfig.cache

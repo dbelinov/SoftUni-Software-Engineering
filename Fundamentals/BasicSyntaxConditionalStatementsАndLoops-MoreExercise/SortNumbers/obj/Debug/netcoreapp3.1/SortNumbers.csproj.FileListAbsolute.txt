@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/SortNumbers/bin/Debug/netcoreapp3.1/SortNumbers.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/SortNumbers/bin/Debug/netcoreapp3.1/SortNumbers.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/SortNumbers/bin/Debug/netcoreapp3.1/SortNumbers.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/SortNumbers/bin/Debug/netcoreapp3.1/SortNumbers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/SortNumbers/bin/Debug/netcoreapp3.1/SortNumbers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/SortNumbers/obj/Debug/netcoreapp3.1/SortNumbers.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/SortNumbers/obj/Debug/netcoreapp3.1/SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/SortNumbers/obj/Debug/netcoreapp3.1/SortNumbers.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/SortNumbers/obj/Debug/netcoreapp3.1/SortNumbers.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/SortNumbers/obj/Debug/netcoreapp3.1/SortNumbers.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/SortNumbers/obj/Debug/netcoreapp3.1/SortNumbers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/SortNumbers/obj/Debug/netcoreapp3.1/SortNumbers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/BasicSyntaxConditionalStatementsАndLoops-MoreExercise/SortNumbers/obj/Debug/netcoreapp3.1/SortNumbers.genruntimeconfig.cache
