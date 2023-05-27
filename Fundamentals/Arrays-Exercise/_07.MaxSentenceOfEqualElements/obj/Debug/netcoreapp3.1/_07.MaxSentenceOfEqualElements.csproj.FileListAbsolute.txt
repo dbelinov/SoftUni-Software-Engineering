@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_07.MaxSentenceOfEqualElements/bin/Debug/netcoreapp3.1/_07.MaxSentenceOfEqualElements.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_07.MaxSentenceOfEqualElements/bin/Debug/netcoreapp3.1/_07.MaxSentenceOfEqualElements.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_07.MaxSentenceOfEqualElements/bin/Debug/netcoreapp3.1/_07.MaxSentenceOfEqualElements.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_07.MaxSentenceOfEqualElements/bin/Debug/netcoreapp3.1/_07.MaxSentenceOfEqualElements.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_07.MaxSentenceOfEqualElements/bin/Debug/netcoreapp3.1/_07.MaxSentenceOfEqualElements.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_07.MaxSentenceOfEqualElements/obj/Debug/netcoreapp3.1/_07.MaxSentenceOfEqualElements.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_07.MaxSentenceOfEqualElements/obj/Debug/netcoreapp3.1/_07.MaxSentenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_07.MaxSentenceOfEqualElements/obj/Debug/netcoreapp3.1/_07.MaxSentenceOfEqualElements.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_07.MaxSentenceOfEqualElements/obj/Debug/netcoreapp3.1/_07.MaxSentenceOfEqualElements.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_07.MaxSentenceOfEqualElements/obj/Debug/netcoreapp3.1/_07.MaxSentenceOfEqualElements.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_07.MaxSentenceOfEqualElements/obj/Debug/netcoreapp3.1/_07.MaxSentenceOfEqualElements.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_07.MaxSentenceOfEqualElements/obj/Debug/netcoreapp3.1/_07.MaxSentenceOfEqualElements.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_07.MaxSentenceOfEqualElements/obj/Debug/netcoreapp3.1/_07.MaxSentenceOfEqualElements.genruntimeconfig.cache

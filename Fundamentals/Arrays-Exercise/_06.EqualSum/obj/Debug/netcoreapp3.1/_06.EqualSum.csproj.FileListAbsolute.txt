@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_06.EqualSum/bin/Debug/netcoreapp3.1/_06.EqualSum.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_06.EqualSum/bin/Debug/netcoreapp3.1/_06.EqualSum.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_06.EqualSum/bin/Debug/netcoreapp3.1/_06.EqualSum.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_06.EqualSum/bin/Debug/netcoreapp3.1/_06.EqualSum.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_06.EqualSum/bin/Debug/netcoreapp3.1/_06.EqualSum.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_06.EqualSum/obj/Debug/netcoreapp3.1/_06.EqualSum.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_06.EqualSum/obj/Debug/netcoreapp3.1/_06.EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_06.EqualSum/obj/Debug/netcoreapp3.1/_06.EqualSum.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_06.EqualSum/obj/Debug/netcoreapp3.1/_06.EqualSum.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_06.EqualSum/obj/Debug/netcoreapp3.1/_06.EqualSum.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_06.EqualSum/obj/Debug/netcoreapp3.1/_06.EqualSum.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_06.EqualSum/obj/Debug/netcoreapp3.1/_06.EqualSum.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_06.EqualSum/obj/Debug/netcoreapp3.1/_06.EqualSum.genruntimeconfig.cache
