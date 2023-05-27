@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01.Train", "_01.Train\_01.Train.csproj", "{23A8C362-DA3A-4AE5-BD92-2DE955774975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02.CommonElements", "_02.CommonElements\_02.CommonElements.csproj", "{A8BBE4CA-C869-4CBA-B8CF-FC522D363006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03.Zig-ZagArrays", "_03.Zig-ZagArrays\_03.Zig-ZagArrays.csproj", "{9C086973-51F0-4FE3-9BFD-38B9FCE027F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04.ArrayRotation", "_04.ArrayRotation\_04.ArrayRotation.csproj", "{17090333-07BD-4B83-BEEB-95C60E64345D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A8C362-DA3A-4AE5-BD92-2DE955774975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A8C362-DA3A-4AE5-BD92-2DE955774975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A8C362-DA3A-4AE5-BD92-2DE955774975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A8C362-DA3A-4AE5-BD92-2DE955774975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BBE4CA-C869-4CBA-B8CF-FC522D363006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BBE4CA-C869-4CBA-B8CF-FC522D363006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BBE4CA-C869-4CBA-B8CF-FC522D363006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BBE4CA-C869-4CBA-B8CF-FC522D363006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C086973-51F0-4FE3-9BFD-38B9FCE027F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C086973-51F0-4FE3-9BFD-38B9FCE027F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C086973-51F0-4FE3-9BFD-38B9FCE027F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C086973-51F0-4FE3-9BFD-38B9FCE027F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17090333-07BD-4B83-BEEB-95C60E64345D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17090333-07BD-4B83-BEEB-95C60E64345D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17090333-07BD-4B83-BEEB-95C60E64345D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17090333-07BD-4B83-BEEB-95C60E64345D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

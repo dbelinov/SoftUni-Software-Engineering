@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EvenAndOddSubstraction/bin/Debug/netcoreapp3.1/EvenAndOddSubstraction.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EvenAndOddSubstraction/bin/Debug/netcoreapp3.1/EvenAndOddSubstraction.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EvenAndOddSubstraction/bin/Debug/netcoreapp3.1/EvenAndOddSubstraction.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EvenAndOddSubstraction/bin/Debug/netcoreapp3.1/EvenAndOddSubstraction.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EvenAndOddSubstraction/bin/Debug/netcoreapp3.1/EvenAndOddSubstraction.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EvenAndOddSubstraction/obj/Debug/netcoreapp3.1/EvenAndOddSubstraction.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EvenAndOddSubstraction/obj/Debug/netcoreapp3.1/EvenAndOddSubstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EvenAndOddSubstraction/obj/Debug/netcoreapp3.1/EvenAndOddSubstraction.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EvenAndOddSubstraction/obj/Debug/netcoreapp3.1/EvenAndOddSubstraction.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EvenAndOddSubstraction/obj/Debug/netcoreapp3.1/EvenAndOddSubstraction.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EvenAndOddSubstraction/obj/Debug/netcoreapp3.1/EvenAndOddSubstraction.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EvenAndOddSubstraction/obj/Debug/netcoreapp3.1/EvenAndOddSubstraction.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EvenAndOddSubstraction/obj/Debug/netcoreapp3.1/EvenAndOddSubstraction.genruntimeconfig.cache

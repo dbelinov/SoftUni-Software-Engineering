@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/CondenseArrayToNumber/bin/Debug/netcoreapp3.1/CondenseArrayToNumber.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/CondenseArrayToNumber/bin/Debug/netcoreapp3.1/CondenseArrayToNumber.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/CondenseArrayToNumber/bin/Debug/netcoreapp3.1/CondenseArrayToNumber.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/CondenseArrayToNumber/bin/Debug/netcoreapp3.1/CondenseArrayToNumber.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/CondenseArrayToNumber/bin/Debug/netcoreapp3.1/CondenseArrayToNumber.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/CondenseArrayToNumber/obj/Debug/netcoreapp3.1/CondenseArrayToNumber.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/CondenseArrayToNumber/obj/Debug/netcoreapp3.1/CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/CondenseArrayToNumber/obj/Debug/netcoreapp3.1/CondenseArrayToNumber.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/CondenseArrayToNumber/obj/Debug/netcoreapp3.1/CondenseArrayToNumber.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/CondenseArrayToNumber/obj/Debug/netcoreapp3.1/CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/CondenseArrayToNumber/obj/Debug/netcoreapp3.1/CondenseArrayToNumber.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/CondenseArrayToNumber/obj/Debug/netcoreapp3.1/CondenseArrayToNumber.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/CondenseArrayToNumber/obj/Debug/netcoreapp3.1/CondenseArrayToNumber.genruntimeconfig.cache

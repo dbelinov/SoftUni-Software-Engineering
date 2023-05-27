@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EqualArrays/bin/Debug/netcoreapp3.1/EqualArrays.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EqualArrays/bin/Debug/netcoreapp3.1/EqualArrays.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EqualArrays/bin/Debug/netcoreapp3.1/EqualArrays.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EqualArrays/bin/Debug/netcoreapp3.1/EqualArrays.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EqualArrays/bin/Debug/netcoreapp3.1/EqualArrays.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EqualArrays/obj/Debug/netcoreapp3.1/EqualArrays.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EqualArrays/obj/Debug/netcoreapp3.1/EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EqualArrays/obj/Debug/netcoreapp3.1/EqualArrays.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EqualArrays/obj/Debug/netcoreapp3.1/EqualArrays.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EqualArrays/obj/Debug/netcoreapp3.1/EqualArrays.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EqualArrays/obj/Debug/netcoreapp3.1/EqualArrays.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EqualArrays/obj/Debug/netcoreapp3.1/EqualArrays.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/EqualArrays/obj/Debug/netcoreapp3.1/EqualArrays.genruntimeconfig.cache

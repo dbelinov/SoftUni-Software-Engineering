@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_03.Zig-ZagArrays/bin/Debug/netcoreapp3.1/_03.Zig-ZagArrays.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_03.Zig-ZagArrays/bin/Debug/netcoreapp3.1/_03.Zig-ZagArrays.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_03.Zig-ZagArrays/bin/Debug/netcoreapp3.1/_03.Zig-ZagArrays.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_03.Zig-ZagArrays/bin/Debug/netcoreapp3.1/_03.Zig-ZagArrays.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_03.Zig-ZagArrays/bin/Debug/netcoreapp3.1/_03.Zig-ZagArrays.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_03.Zig-ZagArrays/obj/Debug/netcoreapp3.1/_03.Zig-ZagArrays.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_03.Zig-ZagArrays/obj/Debug/netcoreapp3.1/_03.Zig-ZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_03.Zig-ZagArrays/obj/Debug/netcoreapp3.1/_03.Zig-ZagArrays.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_03.Zig-ZagArrays/obj/Debug/netcoreapp3.1/_03.Zig-ZagArrays.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_03.Zig-ZagArrays/obj/Debug/netcoreapp3.1/_03.Zig-ZagArrays.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_03.Zig-ZagArrays/obj/Debug/netcoreapp3.1/_03.Zig-ZagArrays.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_03.Zig-ZagArrays/obj/Debug/netcoreapp3.1/_03.Zig-ZagArrays.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Exercise/_03.Zig-ZagArrays/obj/Debug/netcoreapp3.1/_03.Zig-ZagArrays.genruntimeconfig.cache
