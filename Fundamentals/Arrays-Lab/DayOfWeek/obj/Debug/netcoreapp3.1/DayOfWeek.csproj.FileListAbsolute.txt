@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/DayOfWeek/bin/Debug/netcoreapp3.1/DayOfWeek.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/DayOfWeek/bin/Debug/netcoreapp3.1/DayOfWeek.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/DayOfWeek/bin/Debug/netcoreapp3.1/DayOfWeek.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/DayOfWeek/bin/Debug/netcoreapp3.1/DayOfWeek.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/DayOfWeek/bin/Debug/netcoreapp3.1/DayOfWeek.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/DayOfWeek/obj/Debug/netcoreapp3.1/DayOfWeek.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/DayOfWeek/obj/Debug/netcoreapp3.1/DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/DayOfWeek/obj/Debug/netcoreapp3.1/DayOfWeek.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/DayOfWeek/obj/Debug/netcoreapp3.1/DayOfWeek.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/DayOfWeek/obj/Debug/netcoreapp3.1/DayOfWeek.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/DayOfWeek/obj/Debug/netcoreapp3.1/DayOfWeek.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/DayOfWeek/obj/Debug/netcoreapp3.1/DayOfWeek.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/DayOfWeek/obj/Debug/netcoreapp3.1/DayOfWeek.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/PrintNumbersInReverseOrder/bin/Debug/netcoreapp3.1/PrintNumbersInReverseOrder.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/PrintNumbersInReverseOrder/bin/Debug/netcoreapp3.1/PrintNumbersInReverseOrder.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/PrintNumbersInReverseOrder/bin/Debug/netcoreapp3.1/PrintNumbersInReverseOrder.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/PrintNumbersInReverseOrder/bin/Debug/netcoreapp3.1/PrintNumbersInReverseOrder.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/PrintNumbersInReverseOrder/bin/Debug/netcoreapp3.1/PrintNumbersInReverseOrder.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/PrintNumbersInReverseOrder.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/PrintNumbersInReverseOrder.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/PrintNumbersInReverseOrder.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Arrays-Lab/PrintNumbersInReverseOrder/obj/Debug/netcoreapp3.1/PrintNumbersInReverseOrder.genruntimeconfig.cache
