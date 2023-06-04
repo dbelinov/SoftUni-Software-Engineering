@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_07.MaxSentenceOfEqualEleme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_08.MagicSum", "_08.MagicSum\_08.MagicSum.csproj", "{62E3F8DB-EC8B-4DC6-8C91-DE694851E584}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_09.KaminoFactory", "_09.KaminoFactory\_09.KaminoFactory.csproj", "{78D5884C-2C76-4A7C-882E-57D98F6A84EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{62E3F8DB-EC8B-4DC6-8C91-DE694851E584}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62E3F8DB-EC8B-4DC6-8C91-DE694851E584}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62E3F8DB-EC8B-4DC6-8C91-DE694851E584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D5884C-2C76-4A7C-882E-57D98F6A84EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D5884C-2C76-4A7C-882E-57D98F6A84EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D5884C-2C76-4A7C-882E-57D98F6A84EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D5884C-2C76-4A7C-882E-57D98F6A84EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
