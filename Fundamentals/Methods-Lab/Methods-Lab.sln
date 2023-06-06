@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_08.MathPower", "_08.MathPo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_09.GreaterOfTwoValues", "_09.GreaterOfTwoValues\_09.GreaterOfTwoValues.csproj", "{1D06145C-9EDF-4A82-B118-2A8E300C6B12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyEvensByOdds", "MultiplyEvensByOdds\MultiplyEvensByOdds.csproj", "{771C5C0A-9A08-44FE-A94B-1CA54BEC02D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11.MathOperations", "_11.MathOperations\_11.MathOperations.csproj", "{B191FF58-A3DB-43F5-B0CF-FA5F61044615}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +64,13 @@ Global
 		{1D06145C-9EDF-4A82-B118-2A8E300C6B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D06145C-9EDF-4A82-B118-2A8E300C6B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D06145C-9EDF-4A82-B118-2A8E300C6B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771C5C0A-9A08-44FE-A94B-1CA54BEC02D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771C5C0A-9A08-44FE-A94B-1CA54BEC02D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771C5C0A-9A08-44FE-A94B-1CA54BEC02D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771C5C0A-9A08-44FE-A94B-1CA54BEC02D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B191FF58-A3DB-43F5-B0CF-FA5F61044615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B191FF58-A3DB-43F5-B0CF-FA5F61044615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B191FF58-A3DB-43F5-B0CF-FA5F61044615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B191FF58-A3DB-43F5-B0CF-FA5F61044615}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01.SmallestOfThreeNumbers", "_01.SmallestOfThreeNumbers\_01.SmallestOfThreeNumbers.csproj", "{759538C5-11DB-44B9-9C75-06096BEC4662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02.VowelsCount", "_02.VowelsCount\_02.VowelsCount.csproj", "{0E316E17-8320-48FC-BCAB-C54684260693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03.CharactersInRange", "_03.CharactersInRange\_03.CharactersInRange.csproj", "{B88CD158-10D7-4044-ADB5-174390D8269E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04.PasswordValidator", "_04.PasswordValidator\_04.PasswordValidator.csproj", "{B3E1C163-5D6F-4346-8992-250D1CBAA0FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{759538C5-11DB-44B9-9C75-06096BEC4662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759538C5-11DB-44B9-9C75-06096BEC4662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759538C5-11DB-44B9-9C75-06096BEC4662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759538C5-11DB-44B9-9C75-06096BEC4662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E316E17-8320-48FC-BCAB-C54684260693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E316E17-8320-48FC-BCAB-C54684260693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E316E17-8320-48FC-BCAB-C54684260693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E316E17-8320-48FC-BCAB-C54684260693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88CD158-10D7-4044-ADB5-174390D8269E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88CD158-10D7-4044-ADB5-174390D8269E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88CD158-10D7-4044-ADB5-174390D8269E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88CD158-10D7-4044-ADB5-174390D8269E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E1C163-5D6F-4346-8992-250D1CBAA0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E1C163-5D6F-4346-8992-250D1CBAA0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E1C163-5D6F-4346-8992-250D1CBAA0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E1C163-5D6F-4346-8992-250D1CBAA0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
