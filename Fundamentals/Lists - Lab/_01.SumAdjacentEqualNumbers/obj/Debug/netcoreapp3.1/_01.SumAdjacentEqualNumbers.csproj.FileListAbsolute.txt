@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/_01.SumAdjacentEqualNumbers.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/_01.SumAdjacentEqualNumbers.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/_01.SumAdjacentEqualNumbers.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/_01.SumAdjacentEqualNumbers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_01.SumAdjacentEqualNumbers/bin/Debug/netcoreapp3.1/_01.SumAdjacentEqualNumbers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/_01.SumAdjacentEqualNumbers.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/_01.SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/_01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/_01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/_01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/_01.SumAdjacentEqualNumbers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/_01.SumAdjacentEqualNumbers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_01.SumAdjacentEqualNumbers/obj/Debug/netcoreapp3.1/_01.SumAdjacentEqualNumbers.genruntimeconfig.cache

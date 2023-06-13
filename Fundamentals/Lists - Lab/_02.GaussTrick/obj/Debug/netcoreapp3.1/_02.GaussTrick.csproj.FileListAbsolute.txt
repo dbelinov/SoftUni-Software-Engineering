@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_02.GaussTrick/bin/Debug/netcoreapp3.1/_02.GaussTrick.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_02.GaussTrick/bin/Debug/netcoreapp3.1/_02.GaussTrick.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_02.GaussTrick/bin/Debug/netcoreapp3.1/_02.GaussTrick.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_02.GaussTrick/bin/Debug/netcoreapp3.1/_02.GaussTrick.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_02.GaussTrick/bin/Debug/netcoreapp3.1/_02.GaussTrick.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_02.GaussTrick/obj/Debug/netcoreapp3.1/_02.GaussTrick.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_02.GaussTrick/obj/Debug/netcoreapp3.1/_02.GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_02.GaussTrick/obj/Debug/netcoreapp3.1/_02.GaussTrick.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_02.GaussTrick/obj/Debug/netcoreapp3.1/_02.GaussTrick.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_02.GaussTrick/obj/Debug/netcoreapp3.1/_02.GaussTrick.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_02.GaussTrick/obj/Debug/netcoreapp3.1/_02.GaussTrick.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_02.GaussTrick/obj/Debug/netcoreapp3.1/_02.GaussTrick.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_02.GaussTrick/obj/Debug/netcoreapp3.1/_02.GaussTrick.genruntimeconfig.cache

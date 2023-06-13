@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_06.ListManipulationBasics/bin/Debug/netcoreapp3.1/_06.ListManipulationBasics.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_06.ListManipulationBasics/bin/Debug/netcoreapp3.1/_06.ListManipulationBasics.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_06.ListManipulationBasics/bin/Debug/netcoreapp3.1/_06.ListManipulationBasics.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_06.ListManipulationBasics/bin/Debug/netcoreapp3.1/_06.ListManipulationBasics.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_06.ListManipulationBasics/bin/Debug/netcoreapp3.1/_06.ListManipulationBasics.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_06.ListManipulationBasics/obj/Debug/netcoreapp3.1/_06.ListManipulationBasics.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_06.ListManipulationBasics/obj/Debug/netcoreapp3.1/_06.ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_06.ListManipulationBasics/obj/Debug/netcoreapp3.1/_06.ListManipulationBasics.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_06.ListManipulationBasics/obj/Debug/netcoreapp3.1/_06.ListManipulationBasics.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_06.ListManipulationBasics/obj/Debug/netcoreapp3.1/_06.ListManipulationBasics.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_06.ListManipulationBasics/obj/Debug/netcoreapp3.1/_06.ListManipulationBasics.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_06.ListManipulationBasics/obj/Debug/netcoreapp3.1/_06.ListManipulationBasics.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_06.ListManipulationBasics/obj/Debug/netcoreapp3.1/_06.ListManipulationBasics.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_03.MergingLists/bin/Debug/netcoreapp3.1/_03.MergingLists.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_03.MergingLists/bin/Debug/netcoreapp3.1/_03.MergingLists.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_03.MergingLists/bin/Debug/netcoreapp3.1/_03.MergingLists.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_03.MergingLists/bin/Debug/netcoreapp3.1/_03.MergingLists.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_03.MergingLists/bin/Debug/netcoreapp3.1/_03.MergingLists.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_03.MergingLists/obj/Debug/netcoreapp3.1/_03.MergingLists.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_03.MergingLists/obj/Debug/netcoreapp3.1/_03.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_03.MergingLists/obj/Debug/netcoreapp3.1/_03.MergingLists.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_03.MergingLists/obj/Debug/netcoreapp3.1/_03.MergingLists.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_03.MergingLists/obj/Debug/netcoreapp3.1/_03.MergingLists.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_03.MergingLists/obj/Debug/netcoreapp3.1/_03.MergingLists.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_03.MergingLists/obj/Debug/netcoreapp3.1/_03.MergingLists.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_03.MergingLists/obj/Debug/netcoreapp3.1/_03.MergingLists.genruntimeconfig.cache

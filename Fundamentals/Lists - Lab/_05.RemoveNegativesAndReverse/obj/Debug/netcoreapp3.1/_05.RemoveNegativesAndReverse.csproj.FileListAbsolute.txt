@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_05.RemoveNegativesAndReverse/bin/Debug/netcoreapp3.1/_05.RemoveNegativesAndReverse.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_05.RemoveNegativesAndReverse/bin/Debug/netcoreapp3.1/_05.RemoveNegativesAndReverse.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_05.RemoveNegativesAndReverse/bin/Debug/netcoreapp3.1/_05.RemoveNegativesAndReverse.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_05.RemoveNegativesAndReverse/bin/Debug/netcoreapp3.1/_05.RemoveNegativesAndReverse.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_05.RemoveNegativesAndReverse/bin/Debug/netcoreapp3.1/_05.RemoveNegativesAndReverse.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/_05.RemoveNegativesAndReverse.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/_05.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/_05.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/_05.RemoveNegativesAndReverse.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/_05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/_05.RemoveNegativesAndReverse.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/_05.RemoveNegativesAndReverse.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Lists - Lab/_05.RemoveNegativesAndReverse/obj/Debug/netcoreapp3.1/_05.RemoveNegativesAndReverse.genruntimeconfig.cache
