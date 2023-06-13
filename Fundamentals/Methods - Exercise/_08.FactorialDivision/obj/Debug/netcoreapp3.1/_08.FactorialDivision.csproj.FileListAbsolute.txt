@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_08.FactorialDivision/bin/Debug/netcoreapp3.1/_08.FactorialDivision.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_08.FactorialDivision/bin/Debug/netcoreapp3.1/_08.FactorialDivision.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_08.FactorialDivision/bin/Debug/netcoreapp3.1/_08.FactorialDivision.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_08.FactorialDivision/bin/Debug/netcoreapp3.1/_08.FactorialDivision.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_08.FactorialDivision/bin/Debug/netcoreapp3.1/_08.FactorialDivision.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_08.FactorialDivision/obj/Debug/netcoreapp3.1/_08.FactorialDivision.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_08.FactorialDivision/obj/Debug/netcoreapp3.1/_08.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_08.FactorialDivision/obj/Debug/netcoreapp3.1/_08.FactorialDivision.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_08.FactorialDivision/obj/Debug/netcoreapp3.1/_08.FactorialDivision.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_08.FactorialDivision/obj/Debug/netcoreapp3.1/_08.FactorialDivision.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_08.FactorialDivision/obj/Debug/netcoreapp3.1/_08.FactorialDivision.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_08.FactorialDivision/obj/Debug/netcoreapp3.1/_08.FactorialDivision.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_08.FactorialDivision/obj/Debug/netcoreapp3.1/_08.FactorialDivision.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_09.PalindromeIntegers/bin/Debug/netcoreapp3.1/_09.PalindromeIntegers.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_09.PalindromeIntegers/bin/Debug/netcoreapp3.1/_09.PalindromeIntegers.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_09.PalindromeIntegers/bin/Debug/netcoreapp3.1/_09.PalindromeIntegers.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_09.PalindromeIntegers/bin/Debug/netcoreapp3.1/_09.PalindromeIntegers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_09.PalindromeIntegers/bin/Debug/netcoreapp3.1/_09.PalindromeIntegers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_09.PalindromeIntegers/obj/Debug/netcoreapp3.1/_09.PalindromeIntegers.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_09.PalindromeIntegers/obj/Debug/netcoreapp3.1/_09.PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_09.PalindromeIntegers/obj/Debug/netcoreapp3.1/_09.PalindromeIntegers.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_09.PalindromeIntegers/obj/Debug/netcoreapp3.1/_09.PalindromeIntegers.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_09.PalindromeIntegers/obj/Debug/netcoreapp3.1/_09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_09.PalindromeIntegers/obj/Debug/netcoreapp3.1/_09.PalindromeIntegers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_09.PalindromeIntegers/obj/Debug/netcoreapp3.1/_09.PalindromeIntegers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_09.PalindromeIntegers/obj/Debug/netcoreapp3.1/_09.PalindromeIntegers.genruntimeconfig.cache

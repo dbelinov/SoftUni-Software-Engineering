@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_06.MiddleCharacters/bin/Debug/netcoreapp3.1/_06.MiddleCharacters.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_06.MiddleCharacters/bin/Debug/netcoreapp3.1/_06.MiddleCharacters.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_06.MiddleCharacters/bin/Debug/netcoreapp3.1/_06.MiddleCharacters.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_06.MiddleCharacters/bin/Debug/netcoreapp3.1/_06.MiddleCharacters.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_06.MiddleCharacters/bin/Debug/netcoreapp3.1/_06.MiddleCharacters.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_06.MiddleCharacters/obj/Debug/netcoreapp3.1/_06.MiddleCharacters.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_06.MiddleCharacters/obj/Debug/netcoreapp3.1/_06.MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_06.MiddleCharacters/obj/Debug/netcoreapp3.1/_06.MiddleCharacters.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_06.MiddleCharacters/obj/Debug/netcoreapp3.1/_06.MiddleCharacters.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_06.MiddleCharacters/obj/Debug/netcoreapp3.1/_06.MiddleCharacters.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_06.MiddleCharacters/obj/Debug/netcoreapp3.1/_06.MiddleCharacters.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_06.MiddleCharacters/obj/Debug/netcoreapp3.1/_06.MiddleCharacters.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_06.MiddleCharacters/obj/Debug/netcoreapp3.1/_06.MiddleCharacters.genruntimeconfig.cache

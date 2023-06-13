@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_10.TopNumber/bin/Debug/netcoreapp3.1/_10.TopNumber.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_10.TopNumber/bin/Debug/netcoreapp3.1/_10.TopNumber.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_10.TopNumber/bin/Debug/netcoreapp3.1/_10.TopNumber.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_10.TopNumber/bin/Debug/netcoreapp3.1/_10.TopNumber.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_10.TopNumber/bin/Debug/netcoreapp3.1/_10.TopNumber.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_10.TopNumber/obj/Debug/netcoreapp3.1/_10.TopNumber.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_10.TopNumber/obj/Debug/netcoreapp3.1/_10.TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_10.TopNumber/obj/Debug/netcoreapp3.1/_10.TopNumber.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_10.TopNumber/obj/Debug/netcoreapp3.1/_10.TopNumber.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_10.TopNumber/obj/Debug/netcoreapp3.1/_10.TopNumber.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_10.TopNumber/obj/Debug/netcoreapp3.1/_10.TopNumber.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_10.TopNumber/obj/Debug/netcoreapp3.1/_10.TopNumber.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Methods - Exercise/_10.TopNumber/obj/Debug/netcoreapp3.1/_10.TopNumber.genruntimeconfig.cache
