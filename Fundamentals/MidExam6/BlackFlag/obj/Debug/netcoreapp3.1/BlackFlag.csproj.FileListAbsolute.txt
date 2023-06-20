@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/BlackFlag/bin/Debug/netcoreapp3.1/BlackFlag.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/BlackFlag/bin/Debug/netcoreapp3.1/BlackFlag.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/BlackFlag/bin/Debug/netcoreapp3.1/BlackFlag.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/BlackFlag/bin/Debug/netcoreapp3.1/BlackFlag.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/BlackFlag/bin/Debug/netcoreapp3.1/BlackFlag.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/BlackFlag/obj/Debug/netcoreapp3.1/BlackFlag.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/BlackFlag/obj/Debug/netcoreapp3.1/BlackFlag.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/BlackFlag/obj/Debug/netcoreapp3.1/BlackFlag.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/BlackFlag/obj/Debug/netcoreapp3.1/BlackFlag.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/BlackFlag/obj/Debug/netcoreapp3.1/BlackFlag.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/BlackFlag/obj/Debug/netcoreapp3.1/BlackFlag.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/BlackFlag/obj/Debug/netcoreapp3.1/BlackFlag.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/BlackFlag/obj/Debug/netcoreapp3.1/BlackFlag.genruntimeconfig.cache

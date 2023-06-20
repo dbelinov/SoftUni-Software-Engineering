@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackFlag", "BlackFlag\BlackFlag.csproj", "{FD6FD92A-19EB-49D5-9648-9728F8B32AD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt", "TreasureHunt\TreasureHunt.csproj", "{443353EA-F5B8-4CE2-A0BE-A4CDEC7A6211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManOWar", "ManOWar\ManOWar.csproj", "{92FABAC6-6257-484A-B7B7-608F024612B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6FD92A-19EB-49D5-9648-9728F8B32AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6FD92A-19EB-49D5-9648-9728F8B32AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6FD92A-19EB-49D5-9648-9728F8B32AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6FD92A-19EB-49D5-9648-9728F8B32AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{443353EA-F5B8-4CE2-A0BE-A4CDEC7A6211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443353EA-F5B8-4CE2-A0BE-A4CDEC7A6211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443353EA-F5B8-4CE2-A0BE-A4CDEC7A6211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443353EA-F5B8-4CE2-A0BE-A4CDEC7A6211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92FABAC6-6257-484A-B7B7-608F024612B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FABAC6-6257-484A-B7B7-608F024612B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FABAC6-6257-484A-B7B7-608F024612B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FABAC6-6257-484A-B7B7-608F024612B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

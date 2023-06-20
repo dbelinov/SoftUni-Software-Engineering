@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/TreasureHunt/bin/Debug/netcoreapp3.1/TreasureHunt.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/TreasureHunt/bin/Debug/netcoreapp3.1/TreasureHunt.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/TreasureHunt/bin/Debug/netcoreapp3.1/TreasureHunt.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/TreasureHunt/bin/Debug/netcoreapp3.1/TreasureHunt.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/TreasureHunt/bin/Debug/netcoreapp3.1/TreasureHunt.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/TreasureHunt/obj/Debug/netcoreapp3.1/TreasureHunt.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/TreasureHunt/obj/Debug/netcoreapp3.1/TreasureHunt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/TreasureHunt/obj/Debug/netcoreapp3.1/TreasureHunt.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/TreasureHunt/obj/Debug/netcoreapp3.1/TreasureHunt.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/TreasureHunt/obj/Debug/netcoreapp3.1/TreasureHunt.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/TreasureHunt/obj/Debug/netcoreapp3.1/TreasureHunt.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/TreasureHunt/obj/Debug/netcoreapp3.1/TreasureHunt.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/TreasureHunt/obj/Debug/netcoreapp3.1/TreasureHunt.genruntimeconfig.cache

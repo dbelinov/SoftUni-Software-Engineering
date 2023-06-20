@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/ManOWar/bin/Debug/netcoreapp3.1/ManOWar.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/ManOWar/bin/Debug/netcoreapp3.1/ManOWar.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/ManOWar/bin/Debug/netcoreapp3.1/ManOWar.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/ManOWar/bin/Debug/netcoreapp3.1/ManOWar.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/ManOWar/bin/Debug/netcoreapp3.1/ManOWar.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/ManOWar/obj/Debug/netcoreapp3.1/ManOWar.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/ManOWar/obj/Debug/netcoreapp3.1/ManOWar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/ManOWar/obj/Debug/netcoreapp3.1/ManOWar.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/ManOWar/obj/Debug/netcoreapp3.1/ManOWar.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/ManOWar/obj/Debug/netcoreapp3.1/ManOWar.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/ManOWar/obj/Debug/netcoreapp3.1/ManOWar.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/ManOWar/obj/Debug/netcoreapp3.1/ManOWar.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam6/ManOWar/obj/Debug/netcoreapp3.1/ManOWar.genruntimeconfig.cache

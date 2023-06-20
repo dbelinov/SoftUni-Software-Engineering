@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam4/_02.ShoppingList/bin/Debug/netcoreapp3.1/_02.ShoppingList.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam4/_02.ShoppingList/bin/Debug/netcoreapp3.1/_02.ShoppingList.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam4/_02.ShoppingList/bin/Debug/netcoreapp3.1/_02.ShoppingList.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam4/_02.ShoppingList/bin/Debug/netcoreapp3.1/_02.ShoppingList.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam4/_02.ShoppingList/bin/Debug/netcoreapp3.1/_02.ShoppingList.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam4/_02.ShoppingList/obj/Debug/netcoreapp3.1/_02.ShoppingList.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam4/_02.ShoppingList/obj/Debug/netcoreapp3.1/_02.ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam4/_02.ShoppingList/obj/Debug/netcoreapp3.1/_02.ShoppingList.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam4/_02.ShoppingList/obj/Debug/netcoreapp3.1/_02.ShoppingList.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam4/_02.ShoppingList/obj/Debug/netcoreapp3.1/_02.ShoppingList.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam4/_02.ShoppingList/obj/Debug/netcoreapp3.1/_02.ShoppingList.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam4/_02.ShoppingList/obj/Debug/netcoreapp3.1/_02.ShoppingList.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/MidExam4/_02.ShoppingList/obj/Debug/netcoreapp3.1/_02.ShoppingList.genruntimeconfig.cache
