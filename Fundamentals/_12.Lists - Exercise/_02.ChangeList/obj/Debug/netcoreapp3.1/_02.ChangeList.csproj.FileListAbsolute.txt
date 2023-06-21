@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_02.ChangeList/bin/Debug/netcoreapp3.1/_02.ChangeList.deps.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_02.ChangeList/bin/Debug/netcoreapp3.1/_02.ChangeList.runtimeconfig.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_02.ChangeList/bin/Debug/netcoreapp3.1/_02.ChangeList.runtimeconfig.dev.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_02.ChangeList/bin/Debug/netcoreapp3.1/_02.ChangeList.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_02.ChangeList/bin/Debug/netcoreapp3.1/_02.ChangeList.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_02.ChangeList/obj/Debug/netcoreapp3.1/_02.ChangeList.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_02.ChangeList/obj/Debug/netcoreapp3.1/_02.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_02.ChangeList/obj/Debug/netcoreapp3.1/_02.ChangeList.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_02.ChangeList/obj/Debug/netcoreapp3.1/_02.ChangeList.AssemblyInfo.cs
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_02.ChangeList/obj/Debug/netcoreapp3.1/_02.ChangeList.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_02.ChangeList/obj/Debug/netcoreapp3.1/_02.ChangeList.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_02.ChangeList/obj/Debug/netcoreapp3.1/_02.ChangeList.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_02.ChangeList/obj/Debug/netcoreapp3.1/_02.ChangeList.genruntimeconfig.cache

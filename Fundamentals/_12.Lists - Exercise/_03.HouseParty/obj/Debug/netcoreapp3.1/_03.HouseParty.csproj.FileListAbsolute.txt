@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_03.HouseParty/bin/Debug/netcoreapp3.1/_03.HouseParty.deps.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_03.HouseParty/bin/Debug/netcoreapp3.1/_03.HouseParty.runtimeconfig.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_03.HouseParty/bin/Debug/netcoreapp3.1/_03.HouseParty.runtimeconfig.dev.json
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_03.HouseParty/bin/Debug/netcoreapp3.1/_03.HouseParty.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_03.HouseParty/bin/Debug/netcoreapp3.1/_03.HouseParty.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_03.HouseParty/obj/Debug/netcoreapp3.1/_03.HouseParty.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_03.HouseParty/obj/Debug/netcoreapp3.1/_03.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_03.HouseParty/obj/Debug/netcoreapp3.1/_03.HouseParty.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_03.HouseParty/obj/Debug/netcoreapp3.1/_03.HouseParty.AssemblyInfo.cs
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_03.HouseParty/obj/Debug/netcoreapp3.1/_03.HouseParty.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_03.HouseParty/obj/Debug/netcoreapp3.1/_03.HouseParty.dll
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_03.HouseParty/obj/Debug/netcoreapp3.1/_03.HouseParty.pdb
+/Users/dbelinov/Documents/SoftUni/Fundamentals/Solutions/Fundamentals/_12.Lists - Exercise/_03.HouseParty/obj/Debug/netcoreapp3.1/_03.HouseParty.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_12.Lists - Exercise/_04.ListOperations/bin/Debug/netcoreapp3.1/_04.ListOperations.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_12.Lists - Exercise/_04.ListOperations/bin/Debug/netcoreapp3.1/_04.ListOperations.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_12.Lists - Exercise/_04.ListOperations/bin/Debug/netcoreapp3.1/_04.ListOperations.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_12.Lists - Exercise/_04.ListOperations/bin/Debug/netcoreapp3.1/_04.ListOperations.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_12.Lists - Exercise/_04.ListOperations/bin/Debug/netcoreapp3.1/_04.ListOperations.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_12.Lists - Exercise/_04.ListOperations/obj/Debug/netcoreapp3.1/_04.ListOperations.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_12.Lists - Exercise/_04.ListOperations/obj/Debug/netcoreapp3.1/_04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_12.Lists - Exercise/_04.ListOperations/obj/Debug/netcoreapp3.1/_04.ListOperations.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_12.Lists - Exercise/_04.ListOperations/obj/Debug/netcoreapp3.1/_04.ListOperations.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_12.Lists - Exercise/_04.ListOperations/obj/Debug/netcoreapp3.1/_04.ListOperations.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_12.Lists - Exercise/_04.ListOperations/obj/Debug/netcoreapp3.1/_04.ListOperations.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_12.Lists - Exercise/_04.ListOperations/obj/Debug/netcoreapp3.1/_04.ListOperations.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_12.Lists - Exercise/_04.ListOperations/obj/Debug/netcoreapp3.1/_04.ListOperations.genruntimeconfig.cache
