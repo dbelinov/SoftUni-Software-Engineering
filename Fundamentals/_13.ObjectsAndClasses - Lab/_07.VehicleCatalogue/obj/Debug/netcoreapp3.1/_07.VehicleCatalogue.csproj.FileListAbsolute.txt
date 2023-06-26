@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_07.VehicleCatalogue/bin/Debug/netcoreapp3.1/_07.VehicleCatalogue.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_07.VehicleCatalogue/bin/Debug/netcoreapp3.1/_07.VehicleCatalogue.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_07.VehicleCatalogue/bin/Debug/netcoreapp3.1/_07.VehicleCatalogue.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_07.VehicleCatalogue/bin/Debug/netcoreapp3.1/_07.VehicleCatalogue.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_07.VehicleCatalogue/bin/Debug/netcoreapp3.1/_07.VehicleCatalogue.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_07.VehicleCatalogue/obj/Debug/netcoreapp3.1/_07.VehicleCatalogue.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_07.VehicleCatalogue/obj/Debug/netcoreapp3.1/_07.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_07.VehicleCatalogue/obj/Debug/netcoreapp3.1/_07.VehicleCatalogue.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_07.VehicleCatalogue/obj/Debug/netcoreapp3.1/_07.VehicleCatalogue.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_07.VehicleCatalogue/obj/Debug/netcoreapp3.1/_07.VehicleCatalogue.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_07.VehicleCatalogue/obj/Debug/netcoreapp3.1/_07.VehicleCatalogue.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_07.VehicleCatalogue/obj/Debug/netcoreapp3.1/_07.VehicleCatalogue.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_07.VehicleCatalogue/obj/Debug/netcoreapp3.1/_07.VehicleCatalogue.genruntimeconfig.cache

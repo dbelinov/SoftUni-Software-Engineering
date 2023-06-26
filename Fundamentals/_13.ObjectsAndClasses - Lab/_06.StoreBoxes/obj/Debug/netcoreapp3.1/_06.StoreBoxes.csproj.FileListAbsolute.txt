@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_06.StoreBoxes/bin/Debug/netcoreapp3.1/_06.StoreBoxes.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_06.StoreBoxes/bin/Debug/netcoreapp3.1/_06.StoreBoxes.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_06.StoreBoxes/bin/Debug/netcoreapp3.1/_06.StoreBoxes.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_06.StoreBoxes/bin/Debug/netcoreapp3.1/_06.StoreBoxes.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_06.StoreBoxes/bin/Debug/netcoreapp3.1/_06.StoreBoxes.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_06.StoreBoxes/obj/Debug/netcoreapp3.1/_06.StoreBoxes.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_06.StoreBoxes/obj/Debug/netcoreapp3.1/_06.StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_06.StoreBoxes/obj/Debug/netcoreapp3.1/_06.StoreBoxes.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_06.StoreBoxes/obj/Debug/netcoreapp3.1/_06.StoreBoxes.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_06.StoreBoxes/obj/Debug/netcoreapp3.1/_06.StoreBoxes.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_06.StoreBoxes/obj/Debug/netcoreapp3.1/_06.StoreBoxes.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_06.StoreBoxes/obj/Debug/netcoreapp3.1/_06.StoreBoxes.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_06.StoreBoxes/obj/Debug/netcoreapp3.1/_06.StoreBoxes.genruntimeconfig.cache

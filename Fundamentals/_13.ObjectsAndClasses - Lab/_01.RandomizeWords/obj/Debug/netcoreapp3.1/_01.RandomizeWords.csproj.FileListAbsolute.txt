@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_01.RandomizeWords/bin/Debug/netcoreapp3.1/_01.RandomizeWords.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_01.RandomizeWords/bin/Debug/netcoreapp3.1/_01.RandomizeWords.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_01.RandomizeWords/bin/Debug/netcoreapp3.1/_01.RandomizeWords.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_01.RandomizeWords/bin/Debug/netcoreapp3.1/_01.RandomizeWords.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_01.RandomizeWords/bin/Debug/netcoreapp3.1/_01.RandomizeWords.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_01.RandomizeWords/obj/Debug/netcoreapp3.1/_01.RandomizeWords.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_01.RandomizeWords/obj/Debug/netcoreapp3.1/_01.RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_01.RandomizeWords/obj/Debug/netcoreapp3.1/_01.RandomizeWords.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_01.RandomizeWords/obj/Debug/netcoreapp3.1/_01.RandomizeWords.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_01.RandomizeWords/obj/Debug/netcoreapp3.1/_01.RandomizeWords.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_01.RandomizeWords/obj/Debug/netcoreapp3.1/_01.RandomizeWords.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_01.RandomizeWords/obj/Debug/netcoreapp3.1/_01.RandomizeWords.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_13.ObjectsAndClasses - Lab/_01.RandomizeWords/obj/Debug/netcoreapp3.1/_01.RandomizeWords.genruntimeconfig.cache
