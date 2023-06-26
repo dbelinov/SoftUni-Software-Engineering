@@ -4,28 +4,53 @@ using System.Linq;
 
 namespace _05.BombNumbers
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            List<int> sequence = Console
-                .ReadLine()
-                .Split()
+            List<int> list = Console.ReadLine()
+                .Split(' ')
                 .Select(int.Parse)
                 .ToList();
-            int specialNumber = int.Parse(Console.ReadLine());
-            int power = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < sequence.Count; i++)
+            List<int> bomb = Console.ReadLine()
+                .Split(' ')
+                .Select(int.Parse)
+                .ToList();
+
+            list = Explode(list, bomb);
+
+            Console.WriteLine(Sum(list));
+        }
+
+        private static int Sum(List<int> list)
+        {
+            int sum = 0;
+            foreach (int item in list)
             {
-                if (sequence[i] == specialNumber)
-                {
-                    for (int j = 0; j < power; j++)
-                    {
-                        
-                    }
-                }
+                sum += item;
             }
+
+            return sum;
+        }
+
+        private static List<int> Explode(List<int> list, List<int> bomb)
+        {
+            int number = bomb[0];
+            int power = bomb[1];
+
+            while (list.Contains(number))
+            {
+                int index = list.IndexOf(number);
+
+                int leftIndex = Math.Max(0, index - power);
+                int rightIndex = Math.Min(list.Count - 1, index + power);
+
+                int range = rightIndex - leftIndex + 1;
+                list.RemoveRange(leftIndex, range);
+            }
+
+            return list;
         }
     }
 }

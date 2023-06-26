@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04.ListOperations", "_04.L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05.BombNumbers", "_05.BombNumbers\_05.BombNumbers.csproj", "{E218727B-0239-477B-B61A-1BF6C1009D77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_06.CardsGame", "_06.CardsGame\_06.CardsGame.csproj", "{79D3467C-1FF9-4234-AF6A-5D2DFCCE337E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_07.AppendArrays", "_07.AppendArrays\_07.AppendArrays.csproj", "{894D00A0-A740-4067-9CB9-A0C3127DDA3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{E218727B-0239-477B-B61A-1BF6C1009D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E218727B-0239-477B-B61A-1BF6C1009D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E218727B-0239-477B-B61A-1BF6C1009D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D3467C-1FF9-4234-AF6A-5D2DFCCE337E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D3467C-1FF9-4234-AF6A-5D2DFCCE337E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D3467C-1FF9-4234-AF6A-5D2DFCCE337E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D3467C-1FF9-4234-AF6A-5D2DFCCE337E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894D00A0-A740-4067-9CB9-A0C3127DDA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894D00A0-A740-4067-9CB9-A0C3127DDA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894D00A0-A740-4067-9CB9-A0C3127DDA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894D00A0-A740-4067-9CB9-A0C3127DDA3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
