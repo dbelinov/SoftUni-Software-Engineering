@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_06.VehicleCatalogue", "_06
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_07.OrderByAge", "_07.OrderByAge\_07.OrderByAge.csproj", "{B88973AF-9CF4-456F-AB81-52E4168DA681}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05.TeamworkProjects", "_05.TeamworkProjects\_05.TeamworkProjects.csproj", "{4F22F269-1F7B-4926-855B-0108F2861461}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{B88973AF-9CF4-456F-AB81-52E4168DA681}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B88973AF-9CF4-456F-AB81-52E4168DA681}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B88973AF-9CF4-456F-AB81-52E4168DA681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F22F269-1F7B-4926-855B-0108F2861461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F22F269-1F7B-4926-855B-0108F2861461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F22F269-1F7B-4926-855B-0108F2861461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F22F269-1F7B-4926-855B-0108F2861461}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
