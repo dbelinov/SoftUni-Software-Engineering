@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_02. Articles/bin/Debug/netcoreapp3.1/_02. Articles.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_02. Articles/bin/Debug/netcoreapp3.1/_02. Articles.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_02. Articles/bin/Debug/netcoreapp3.1/_02. Articles.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_02. Articles/bin/Debug/netcoreapp3.1/_02. Articles.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_02. Articles/bin/Debug/netcoreapp3.1/_02. Articles.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_02. Articles/obj/Debug/netcoreapp3.1/_02. Articles.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_02. Articles/obj/Debug/netcoreapp3.1/_02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_02. Articles/obj/Debug/netcoreapp3.1/_02. Articles.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_02. Articles/obj/Debug/netcoreapp3.1/_02. Articles.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_02. Articles/obj/Debug/netcoreapp3.1/_02. Articles.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_02. Articles/obj/Debug/netcoreapp3.1/_02. Articles.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_02. Articles/obj/Debug/netcoreapp3.1/_02. Articles.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_02. Articles/obj/Debug/netcoreapp3.1/_02. Articles.genruntimeconfig.cache

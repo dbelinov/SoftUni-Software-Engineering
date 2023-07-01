@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_06.VehicleCatalogue/bin/Debug/netcoreapp3.1/_06.VehicleCatalogue.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_06.VehicleCatalogue/bin/Debug/netcoreapp3.1/_06.VehicleCatalogue.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_06.VehicleCatalogue/bin/Debug/netcoreapp3.1/_06.VehicleCatalogue.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_06.VehicleCatalogue/bin/Debug/netcoreapp3.1/_06.VehicleCatalogue.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_06.VehicleCatalogue/bin/Debug/netcoreapp3.1/_06.VehicleCatalogue.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_06.VehicleCatalogue/obj/Debug/netcoreapp3.1/_06.VehicleCatalogue.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_06.VehicleCatalogue/obj/Debug/netcoreapp3.1/_06.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_06.VehicleCatalogue/obj/Debug/netcoreapp3.1/_06.VehicleCatalogue.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_06.VehicleCatalogue/obj/Debug/netcoreapp3.1/_06.VehicleCatalogue.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_06.VehicleCatalogue/obj/Debug/netcoreapp3.1/_06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_06.VehicleCatalogue/obj/Debug/netcoreapp3.1/_06.VehicleCatalogue.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_06.VehicleCatalogue/obj/Debug/netcoreapp3.1/_06.VehicleCatalogue.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_06.VehicleCatalogue/obj/Debug/netcoreapp3.1/_06.VehicleCatalogue.genruntimeconfig.cache

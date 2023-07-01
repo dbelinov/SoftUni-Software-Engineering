@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_01.AdvertisementMessage/bin/Debug/netcoreapp3.1/_01.AdvertisementMessage.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_01.AdvertisementMessage/bin/Debug/netcoreapp3.1/_01.AdvertisementMessage.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_01.AdvertisementMessage/bin/Debug/netcoreapp3.1/_01.AdvertisementMessage.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_01.AdvertisementMessage/bin/Debug/netcoreapp3.1/_01.AdvertisementMessage.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_01.AdvertisementMessage/bin/Debug/netcoreapp3.1/_01.AdvertisementMessage.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_01.AdvertisementMessage/obj/Debug/netcoreapp3.1/_01.AdvertisementMessage.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_01.AdvertisementMessage/obj/Debug/netcoreapp3.1/_01.AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_01.AdvertisementMessage/obj/Debug/netcoreapp3.1/_01.AdvertisementMessage.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_01.AdvertisementMessage/obj/Debug/netcoreapp3.1/_01.AdvertisementMessage.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_01.AdvertisementMessage/obj/Debug/netcoreapp3.1/_01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_01.AdvertisementMessage/obj/Debug/netcoreapp3.1/_01.AdvertisementMessage.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_01.AdvertisementMessage/obj/Debug/netcoreapp3.1/_01.AdvertisementMessage.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_14.ObjectsAndClasses - Exercise/_01.AdvertisementMessage/obj/Debug/netcoreapp3.1/_01.AdvertisementMessage.genruntimeconfig.cache
