@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_.1.ReverseStrings/bin/Debug/netcoreapp3.1/_.1.ReverseStrings.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_.1.ReverseStrings/bin/Debug/netcoreapp3.1/_.1.ReverseStrings.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_.1.ReverseStrings/bin/Debug/netcoreapp3.1/_.1.ReverseStrings.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_.1.ReverseStrings/bin/Debug/netcoreapp3.1/_.1.ReverseStrings.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_.1.ReverseStrings/bin/Debug/netcoreapp3.1/_.1.ReverseStrings.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_.1.ReverseStrings/obj/Debug/netcoreapp3.1/_.1.ReverseStrings.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_.1.ReverseStrings/obj/Debug/netcoreapp3.1/_.1.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_.1.ReverseStrings/obj/Debug/netcoreapp3.1/_.1.ReverseStrings.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_.1.ReverseStrings/obj/Debug/netcoreapp3.1/_.1.ReverseStrings.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_.1.ReverseStrings/obj/Debug/netcoreapp3.1/_.1.ReverseStrings.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_.1.ReverseStrings/obj/Debug/netcoreapp3.1/_.1.ReverseStrings.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_.1.ReverseStrings/obj/Debug/netcoreapp3.1/_.1.ReverseStrings.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_.1.ReverseStrings/obj/Debug/netcoreapp3.1/_.1.ReverseStrings.genruntimeconfig.cache

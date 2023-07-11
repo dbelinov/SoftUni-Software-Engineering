@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_03.Substring/bin/Debug/netcoreapp3.1/_03.Substring.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_03.Substring/bin/Debug/netcoreapp3.1/_03.Substring.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_03.Substring/bin/Debug/netcoreapp3.1/_03.Substring.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_03.Substring/bin/Debug/netcoreapp3.1/_03.Substring.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_03.Substring/bin/Debug/netcoreapp3.1/_03.Substring.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_03.Substring/obj/Debug/netcoreapp3.1/_03.Substring.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_03.Substring/obj/Debug/netcoreapp3.1/_03.Substring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_03.Substring/obj/Debug/netcoreapp3.1/_03.Substring.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_03.Substring/obj/Debug/netcoreapp3.1/_03.Substring.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_03.Substring/obj/Debug/netcoreapp3.1/_03.Substring.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_03.Substring/obj/Debug/netcoreapp3.1/_03.Substring.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_03.Substring/obj/Debug/netcoreapp3.1/_03.Substring.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_03.Substring/obj/Debug/netcoreapp3.1/_03.Substring.genruntimeconfig.cache

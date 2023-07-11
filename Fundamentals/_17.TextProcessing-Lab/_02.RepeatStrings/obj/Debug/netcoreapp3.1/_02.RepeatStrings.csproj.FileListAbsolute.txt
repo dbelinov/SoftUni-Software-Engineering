@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_02.RepeatStrings/bin/Debug/netcoreapp3.1/_02.RepeatStrings.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_02.RepeatStrings/bin/Debug/netcoreapp3.1/_02.RepeatStrings.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_02.RepeatStrings/bin/Debug/netcoreapp3.1/_02.RepeatStrings.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_02.RepeatStrings/bin/Debug/netcoreapp3.1/_02.RepeatStrings.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_02.RepeatStrings/bin/Debug/netcoreapp3.1/_02.RepeatStrings.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_02.RepeatStrings/obj/Debug/netcoreapp3.1/_02.RepeatStrings.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_02.RepeatStrings/obj/Debug/netcoreapp3.1/_02.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_02.RepeatStrings/obj/Debug/netcoreapp3.1/_02.RepeatStrings.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_02.RepeatStrings/obj/Debug/netcoreapp3.1/_02.RepeatStrings.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_02.RepeatStrings/obj/Debug/netcoreapp3.1/_02.RepeatStrings.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_02.RepeatStrings/obj/Debug/netcoreapp3.1/_02.RepeatStrings.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_02.RepeatStrings/obj/Debug/netcoreapp3.1/_02.RepeatStrings.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_17.TextProcessing-Lab/_02.RepeatStrings/obj/Debug/netcoreapp3.1/_02.RepeatStrings.genruntimeconfig.cache
