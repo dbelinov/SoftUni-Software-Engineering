@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_19.RegularExpressions-Lab/_01.MatchFullName/bin/Debug/netcoreapp3.1/_01.MatchFullName.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_19.RegularExpressions-Lab/_01.MatchFullName/bin/Debug/netcoreapp3.1/_01.MatchFullName.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_19.RegularExpressions-Lab/_01.MatchFullName/bin/Debug/netcoreapp3.1/_01.MatchFullName.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_19.RegularExpressions-Lab/_01.MatchFullName/bin/Debug/netcoreapp3.1/_01.MatchFullName.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_19.RegularExpressions-Lab/_01.MatchFullName/bin/Debug/netcoreapp3.1/_01.MatchFullName.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_19.RegularExpressions-Lab/_01.MatchFullName/obj/Debug/netcoreapp3.1/_01.MatchFullName.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_19.RegularExpressions-Lab/_01.MatchFullName/obj/Debug/netcoreapp3.1/_01.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_19.RegularExpressions-Lab/_01.MatchFullName/obj/Debug/netcoreapp3.1/_01.MatchFullName.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_19.RegularExpressions-Lab/_01.MatchFullName/obj/Debug/netcoreapp3.1/_01.MatchFullName.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_19.RegularExpressions-Lab/_01.MatchFullName/obj/Debug/netcoreapp3.1/_01.MatchFullName.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_19.RegularExpressions-Lab/_01.MatchFullName/obj/Debug/netcoreapp3.1/_01.MatchFullName.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_19.RegularExpressions-Lab/_01.MatchFullName/obj/Debug/netcoreapp3.1/_01.MatchFullName.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_19.RegularExpressions-Lab/_01.MatchFullName/obj/Debug/netcoreapp3.1/_01.MatchFullName.genruntimeconfig.cache
