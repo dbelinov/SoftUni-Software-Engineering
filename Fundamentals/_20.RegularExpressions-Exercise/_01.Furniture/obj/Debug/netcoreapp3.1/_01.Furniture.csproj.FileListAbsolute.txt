@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_01.Furniture/bin/Debug/netcoreapp3.1/_01.Furniture.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_01.Furniture/bin/Debug/netcoreapp3.1/_01.Furniture.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_01.Furniture/bin/Debug/netcoreapp3.1/_01.Furniture.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_01.Furniture/bin/Debug/netcoreapp3.1/_01.Furniture.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_01.Furniture/bin/Debug/netcoreapp3.1/_01.Furniture.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_01.Furniture/obj/Debug/netcoreapp3.1/_01.Furniture.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_01.Furniture/obj/Debug/netcoreapp3.1/_01.Furniture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_01.Furniture/obj/Debug/netcoreapp3.1/_01.Furniture.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_01.Furniture/obj/Debug/netcoreapp3.1/_01.Furniture.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_01.Furniture/obj/Debug/netcoreapp3.1/_01.Furniture.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_01.Furniture/obj/Debug/netcoreapp3.1/_01.Furniture.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_01.Furniture/obj/Debug/netcoreapp3.1/_01.Furniture.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_01.Furniture/obj/Debug/netcoreapp3.1/_01.Furniture.genruntimeconfig.cache
