@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_04.StarEnigma/bin/Debug/netcoreapp3.1/_04.StarEnigma.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_04.StarEnigma/bin/Debug/netcoreapp3.1/_04.StarEnigma.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_04.StarEnigma/bin/Debug/netcoreapp3.1/_04.StarEnigma.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_04.StarEnigma/bin/Debug/netcoreapp3.1/_04.StarEnigma.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_04.StarEnigma/bin/Debug/netcoreapp3.1/_04.StarEnigma.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_04.StarEnigma/obj/Debug/netcoreapp3.1/_04.StarEnigma.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_04.StarEnigma/obj/Debug/netcoreapp3.1/_04.StarEnigma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_04.StarEnigma/obj/Debug/netcoreapp3.1/_04.StarEnigma.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_04.StarEnigma/obj/Debug/netcoreapp3.1/_04.StarEnigma.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_04.StarEnigma/obj/Debug/netcoreapp3.1/_04.StarEnigma.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_04.StarEnigma/obj/Debug/netcoreapp3.1/_04.StarEnigma.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_04.StarEnigma/obj/Debug/netcoreapp3.1/_04.StarEnigma.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_04.StarEnigma/obj/Debug/netcoreapp3.1/_04.StarEnigma.genruntimeconfig.cache

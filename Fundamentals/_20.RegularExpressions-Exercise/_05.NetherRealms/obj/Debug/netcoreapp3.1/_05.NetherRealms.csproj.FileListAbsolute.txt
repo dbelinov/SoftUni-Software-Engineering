@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_05.NetherRealms/bin/Debug/netcoreapp3.1/_05.NetherRealms.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_05.NetherRealms/bin/Debug/netcoreapp3.1/_05.NetherRealms.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_05.NetherRealms/bin/Debug/netcoreapp3.1/_05.NetherRealms.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_05.NetherRealms/bin/Debug/netcoreapp3.1/_05.NetherRealms.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_05.NetherRealms/bin/Debug/netcoreapp3.1/_05.NetherRealms.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_05.NetherRealms/obj/Debug/netcoreapp3.1/_05.NetherRealms.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_05.NetherRealms/obj/Debug/netcoreapp3.1/_05.NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_05.NetherRealms/obj/Debug/netcoreapp3.1/_05.NetherRealms.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_05.NetherRealms/obj/Debug/netcoreapp3.1/_05.NetherRealms.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_05.NetherRealms/obj/Debug/netcoreapp3.1/_05.NetherRealms.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_05.NetherRealms/obj/Debug/netcoreapp3.1/_05.NetherRealms.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_05.NetherRealms/obj/Debug/netcoreapp3.1/_05.NetherRealms.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_20.RegularExpressions-Exercise/_05.NetherRealms/obj/Debug/netcoreapp3.1/_05.NetherRealms.genruntimeconfig.cache
