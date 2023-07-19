@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_03.ThePianist/bin/Debug/netcoreapp3.1/_03.ThePianist.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_03.ThePianist/bin/Debug/netcoreapp3.1/_03.ThePianist.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_03.ThePianist/bin/Debug/netcoreapp3.1/_03.ThePianist.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_03.ThePianist/bin/Debug/netcoreapp3.1/_03.ThePianist.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_03.ThePianist/bin/Debug/netcoreapp3.1/_03.ThePianist.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_03.ThePianist/obj/Debug/netcoreapp3.1/_03.ThePianist.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_03.ThePianist/obj/Debug/netcoreapp3.1/_03.ThePianist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_03.ThePianist/obj/Debug/netcoreapp3.1/_03.ThePianist.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_03.ThePianist/obj/Debug/netcoreapp3.1/_03.ThePianist.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_03.ThePianist/obj/Debug/netcoreapp3.1/_03.ThePianist.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_03.ThePianist/obj/Debug/netcoreapp3.1/_03.ThePianist.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_03.ThePianist/obj/Debug/netcoreapp3.1/_03.ThePianist.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_03.ThePianist/obj/Debug/netcoreapp3.1/_03.ThePianist.genruntimeconfig.cache

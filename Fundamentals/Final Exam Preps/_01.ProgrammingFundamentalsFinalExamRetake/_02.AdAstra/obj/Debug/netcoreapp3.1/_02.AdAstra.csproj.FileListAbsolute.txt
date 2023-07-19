@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_02.AdAstra/bin/Debug/netcoreapp3.1/_02.AdAstra.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_02.AdAstra/bin/Debug/netcoreapp3.1/_02.AdAstra.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_02.AdAstra/bin/Debug/netcoreapp3.1/_02.AdAstra.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_02.AdAstra/bin/Debug/netcoreapp3.1/_02.AdAstra.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_02.AdAstra/bin/Debug/netcoreapp3.1/_02.AdAstra.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_02.AdAstra/obj/Debug/netcoreapp3.1/_02.AdAstra.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_02.AdAstra/obj/Debug/netcoreapp3.1/_02.AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_02.AdAstra/obj/Debug/netcoreapp3.1/_02.AdAstra.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_02.AdAstra/obj/Debug/netcoreapp3.1/_02.AdAstra.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_02.AdAstra/obj/Debug/netcoreapp3.1/_02.AdAstra.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_02.AdAstra/obj/Debug/netcoreapp3.1/_02.AdAstra.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_02.AdAstra/obj/Debug/netcoreapp3.1/_02.AdAstra.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_02.AdAstra/obj/Debug/netcoreapp3.1/_02.AdAstra.genruntimeconfig.cache

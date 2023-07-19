@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01.TheImitationGame", "_01.TheImitationGame\_01.TheImitationGame.csproj", "{BD196A90-679C-4F28-8A54-CE7910F85AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02.AdAstra", "_02.AdAstra\_02.AdAstra.csproj", "{1013CB3D-DC71-4C55-A729-03469AE504B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03.ThePianist", "_03.ThePianist\_03.ThePianist.csproj", "{38EFEC84-E166-42CA-8D4A-9D8E14C4A516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD196A90-679C-4F28-8A54-CE7910F85AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD196A90-679C-4F28-8A54-CE7910F85AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD196A90-679C-4F28-8A54-CE7910F85AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD196A90-679C-4F28-8A54-CE7910F85AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1013CB3D-DC71-4C55-A729-03469AE504B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1013CB3D-DC71-4C55-A729-03469AE504B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1013CB3D-DC71-4C55-A729-03469AE504B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1013CB3D-DC71-4C55-A729-03469AE504B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38EFEC84-E166-42CA-8D4A-9D8E14C4A516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EFEC84-E166-42CA-8D4A-9D8E14C4A516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EFEC84-E166-42CA-8D4A-9D8E14C4A516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EFEC84-E166-42CA-8D4A-9D8E14C4A516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

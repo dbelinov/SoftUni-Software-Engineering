@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/obj/Debug/netcoreapp3.1/_01.TheImitationGame.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/obj/Debug/netcoreapp3.1/_01.TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/obj/Debug/netcoreapp3.1/_01.TheImitationGame.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/obj/Debug/netcoreapp3.1/_01.TheImitationGame.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/obj/Debug/netcoreapp3.1/_01.TheImitationGame.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/bin/Debug/netcoreapp3.1/_01.TheImitationGame.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/bin/Debug/netcoreapp3.1/_01.TheImitationGame.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/bin/Debug/netcoreapp3.1/_01.TheImitationGame.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/bin/Debug/netcoreapp3.1/_01.TheImitationGame.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/bin/Debug/netcoreapp3.1/_01.TheImitationGame.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/obj/Debug/netcoreapp3.1/_01.TheImitationGame.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/obj/Debug/netcoreapp3.1/_01.TheImitationGame.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/obj/Debug/netcoreapp3.1/_01.TheImitationGame.genruntimeconfig.cache
