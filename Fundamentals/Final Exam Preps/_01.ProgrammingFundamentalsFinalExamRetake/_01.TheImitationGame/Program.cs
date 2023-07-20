@@ -53,16 +53,15 @@ namespace _01.TheImitationGame
             Console.WriteLine($"The decrypted message is: {encryptedMessage}");
         }
 
-        public static string ConvertToString(List<char> messageAsArr)
+        private static string ConvertToString(List<char> messageAsArr)
         {
-            string encryptedMessage;
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < messageAsArr.Count; i++)
             {
                 sb.Append(messageAsArr[i]);
             }
 
-            encryptedMessage = sb.ToString();
+            var encryptedMessage = sb.ToString();
             return encryptedMessage;
         }
     }

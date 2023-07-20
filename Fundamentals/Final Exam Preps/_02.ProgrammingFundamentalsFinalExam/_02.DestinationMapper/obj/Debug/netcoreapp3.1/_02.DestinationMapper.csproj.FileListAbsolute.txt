@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_02.DestinationMapper/bin/Debug/netcoreapp3.1/_02.DestinationMapper.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_02.DestinationMapper/bin/Debug/netcoreapp3.1/_02.DestinationMapper.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_02.DestinationMapper/bin/Debug/netcoreapp3.1/_02.DestinationMapper.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_02.DestinationMapper/bin/Debug/netcoreapp3.1/_02.DestinationMapper.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_02.DestinationMapper/bin/Debug/netcoreapp3.1/_02.DestinationMapper.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_02.DestinationMapper/obj/Debug/netcoreapp3.1/_02.DestinationMapper.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_02.DestinationMapper/obj/Debug/netcoreapp3.1/_02.DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_02.DestinationMapper/obj/Debug/netcoreapp3.1/_02.DestinationMapper.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_02.DestinationMapper/obj/Debug/netcoreapp3.1/_02.DestinationMapper.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_02.DestinationMapper/obj/Debug/netcoreapp3.1/_02.DestinationMapper.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_02.DestinationMapper/obj/Debug/netcoreapp3.1/_02.DestinationMapper.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_02.DestinationMapper/obj/Debug/netcoreapp3.1/_02.DestinationMapper.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_02.DestinationMapper/obj/Debug/netcoreapp3.1/_02.DestinationMapper.genruntimeconfig.cache

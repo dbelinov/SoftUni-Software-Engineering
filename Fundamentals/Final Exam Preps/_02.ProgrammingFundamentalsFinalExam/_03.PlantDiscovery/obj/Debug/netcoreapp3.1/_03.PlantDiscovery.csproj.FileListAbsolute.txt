@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_03.PlantDiscovery/bin/Debug/netcoreapp3.1/_03.PlantDiscovery.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_03.PlantDiscovery/bin/Debug/netcoreapp3.1/_03.PlantDiscovery.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_03.PlantDiscovery/bin/Debug/netcoreapp3.1/_03.PlantDiscovery.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_03.PlantDiscovery/bin/Debug/netcoreapp3.1/_03.PlantDiscovery.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_03.PlantDiscovery/bin/Debug/netcoreapp3.1/_03.PlantDiscovery.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_03.PlantDiscovery/obj/Debug/netcoreapp3.1/_03.PlantDiscovery.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_03.PlantDiscovery/obj/Debug/netcoreapp3.1/_03.PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_03.PlantDiscovery/obj/Debug/netcoreapp3.1/_03.PlantDiscovery.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_03.PlantDiscovery/obj/Debug/netcoreapp3.1/_03.PlantDiscovery.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_03.PlantDiscovery/obj/Debug/netcoreapp3.1/_03.PlantDiscovery.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_03.PlantDiscovery/obj/Debug/netcoreapp3.1/_03.PlantDiscovery.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_03.PlantDiscovery/obj/Debug/netcoreapp3.1/_03.PlantDiscovery.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_02.ProgrammingFundamentalsFinalExam/_03.PlantDiscovery/obj/Debug/netcoreapp3.1/_03.PlantDiscovery.genruntimeconfig.cache

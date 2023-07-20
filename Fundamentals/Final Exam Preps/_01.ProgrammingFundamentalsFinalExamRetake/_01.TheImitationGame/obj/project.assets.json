@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/_01.TheImitationGame.csproj",
+      "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Final Exam Preps/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/_01.TheImitationGame.csproj",
       "projectName": "_01.TheImitationGame",
-      "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/_01.TheImitationGame.csproj",
+      "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Final Exam Preps/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/_01.TheImitationGame.csproj",
       "packagesPath": "/Users/dbelinov/.nuget/packages/",
-      "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/obj/",
+      "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Final Exam Preps/_01.ProgrammingFundamentalsFinalExamRetake/_01.TheImitationGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dbelinov/.nuget/NuGet/NuGet.Config"

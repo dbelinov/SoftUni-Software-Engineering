@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection.Metadata.Ecma335;
 
 /*
 3
@@ -57,14 +56,14 @@ namespace _03.ThePianist
             while ((command = Console.ReadLine()) != "Stop")
             {
                 string[] arguments = command.Split('|');
+                string name = arguments[1];
+                bool pieceIsInCollection = PieceInCollection(pieces, name);
                 switch (arguments[0])
                 {
                     case "Add":
-                        string name = arguments[1];
                         string composer = arguments[2];
                         string key = arguments[3];
-                        Piece foundPiece = pieces.FirstOrDefault(x => x.Name == name);
-                        if (foundPiece == null)
+                        if (!pieceIsInCollection)
                         {
                             Piece piece = new Piece(name, composer, key);
                             pieces.Add(piece);
@@ -76,30 +75,28 @@ namespace _03.ThePianist
                         }
                         break;
                     case "Remove":
-                        string nameToRemove = arguments[1];
-                        Piece pieceExists = pieces.FirstOrDefault(x => x.Name == nameToRemove);
-                        if (pieceExists != null)
+                        Piece foundPiece = pieces.FirstOrDefault(x => x.Name == name);
+                        if (pieceIsInCollection)
                         {
-                            pieces.Remove(pieceExists);
-                            Console.WriteLine($"Successfully removed {nameToRemove}!");
+                            pieces.Remove(foundPiece);
+                            Console.WriteLine($"Successfully removed {name}!");
                         }
                         else
                         {
-                            Console.WriteLine($"Invalid operation! {nameToRemove} does not exist in the collection.");
+                            Console.WriteLine($"Invalid operation! {name} does not exist in the collection.");
                         }
                         break;
                     case "ChangeKey":
-                        string nameToEdit = arguments[1];
                         string newKey = arguments[2];
-                        Piece pieceIsInCollection = pieces.FirstOrDefault(x => x.Name == nameToEdit);
-                        if (pieceIsInCollection != null)
+                        Piece pieceInCollection = pieces.FirstOrDefault(x => x.Name == name);
+                        if (pieceInCollection != null)
                         {
-                            pieceIsInCollection.Key = newKey;
-                            Console.WriteLine($"Changed the key of {nameToEdit} to {newKey}!");
+                            pieceInCollection.Key = newKey;
+                            Console.WriteLine($"Changed the key of {name} to {newKey}!");
                         }
                         else
                         {
-                            Console.WriteLine($"Invalid operation! {nameToEdit} does not exist in the collection.");
+                            Console.WriteLine($"Invalid operation! {name} does not exist in the collection.");
                         }
                         break;
                 }
@@ -109,6 +106,14 @@ namespace _03.ThePianist
             {
                 Console.WriteLine(piece);
             }
+        }
+
+        private static bool PieceInCollection(List<Piece> pieces, string nameToEdit)
+        {
+            Piece pieceIsInCollection = pieces.FirstOrDefault(x => x.Name == nameToEdit);
+            if (pieceIsInCollection == null)
+                return false;
+            return true;
         }
     }
 }
