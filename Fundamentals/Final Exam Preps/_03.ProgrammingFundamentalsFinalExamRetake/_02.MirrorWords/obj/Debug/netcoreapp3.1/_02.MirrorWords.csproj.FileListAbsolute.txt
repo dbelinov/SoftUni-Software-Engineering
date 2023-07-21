@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_02.MirrorWords/bin/Debug/netcoreapp3.1/_02.MirrorWords.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_02.MirrorWords/bin/Debug/netcoreapp3.1/_02.MirrorWords.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_02.MirrorWords/bin/Debug/netcoreapp3.1/_02.MirrorWords.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_02.MirrorWords/bin/Debug/netcoreapp3.1/_02.MirrorWords.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_02.MirrorWords/bin/Debug/netcoreapp3.1/_02.MirrorWords.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_02.MirrorWords/obj/Debug/netcoreapp3.1/_02.MirrorWords.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_02.MirrorWords/obj/Debug/netcoreapp3.1/_02.MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_02.MirrorWords/obj/Debug/netcoreapp3.1/_02.MirrorWords.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_02.MirrorWords/obj/Debug/netcoreapp3.1/_02.MirrorWords.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_02.MirrorWords/obj/Debug/netcoreapp3.1/_02.MirrorWords.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_02.MirrorWords/obj/Debug/netcoreapp3.1/_02.MirrorWords.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_02.MirrorWords/obj/Debug/netcoreapp3.1/_02.MirrorWords.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_02.MirrorWords/obj/Debug/netcoreapp3.1/_02.MirrorWords.genruntimeconfig.cache

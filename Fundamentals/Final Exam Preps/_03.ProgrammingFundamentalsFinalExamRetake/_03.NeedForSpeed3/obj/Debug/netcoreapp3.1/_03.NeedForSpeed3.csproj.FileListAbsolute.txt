@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/bin/Debug/netcoreapp3.1/_03.NeedForSpeed3.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/bin/Debug/netcoreapp3.1/_03.NeedForSpeed3.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/bin/Debug/netcoreapp3.1/_03.NeedForSpeed3.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/bin/Debug/netcoreapp3.1/_03.NeedForSpeed3.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/bin/Debug/netcoreapp3.1/_03.NeedForSpeed3.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/obj/Debug/netcoreapp3.1/_03.NeedForSpeed3.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/obj/Debug/netcoreapp3.1/_03.NeedForSpeed3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/obj/Debug/netcoreapp3.1/_03.NeedForSpeed3.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/obj/Debug/netcoreapp3.1/_03.NeedForSpeed3.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/obj/Debug/netcoreapp3.1/_03.NeedForSpeed3.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/obj/Debug/netcoreapp3.1/_03.NeedForSpeed3.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/obj/Debug/netcoreapp3.1/_03.NeedForSpeed3.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/obj/Debug/netcoreapp3.1/_03.NeedForSpeed3.genruntimeconfig.cache

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01.SecretChat", "_01.SecretChat\_01.SecretChat.csproj", "{088F45A9-0D31-4B8E-8F7A-5699CE8E0DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02.MirrorWords", "_02.MirrorWords\_02.MirrorWords.csproj", "{F3F68BA3-77CD-4253-B2BC-675B01CA7EF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03.NeedForSpeed3", "_03.NeedForSpeed3\_03.NeedForSpeed3.csproj", "{0D86A2FB-0EF1-48F4-90A2-D09B6B1951DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088F45A9-0D31-4B8E-8F7A-5699CE8E0DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088F45A9-0D31-4B8E-8F7A-5699CE8E0DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088F45A9-0D31-4B8E-8F7A-5699CE8E0DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088F45A9-0D31-4B8E-8F7A-5699CE8E0DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F68BA3-77CD-4253-B2BC-675B01CA7EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F68BA3-77CD-4253-B2BC-675B01CA7EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F68BA3-77CD-4253-B2BC-675B01CA7EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F68BA3-77CD-4253-B2BC-675B01CA7EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D86A2FB-0EF1-48F4-90A2-D09B6B1951DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D86A2FB-0EF1-48F4-90A2-D09B6B1951DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D86A2FB-0EF1-48F4-90A2-D09B6B1951DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D86A2FB-0EF1-48F4-90A2-D09B6B1951DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
