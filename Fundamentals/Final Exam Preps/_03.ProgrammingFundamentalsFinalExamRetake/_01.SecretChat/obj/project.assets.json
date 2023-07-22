@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_01.SecretChat/_01.SecretChat.csproj",
+      "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Final Exam Preps/_03.ProgrammingFundamentalsFinalExamRetake/_01.SecretChat/_01.SecretChat.csproj",
       "projectName": "_01.SecretChat",
-      "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_01.SecretChat/_01.SecretChat.csproj",
+      "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Final Exam Preps/_03.ProgrammingFundamentalsFinalExamRetake/_01.SecretChat/_01.SecretChat.csproj",
       "packagesPath": "/Users/dbelinov/.nuget/packages/",
-      "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_01.SecretChat/obj/",
+      "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Final Exam Preps/_03.ProgrammingFundamentalsFinalExamRetake/_01.SecretChat/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dbelinov/.nuget/NuGet/NuGet.Config"

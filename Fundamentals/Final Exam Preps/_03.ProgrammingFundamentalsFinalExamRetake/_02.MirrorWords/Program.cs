@@ -9,8 +9,8 @@ namespace _02.MirrorWords
     {
         public Pair(string firstWord, string secondWord)
         {
-            this.FirstWord = firstWord;
-            this.SecondWord = secondWord;
+            FirstWord = firstWord;
+            SecondWord = secondWord;
         }
 
         public string FirstWord { get; set; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/_03.NeedForSpeed3.csproj": {}
+    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Final Exam Preps/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/_03.NeedForSpeed3.csproj": {}
   },
   "projects": {
-    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/_03.NeedForSpeed3.csproj": {
+    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Final Exam Preps/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/_03.NeedForSpeed3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/_03.NeedForSpeed3.csproj",
+        "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Final Exam Preps/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/_03.NeedForSpeed3.csproj",
         "projectName": "_03.NeedForSpeed3",
-        "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/_03.NeedForSpeed3.csproj",
+        "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Final Exam Preps/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/_03.NeedForSpeed3.csproj",
         "packagesPath": "/Users/dbelinov/.nuget/packages/",
-        "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/obj/",
+        "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/Final Exam Preps/_03.ProgrammingFundamentalsFinalExamRetake/_03.NeedForSpeed3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dbelinov/.nuget/NuGet/NuGet.Config"
