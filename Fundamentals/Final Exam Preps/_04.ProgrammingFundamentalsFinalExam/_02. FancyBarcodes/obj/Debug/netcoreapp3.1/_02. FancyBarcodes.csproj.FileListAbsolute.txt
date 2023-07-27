@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_02. FancyBarcodes/bin/Debug/netcoreapp3.1/_02. FancyBarcodes.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_02. FancyBarcodes/bin/Debug/netcoreapp3.1/_02. FancyBarcodes.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_02. FancyBarcodes/bin/Debug/netcoreapp3.1/_02. FancyBarcodes.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_02. FancyBarcodes/bin/Debug/netcoreapp3.1/_02. FancyBarcodes.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_02. FancyBarcodes/bin/Debug/netcoreapp3.1/_02. FancyBarcodes.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_02. FancyBarcodes/obj/Debug/netcoreapp3.1/_02. FancyBarcodes.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_02. FancyBarcodes/obj/Debug/netcoreapp3.1/_02. FancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_02. FancyBarcodes/obj/Debug/netcoreapp3.1/_02. FancyBarcodes.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_02. FancyBarcodes/obj/Debug/netcoreapp3.1/_02. FancyBarcodes.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_02. FancyBarcodes/obj/Debug/netcoreapp3.1/_02. FancyBarcodes.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_02. FancyBarcodes/obj/Debug/netcoreapp3.1/_02. FancyBarcodes.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_02. FancyBarcodes/obj/Debug/netcoreapp3.1/_02. FancyBarcodes.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_02. FancyBarcodes/obj/Debug/netcoreapp3.1/_02. FancyBarcodes.genruntimeconfig.cache

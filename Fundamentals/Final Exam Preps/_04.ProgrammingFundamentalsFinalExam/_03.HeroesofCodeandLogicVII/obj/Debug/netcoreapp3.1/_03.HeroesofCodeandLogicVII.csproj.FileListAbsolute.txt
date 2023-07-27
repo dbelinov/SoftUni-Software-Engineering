@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_03.HeroesofCodeandLogicVII/bin/Debug/netcoreapp3.1/_03.HeroesofCodeandLogicVII.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_03.HeroesofCodeandLogicVII/bin/Debug/netcoreapp3.1/_03.HeroesofCodeandLogicVII.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_03.HeroesofCodeandLogicVII/bin/Debug/netcoreapp3.1/_03.HeroesofCodeandLogicVII.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_03.HeroesofCodeandLogicVII/bin/Debug/netcoreapp3.1/_03.HeroesofCodeandLogicVII.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_03.HeroesofCodeandLogicVII/bin/Debug/netcoreapp3.1/_03.HeroesofCodeandLogicVII.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_03.HeroesofCodeandLogicVII/obj/Debug/netcoreapp3.1/_03.HeroesofCodeandLogicVII.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_03.HeroesofCodeandLogicVII/obj/Debug/netcoreapp3.1/_03.HeroesofCodeandLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_03.HeroesofCodeandLogicVII/obj/Debug/netcoreapp3.1/_03.HeroesofCodeandLogicVII.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_03.HeroesofCodeandLogicVII/obj/Debug/netcoreapp3.1/_03.HeroesofCodeandLogicVII.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_03.HeroesofCodeandLogicVII/obj/Debug/netcoreapp3.1/_03.HeroesofCodeandLogicVII.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_03.HeroesofCodeandLogicVII/obj/Debug/netcoreapp3.1/_03.HeroesofCodeandLogicVII.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_03.HeroesofCodeandLogicVII/obj/Debug/netcoreapp3.1/_03.HeroesofCodeandLogicVII.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_04.ProgrammingFundamentalsFinalExam/_03.HeroesofCodeandLogicVII/obj/Debug/netcoreapp3.1/_03.HeroesofCodeandLogicVII.genruntimeconfig.cache
