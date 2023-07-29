@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_02.EmojiDetector/bin/Debug/netcoreapp3.1/_02.EmojiDetector.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_02.EmojiDetector/bin/Debug/netcoreapp3.1/_02.EmojiDetector.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_02.EmojiDetector/bin/Debug/netcoreapp3.1/_02.EmojiDetector.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_02.EmojiDetector/bin/Debug/netcoreapp3.1/_02.EmojiDetector.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_02.EmojiDetector/bin/Debug/netcoreapp3.1/_02.EmojiDetector.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_02.EmojiDetector/obj/Debug/netcoreapp3.1/_02.EmojiDetector.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_02.EmojiDetector/obj/Debug/netcoreapp3.1/_02.EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_02.EmojiDetector/obj/Debug/netcoreapp3.1/_02.EmojiDetector.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_02.EmojiDetector/obj/Debug/netcoreapp3.1/_02.EmojiDetector.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_02.EmojiDetector/obj/Debug/netcoreapp3.1/_02.EmojiDetector.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_02.EmojiDetector/obj/Debug/netcoreapp3.1/_02.EmojiDetector.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_02.EmojiDetector/obj/Debug/netcoreapp3.1/_02.EmojiDetector.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_02.EmojiDetector/obj/Debug/netcoreapp3.1/_02.EmojiDetector.genruntimeconfig.cache

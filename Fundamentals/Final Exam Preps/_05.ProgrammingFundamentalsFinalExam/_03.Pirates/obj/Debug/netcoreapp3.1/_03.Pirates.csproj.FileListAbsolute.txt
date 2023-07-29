@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_03.Pirates/bin/Debug/netcoreapp3.1/_03.Pirates.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_03.Pirates/bin/Debug/netcoreapp3.1/_03.Pirates.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_03.Pirates/bin/Debug/netcoreapp3.1/_03.Pirates.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_03.Pirates/bin/Debug/netcoreapp3.1/_03.Pirates.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_03.Pirates/bin/Debug/netcoreapp3.1/_03.Pirates.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_03.Pirates/obj/Debug/netcoreapp3.1/_03.Pirates.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_03.Pirates/obj/Debug/netcoreapp3.1/_03.Pirates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_03.Pirates/obj/Debug/netcoreapp3.1/_03.Pirates.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_03.Pirates/obj/Debug/netcoreapp3.1/_03.Pirates.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_03.Pirates/obj/Debug/netcoreapp3.1/_03.Pirates.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_03.Pirates/obj/Debug/netcoreapp3.1/_03.Pirates.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_03.Pirates/obj/Debug/netcoreapp3.1/_03.Pirates.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_05.ProgrammingFundamentalsFinalExam/_03.Pirates/obj/Debug/netcoreapp3.1/_03.Pirates.genruntimeconfig.cache

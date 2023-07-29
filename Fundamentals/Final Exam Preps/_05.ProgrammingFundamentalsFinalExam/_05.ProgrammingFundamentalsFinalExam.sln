@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01.ActivationKeys", "_01.ActivationKeys\_01.ActivationKeys.csproj", "{FF1E8734-CC22-48EC-A3C6-2B9C9FA4A9E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02.EmojiDetector", "_02.EmojiDetector\_02.EmojiDetector.csproj", "{C9DCDBAA-121C-4CAA-942E-0EFABF5B85C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03.Pirates", "_03.Pirates\_03.Pirates.csproj", "{5C9EA957-15B0-4259-8C24-7ACFD6261203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF1E8734-CC22-48EC-A3C6-2B9C9FA4A9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1E8734-CC22-48EC-A3C6-2B9C9FA4A9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1E8734-CC22-48EC-A3C6-2B9C9FA4A9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1E8734-CC22-48EC-A3C6-2B9C9FA4A9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9DCDBAA-121C-4CAA-942E-0EFABF5B85C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DCDBAA-121C-4CAA-942E-0EFABF5B85C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DCDBAA-121C-4CAA-942E-0EFABF5B85C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DCDBAA-121C-4CAA-942E-0EFABF5B85C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9EA957-15B0-4259-8C24-7ACFD6261203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9EA957-15B0-4259-8C24-7ACFD6261203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9EA957-15B0-4259-8C24-7ACFD6261203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9EA957-15B0-4259-8C24-7ACFD6261203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
