@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_03.SimpleCalculator/bin/Debug/netcoreapp3.1/_03.SimpleCalculator.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_03.SimpleCalculator/bin/Debug/netcoreapp3.1/_03.SimpleCalculator.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_03.SimpleCalculator/bin/Debug/netcoreapp3.1/_03.SimpleCalculator.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_03.SimpleCalculator/bin/Debug/netcoreapp3.1/_03.SimpleCalculator.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_03.SimpleCalculator/bin/Debug/netcoreapp3.1/_03.SimpleCalculator.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_03.SimpleCalculator/obj/Debug/netcoreapp3.1/_03.SimpleCalculator.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_03.SimpleCalculator/obj/Debug/netcoreapp3.1/_03.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_03.SimpleCalculator/obj/Debug/netcoreapp3.1/_03.SimpleCalculator.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_03.SimpleCalculator/obj/Debug/netcoreapp3.1/_03.SimpleCalculator.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_03.SimpleCalculator/obj/Debug/netcoreapp3.1/_03.SimpleCalculator.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_03.SimpleCalculator/obj/Debug/netcoreapp3.1/_03.SimpleCalculator.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_03.SimpleCalculator/obj/Debug/netcoreapp3.1/_03.SimpleCalculator.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_03.SimpleCalculator/obj/Debug/netcoreapp3.1/_03.SimpleCalculator.genruntimeconfig.cache

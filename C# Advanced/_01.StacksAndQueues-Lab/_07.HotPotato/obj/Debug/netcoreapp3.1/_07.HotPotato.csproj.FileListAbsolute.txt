@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/bin/Debug/netcoreapp3.1/_07.HotPotato.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/bin/Debug/netcoreapp3.1/_07.HotPotato.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/bin/Debug/netcoreapp3.1/_07.HotPotato.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/bin/Debug/netcoreapp3.1/_07.HotPotato.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/bin/Debug/netcoreapp3.1/_07.HotPotato.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/obj/Debug/netcoreapp3.1/_07.HotPotato.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/obj/Debug/netcoreapp3.1/_07.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/obj/Debug/netcoreapp3.1/_07.HotPotato.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/obj/Debug/netcoreapp3.1/_07.HotPotato.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/obj/Debug/netcoreapp3.1/_07.HotPotato.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/obj/Debug/netcoreapp3.1/_07.HotPotato.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/obj/Debug/netcoreapp3.1/_07.HotPotato.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/obj/Debug/netcoreapp3.1/_07.HotPotato.genruntimeconfig.cache

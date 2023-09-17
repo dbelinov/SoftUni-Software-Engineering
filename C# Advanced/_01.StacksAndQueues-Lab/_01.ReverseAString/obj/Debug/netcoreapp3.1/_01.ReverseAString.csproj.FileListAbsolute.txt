@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_01.ReverseAString/bin/Debug/netcoreapp3.1/_01.ReverseAString.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_01.ReverseAString/bin/Debug/netcoreapp3.1/_01.ReverseAString.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_01.ReverseAString/bin/Debug/netcoreapp3.1/_01.ReverseAString.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_01.ReverseAString/bin/Debug/netcoreapp3.1/_01.ReverseAString.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_01.ReverseAString/bin/Debug/netcoreapp3.1/_01.ReverseAString.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_01.ReverseAString/obj/Debug/netcoreapp3.1/_01.ReverseAString.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_01.ReverseAString/obj/Debug/netcoreapp3.1/_01.ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_01.ReverseAString/obj/Debug/netcoreapp3.1/_01.ReverseAString.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_01.ReverseAString/obj/Debug/netcoreapp3.1/_01.ReverseAString.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_01.ReverseAString/obj/Debug/netcoreapp3.1/_01.ReverseAString.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_01.ReverseAString/obj/Debug/netcoreapp3.1/_01.ReverseAString.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_01.ReverseAString/obj/Debug/netcoreapp3.1/_01.ReverseAString.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_01.ReverseAString/obj/Debug/netcoreapp3.1/_01.ReverseAString.genruntimeconfig.cache

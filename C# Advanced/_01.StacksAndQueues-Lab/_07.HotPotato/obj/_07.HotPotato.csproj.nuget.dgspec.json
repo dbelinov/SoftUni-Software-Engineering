@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/_07.HotPotato.csproj": {}
+  },
+  "projects": {
+    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/_07.HotPotato.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/_07.HotPotato.csproj",
+        "projectName": "_07.HotPotato",
+        "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/_07.HotPotato.csproj",
+        "packagesPath": "/Users/dbelinov/.nuget/packages/",
+        "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_07.HotPotato/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dbelinov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_02.StackSum/bin/Debug/netcoreapp3.1/_02.StackSum.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_02.StackSum/bin/Debug/netcoreapp3.1/_02.StackSum.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_02.StackSum/bin/Debug/netcoreapp3.1/_02.StackSum.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_02.StackSum/bin/Debug/netcoreapp3.1/_02.StackSum.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_02.StackSum/bin/Debug/netcoreapp3.1/_02.StackSum.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_02.StackSum/obj/Debug/netcoreapp3.1/_02.StackSum.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_02.StackSum/obj/Debug/netcoreapp3.1/_02.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_02.StackSum/obj/Debug/netcoreapp3.1/_02.StackSum.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_02.StackSum/obj/Debug/netcoreapp3.1/_02.StackSum.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_02.StackSum/obj/Debug/netcoreapp3.1/_02.StackSum.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_02.StackSum/obj/Debug/netcoreapp3.1/_02.StackSum.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_02.StackSum/obj/Debug/netcoreapp3.1/_02.StackSum.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_02.StackSum/obj/Debug/netcoreapp3.1/_02.StackSum.genruntimeconfig.cache

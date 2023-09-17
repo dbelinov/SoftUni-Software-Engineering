@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_08.TrafficJam/bin/Debug/netcoreapp3.1/_08.TrafficJam.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_08.TrafficJam/bin/Debug/netcoreapp3.1/_08.TrafficJam.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_08.TrafficJam/bin/Debug/netcoreapp3.1/_08.TrafficJam.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_08.TrafficJam/bin/Debug/netcoreapp3.1/_08.TrafficJam.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_08.TrafficJam/bin/Debug/netcoreapp3.1/_08.TrafficJam.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_08.TrafficJam/obj/Debug/netcoreapp3.1/_08.TrafficJam.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_08.TrafficJam/obj/Debug/netcoreapp3.1/_08.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_08.TrafficJam/obj/Debug/netcoreapp3.1/_08.TrafficJam.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_08.TrafficJam/obj/Debug/netcoreapp3.1/_08.TrafficJam.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_08.TrafficJam/obj/Debug/netcoreapp3.1/_08.TrafficJam.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_08.TrafficJam/obj/Debug/netcoreapp3.1/_08.TrafficJam.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_08.TrafficJam/obj/Debug/netcoreapp3.1/_08.TrafficJam.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_08.TrafficJam/obj/Debug/netcoreapp3.1/_08.TrafficJam.genruntimeconfig.cache

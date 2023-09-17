@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_06.Supermarket/bin/Debug/netcoreapp3.1/_06.Supermarket.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_06.Supermarket/bin/Debug/netcoreapp3.1/_06.Supermarket.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_06.Supermarket/bin/Debug/netcoreapp3.1/_06.Supermarket.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_06.Supermarket/bin/Debug/netcoreapp3.1/_06.Supermarket.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_06.Supermarket/bin/Debug/netcoreapp3.1/_06.Supermarket.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_06.Supermarket/obj/Debug/netcoreapp3.1/_06.Supermarket.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_06.Supermarket/obj/Debug/netcoreapp3.1/_06.Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_06.Supermarket/obj/Debug/netcoreapp3.1/_06.Supermarket.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_06.Supermarket/obj/Debug/netcoreapp3.1/_06.Supermarket.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_06.Supermarket/obj/Debug/netcoreapp3.1/_06.Supermarket.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_06.Supermarket/obj/Debug/netcoreapp3.1/_06.Supermarket.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_06.Supermarket/obj/Debug/netcoreapp3.1/_06.Supermarket.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_01.StacksAndQueues-Lab/_06.Supermarket/obj/Debug/netcoreapp3.1/_06.Supermarket.genruntimeconfig.cache
