@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_01.BasicStackOperations/bin/Debug/netcoreapp3.1/_01.BasicStackOperations.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_01.BasicStackOperations/bin/Debug/netcoreapp3.1/_01.BasicStackOperations.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_01.BasicStackOperations/bin/Debug/netcoreapp3.1/_01.BasicStackOperations.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_01.BasicStackOperations/bin/Debug/netcoreapp3.1/_01.BasicStackOperations.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_01.BasicStackOperations/bin/Debug/netcoreapp3.1/_01.BasicStackOperations.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_01.BasicStackOperations/obj/Debug/netcoreapp3.1/_01.BasicStackOperations.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_01.BasicStackOperations/obj/Debug/netcoreapp3.1/_01.BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_01.BasicStackOperations/obj/Debug/netcoreapp3.1/_01.BasicStackOperations.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_01.BasicStackOperations/obj/Debug/netcoreapp3.1/_01.BasicStackOperations.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_01.BasicStackOperations/obj/Debug/netcoreapp3.1/_01.BasicStackOperations.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_01.BasicStackOperations/obj/Debug/netcoreapp3.1/_01.BasicStackOperations.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_01.BasicStackOperations/obj/Debug/netcoreapp3.1/_01.BasicStackOperations.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_01.BasicStackOperations/obj/Debug/netcoreapp3.1/_01.BasicStackOperations.genruntimeconfig.cache

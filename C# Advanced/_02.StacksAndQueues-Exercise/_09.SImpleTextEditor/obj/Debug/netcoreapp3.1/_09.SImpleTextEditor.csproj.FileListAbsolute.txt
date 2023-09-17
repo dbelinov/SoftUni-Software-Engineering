@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_09.SImpleTextEditor/bin/Debug/netcoreapp3.1/_09.SImpleTextEditor.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_09.SImpleTextEditor/bin/Debug/netcoreapp3.1/_09.SImpleTextEditor.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_09.SImpleTextEditor/bin/Debug/netcoreapp3.1/_09.SImpleTextEditor.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_09.SImpleTextEditor/bin/Debug/netcoreapp3.1/_09.SImpleTextEditor.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_09.SImpleTextEditor/bin/Debug/netcoreapp3.1/_09.SImpleTextEditor.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_09.SImpleTextEditor/obj/Debug/netcoreapp3.1/_09.SImpleTextEditor.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_09.SImpleTextEditor/obj/Debug/netcoreapp3.1/_09.SImpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_09.SImpleTextEditor/obj/Debug/netcoreapp3.1/_09.SImpleTextEditor.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_09.SImpleTextEditor/obj/Debug/netcoreapp3.1/_09.SImpleTextEditor.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_09.SImpleTextEditor/obj/Debug/netcoreapp3.1/_09.SImpleTextEditor.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_09.SImpleTextEditor/obj/Debug/netcoreapp3.1/_09.SImpleTextEditor.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_09.SImpleTextEditor/obj/Debug/netcoreapp3.1/_09.SImpleTextEditor.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_09.SImpleTextEditor/obj/Debug/netcoreapp3.1/_09.SImpleTextEditor.genruntimeconfig.cache

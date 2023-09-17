@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_05.FashionBoutique/bin/Debug/netcoreapp3.1/_05.FashionBoutique.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_05.FashionBoutique/bin/Debug/netcoreapp3.1/_05.FashionBoutique.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_05.FashionBoutique/bin/Debug/netcoreapp3.1/_05.FashionBoutique.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_05.FashionBoutique/bin/Debug/netcoreapp3.1/_05.FashionBoutique.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_05.FashionBoutique/bin/Debug/netcoreapp3.1/_05.FashionBoutique.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_05.FashionBoutique/obj/Debug/netcoreapp3.1/_05.FashionBoutique.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_05.FashionBoutique/obj/Debug/netcoreapp3.1/_05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_05.FashionBoutique/obj/Debug/netcoreapp3.1/_05.FashionBoutique.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_05.FashionBoutique/obj/Debug/netcoreapp3.1/_05.FashionBoutique.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_05.FashionBoutique/obj/Debug/netcoreapp3.1/_05.FashionBoutique.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_05.FashionBoutique/obj/Debug/netcoreapp3.1/_05.FashionBoutique.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_05.FashionBoutique/obj/Debug/netcoreapp3.1/_05.FashionBoutique.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_05.FashionBoutique/obj/Debug/netcoreapp3.1/_05.FashionBoutique.genruntimeconfig.cache

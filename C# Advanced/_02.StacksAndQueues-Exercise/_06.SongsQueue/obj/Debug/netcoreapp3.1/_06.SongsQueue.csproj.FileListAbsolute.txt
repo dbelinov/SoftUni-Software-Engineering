@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_06.SongsQueue/bin/Debug/netcoreapp3.1/_06.SongsQueue.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_06.SongsQueue/bin/Debug/netcoreapp3.1/_06.SongsQueue.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_06.SongsQueue/bin/Debug/netcoreapp3.1/_06.SongsQueue.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_06.SongsQueue/bin/Debug/netcoreapp3.1/_06.SongsQueue.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_06.SongsQueue/bin/Debug/netcoreapp3.1/_06.SongsQueue.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_06.SongsQueue/obj/Debug/netcoreapp3.1/_06.SongsQueue.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_06.SongsQueue/obj/Debug/netcoreapp3.1/_06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_06.SongsQueue/obj/Debug/netcoreapp3.1/_06.SongsQueue.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_06.SongsQueue/obj/Debug/netcoreapp3.1/_06.SongsQueue.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_06.SongsQueue/obj/Debug/netcoreapp3.1/_06.SongsQueue.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_06.SongsQueue/obj/Debug/netcoreapp3.1/_06.SongsQueue.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_06.SongsQueue/obj/Debug/netcoreapp3.1/_06.SongsQueue.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_06.SongsQueue/obj/Debug/netcoreapp3.1/_06.SongsQueue.genruntimeconfig.cache

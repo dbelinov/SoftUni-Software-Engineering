@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_03.MaximumAndMinimumElement/bin/Debug/netcoreapp3.1/_03.MaximumAndMinimumElement.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_03.MaximumAndMinimumElement/bin/Debug/netcoreapp3.1/_03.MaximumAndMinimumElement.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_03.MaximumAndMinimumElement/bin/Debug/netcoreapp3.1/_03.MaximumAndMinimumElement.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_03.MaximumAndMinimumElement/bin/Debug/netcoreapp3.1/_03.MaximumAndMinimumElement.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_03.MaximumAndMinimumElement/bin/Debug/netcoreapp3.1/_03.MaximumAndMinimumElement.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_03.MaximumAndMinimumElement/obj/Debug/netcoreapp3.1/_03.MaximumAndMinimumElement.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_03.MaximumAndMinimumElement/obj/Debug/netcoreapp3.1/_03.MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_03.MaximumAndMinimumElement/obj/Debug/netcoreapp3.1/_03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_03.MaximumAndMinimumElement/obj/Debug/netcoreapp3.1/_03.MaximumAndMinimumElement.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_03.MaximumAndMinimumElement/obj/Debug/netcoreapp3.1/_03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_03.MaximumAndMinimumElement/obj/Debug/netcoreapp3.1/_03.MaximumAndMinimumElement.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_03.MaximumAndMinimumElement/obj/Debug/netcoreapp3.1/_03.MaximumAndMinimumElement.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_03.MaximumAndMinimumElement/obj/Debug/netcoreapp3.1/_03.MaximumAndMinimumElement.genruntimeconfig.cache

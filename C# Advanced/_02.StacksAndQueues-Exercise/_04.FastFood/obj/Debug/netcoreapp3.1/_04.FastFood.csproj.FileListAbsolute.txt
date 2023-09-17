@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_04.FastFood/bin/Debug/netcoreapp3.1/_04.FastFood.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_04.FastFood/bin/Debug/netcoreapp3.1/_04.FastFood.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_04.FastFood/bin/Debug/netcoreapp3.1/_04.FastFood.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_04.FastFood/bin/Debug/netcoreapp3.1/_04.FastFood.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_04.FastFood/bin/Debug/netcoreapp3.1/_04.FastFood.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_04.FastFood/obj/Debug/netcoreapp3.1/_04.FastFood.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_04.FastFood/obj/Debug/netcoreapp3.1/_04.FastFood.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_04.FastFood/obj/Debug/netcoreapp3.1/_04.FastFood.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_04.FastFood/obj/Debug/netcoreapp3.1/_04.FastFood.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_04.FastFood/obj/Debug/netcoreapp3.1/_04.FastFood.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_04.FastFood/obj/Debug/netcoreapp3.1/_04.FastFood.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_04.FastFood/obj/Debug/netcoreapp3.1/_04.FastFood.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_02.StacksAndQueues-Exercise/_04.FastFood/obj/Debug/netcoreapp3.1/_04.FastFood.genruntimeconfig.cache
