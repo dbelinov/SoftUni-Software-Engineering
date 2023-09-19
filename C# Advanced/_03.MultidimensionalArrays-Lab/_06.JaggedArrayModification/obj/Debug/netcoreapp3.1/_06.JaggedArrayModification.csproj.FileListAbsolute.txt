@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_06.JaggedArrayModification/bin/Debug/netcoreapp3.1/_06.JaggedArrayModification.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_06.JaggedArrayModification/bin/Debug/netcoreapp3.1/_06.JaggedArrayModification.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_06.JaggedArrayModification/bin/Debug/netcoreapp3.1/_06.JaggedArrayModification.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_06.JaggedArrayModification/bin/Debug/netcoreapp3.1/_06.JaggedArrayModification.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_06.JaggedArrayModification/bin/Debug/netcoreapp3.1/_06.JaggedArrayModification.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_06.JaggedArrayModification/obj/Debug/netcoreapp3.1/_06.JaggedArrayModification.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_06.JaggedArrayModification/obj/Debug/netcoreapp3.1/_06.JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_06.JaggedArrayModification/obj/Debug/netcoreapp3.1/_06.JaggedArrayModification.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_06.JaggedArrayModification/obj/Debug/netcoreapp3.1/_06.JaggedArrayModification.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_06.JaggedArrayModification/obj/Debug/netcoreapp3.1/_06.JaggedArrayModification.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_06.JaggedArrayModification/obj/Debug/netcoreapp3.1/_06.JaggedArrayModification.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_06.JaggedArrayModification/obj/Debug/netcoreapp3.1/_06.JaggedArrayModification.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_06.JaggedArrayModification/obj/Debug/netcoreapp3.1/_06.JaggedArrayModification.genruntimeconfig.cache

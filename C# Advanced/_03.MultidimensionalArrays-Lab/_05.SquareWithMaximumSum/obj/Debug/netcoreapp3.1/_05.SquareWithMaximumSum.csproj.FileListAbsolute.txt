@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_05.SquareWithMaximumSum/bin/Debug/netcoreapp3.1/_05.SquareWithMaximumSum.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_05.SquareWithMaximumSum/bin/Debug/netcoreapp3.1/_05.SquareWithMaximumSum.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_05.SquareWithMaximumSum/bin/Debug/netcoreapp3.1/_05.SquareWithMaximumSum.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_05.SquareWithMaximumSum/bin/Debug/netcoreapp3.1/_05.SquareWithMaximumSum.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_05.SquareWithMaximumSum/bin/Debug/netcoreapp3.1/_05.SquareWithMaximumSum.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_05.SquareWithMaximumSum/obj/Debug/netcoreapp3.1/_05.SquareWithMaximumSum.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_05.SquareWithMaximumSum/obj/Debug/netcoreapp3.1/_05.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_05.SquareWithMaximumSum/obj/Debug/netcoreapp3.1/_05.SquareWithMaximumSum.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_05.SquareWithMaximumSum/obj/Debug/netcoreapp3.1/_05.SquareWithMaximumSum.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_05.SquareWithMaximumSum/obj/Debug/netcoreapp3.1/_05.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_05.SquareWithMaximumSum/obj/Debug/netcoreapp3.1/_05.SquareWithMaximumSum.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_05.SquareWithMaximumSum/obj/Debug/netcoreapp3.1/_05.SquareWithMaximumSum.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_05.SquareWithMaximumSum/obj/Debug/netcoreapp3.1/_05.SquareWithMaximumSum.genruntimeconfig.cache

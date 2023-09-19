@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_01.SumMatrixElements/bin/Debug/netcoreapp3.1/_01.SumMatrixElements.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_01.SumMatrixElements/bin/Debug/netcoreapp3.1/_01.SumMatrixElements.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_01.SumMatrixElements/bin/Debug/netcoreapp3.1/_01.SumMatrixElements.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_01.SumMatrixElements/bin/Debug/netcoreapp3.1/_01.SumMatrixElements.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_01.SumMatrixElements/bin/Debug/netcoreapp3.1/_01.SumMatrixElements.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_01.SumMatrixElements/obj/Debug/netcoreapp3.1/_01.SumMatrixElements.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_01.SumMatrixElements/obj/Debug/netcoreapp3.1/_01.SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_01.SumMatrixElements/obj/Debug/netcoreapp3.1/_01.SumMatrixElements.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_01.SumMatrixElements/obj/Debug/netcoreapp3.1/_01.SumMatrixElements.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_01.SumMatrixElements/obj/Debug/netcoreapp3.1/_01.SumMatrixElements.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_01.SumMatrixElements/obj/Debug/netcoreapp3.1/_01.SumMatrixElements.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_01.SumMatrixElements/obj/Debug/netcoreapp3.1/_01.SumMatrixElements.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_03.MultidimensionalArrays-Lab/_01.SumMatrixElements/obj/Debug/netcoreapp3.1/_01.SumMatrixElements.genruntimeconfig.cache
