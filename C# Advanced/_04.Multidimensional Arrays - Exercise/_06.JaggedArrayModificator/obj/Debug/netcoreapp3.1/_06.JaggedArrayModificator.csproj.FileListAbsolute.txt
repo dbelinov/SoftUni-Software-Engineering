@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_06.JaggedArrayModificator/bin/Debug/netcoreapp3.1/_06.JaggedArrayModificator.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_06.JaggedArrayModificator/bin/Debug/netcoreapp3.1/_06.JaggedArrayModificator.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_06.JaggedArrayModificator/bin/Debug/netcoreapp3.1/_06.JaggedArrayModificator.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_06.JaggedArrayModificator/bin/Debug/netcoreapp3.1/_06.JaggedArrayModificator.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_06.JaggedArrayModificator/bin/Debug/netcoreapp3.1/_06.JaggedArrayModificator.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_06.JaggedArrayModificator/obj/Debug/netcoreapp3.1/_06.JaggedArrayModificator.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_06.JaggedArrayModificator/obj/Debug/netcoreapp3.1/_06.JaggedArrayModificator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_06.JaggedArrayModificator/obj/Debug/netcoreapp3.1/_06.JaggedArrayModificator.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_06.JaggedArrayModificator/obj/Debug/netcoreapp3.1/_06.JaggedArrayModificator.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_06.JaggedArrayModificator/obj/Debug/netcoreapp3.1/_06.JaggedArrayModificator.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_06.JaggedArrayModificator/obj/Debug/netcoreapp3.1/_06.JaggedArrayModificator.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_06.JaggedArrayModificator/obj/Debug/netcoreapp3.1/_06.JaggedArrayModificator.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_06.JaggedArrayModificator/obj/Debug/netcoreapp3.1/_06.JaggedArrayModificator.genruntimeconfig.cache

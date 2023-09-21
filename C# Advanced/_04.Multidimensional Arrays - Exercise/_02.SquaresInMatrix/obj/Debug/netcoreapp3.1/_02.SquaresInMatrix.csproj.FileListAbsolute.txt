@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_02.SquaresInMatrix/bin/Debug/netcoreapp3.1/_02.SquaresInMatrix.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_02.SquaresInMatrix/bin/Debug/netcoreapp3.1/_02.SquaresInMatrix.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_02.SquaresInMatrix/bin/Debug/netcoreapp3.1/_02.SquaresInMatrix.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_02.SquaresInMatrix/bin/Debug/netcoreapp3.1/_02.SquaresInMatrix.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_02.SquaresInMatrix/bin/Debug/netcoreapp3.1/_02.SquaresInMatrix.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_02.SquaresInMatrix/obj/Debug/netcoreapp3.1/_02.SquaresInMatrix.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_02.SquaresInMatrix/obj/Debug/netcoreapp3.1/_02.SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_02.SquaresInMatrix/obj/Debug/netcoreapp3.1/_02.SquaresInMatrix.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_02.SquaresInMatrix/obj/Debug/netcoreapp3.1/_02.SquaresInMatrix.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_02.SquaresInMatrix/obj/Debug/netcoreapp3.1/_02.SquaresInMatrix.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_02.SquaresInMatrix/obj/Debug/netcoreapp3.1/_02.SquaresInMatrix.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_02.SquaresInMatrix/obj/Debug/netcoreapp3.1/_02.SquaresInMatrix.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_02.SquaresInMatrix/obj/Debug/netcoreapp3.1/_02.SquaresInMatrix.genruntimeconfig.cache

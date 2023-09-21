@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_04.MatrixShuffling/bin/Debug/netcoreapp3.1/_04.MatrixShuffling.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_04.MatrixShuffling/bin/Debug/netcoreapp3.1/_04.MatrixShuffling.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_04.MatrixShuffling/bin/Debug/netcoreapp3.1/_04.MatrixShuffling.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_04.MatrixShuffling/bin/Debug/netcoreapp3.1/_04.MatrixShuffling.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_04.MatrixShuffling/bin/Debug/netcoreapp3.1/_04.MatrixShuffling.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_04.MatrixShuffling/obj/Debug/netcoreapp3.1/_04.MatrixShuffling.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_04.MatrixShuffling/obj/Debug/netcoreapp3.1/_04.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_04.MatrixShuffling/obj/Debug/netcoreapp3.1/_04.MatrixShuffling.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_04.MatrixShuffling/obj/Debug/netcoreapp3.1/_04.MatrixShuffling.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_04.MatrixShuffling/obj/Debug/netcoreapp3.1/_04.MatrixShuffling.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_04.MatrixShuffling/obj/Debug/netcoreapp3.1/_04.MatrixShuffling.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_04.MatrixShuffling/obj/Debug/netcoreapp3.1/_04.MatrixShuffling.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_04.MatrixShuffling/obj/Debug/netcoreapp3.1/_04.MatrixShuffling.genruntimeconfig.cache

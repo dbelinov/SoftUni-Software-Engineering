@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_03.MaximumSum/bin/Debug/netcoreapp3.1/_03.MaximumSum.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_03.MaximumSum/bin/Debug/netcoreapp3.1/_03.MaximumSum.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_03.MaximumSum/bin/Debug/netcoreapp3.1/_03.MaximumSum.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_03.MaximumSum/bin/Debug/netcoreapp3.1/_03.MaximumSum.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_03.MaximumSum/bin/Debug/netcoreapp3.1/_03.MaximumSum.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_03.MaximumSum/obj/Debug/netcoreapp3.1/_03.MaximumSum.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_03.MaximumSum/obj/Debug/netcoreapp3.1/_03.MaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_03.MaximumSum/obj/Debug/netcoreapp3.1/_03.MaximumSum.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_03.MaximumSum/obj/Debug/netcoreapp3.1/_03.MaximumSum.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_03.MaximumSum/obj/Debug/netcoreapp3.1/_03.MaximumSum.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_03.MaximumSum/obj/Debug/netcoreapp3.1/_03.MaximumSum.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_03.MaximumSum/obj/Debug/netcoreapp3.1/_03.MaximumSum.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_04.Multidimensional Arrays - Exercise/_03.MaximumSum/obj/Debug/netcoreapp3.1/_03.MaximumSum.genruntimeconfig.cache
