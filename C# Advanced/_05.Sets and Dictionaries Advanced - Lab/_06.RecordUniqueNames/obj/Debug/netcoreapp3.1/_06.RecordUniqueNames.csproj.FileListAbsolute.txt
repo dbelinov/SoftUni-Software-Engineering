@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_06.RecordUniqueNames/bin/Debug/netcoreapp3.1/_06.RecordUniqueNames.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_06.RecordUniqueNames/bin/Debug/netcoreapp3.1/_06.RecordUniqueNames.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_06.RecordUniqueNames/bin/Debug/netcoreapp3.1/_06.RecordUniqueNames.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_06.RecordUniqueNames/bin/Debug/netcoreapp3.1/_06.RecordUniqueNames.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_06.RecordUniqueNames/bin/Debug/netcoreapp3.1/_06.RecordUniqueNames.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_06.RecordUniqueNames/obj/Debug/netcoreapp3.1/_06.RecordUniqueNames.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_06.RecordUniqueNames/obj/Debug/netcoreapp3.1/_06.RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_06.RecordUniqueNames/obj/Debug/netcoreapp3.1/_06.RecordUniqueNames.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_06.RecordUniqueNames/obj/Debug/netcoreapp3.1/_06.RecordUniqueNames.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_06.RecordUniqueNames/obj/Debug/netcoreapp3.1/_06.RecordUniqueNames.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_06.RecordUniqueNames/obj/Debug/netcoreapp3.1/_06.RecordUniqueNames.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_06.RecordUniqueNames/obj/Debug/netcoreapp3.1/_06.RecordUniqueNames.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_06.RecordUniqueNames/obj/Debug/netcoreapp3.1/_06.RecordUniqueNames.genruntimeconfig.cache

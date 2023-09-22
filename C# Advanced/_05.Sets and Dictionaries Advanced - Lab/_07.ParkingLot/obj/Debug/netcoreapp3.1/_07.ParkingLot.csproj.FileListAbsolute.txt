@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_07.ParkingLot/bin/Debug/netcoreapp3.1/_07.ParkingLot.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_07.ParkingLot/bin/Debug/netcoreapp3.1/_07.ParkingLot.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_07.ParkingLot/bin/Debug/netcoreapp3.1/_07.ParkingLot.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_07.ParkingLot/bin/Debug/netcoreapp3.1/_07.ParkingLot.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_07.ParkingLot/bin/Debug/netcoreapp3.1/_07.ParkingLot.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_07.ParkingLot/obj/Debug/netcoreapp3.1/_07.ParkingLot.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_07.ParkingLot/obj/Debug/netcoreapp3.1/_07.ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_07.ParkingLot/obj/Debug/netcoreapp3.1/_07.ParkingLot.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_07.ParkingLot/obj/Debug/netcoreapp3.1/_07.ParkingLot.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_07.ParkingLot/obj/Debug/netcoreapp3.1/_07.ParkingLot.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_07.ParkingLot/obj/Debug/netcoreapp3.1/_07.ParkingLot.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_07.ParkingLot/obj/Debug/netcoreapp3.1/_07.ParkingLot.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_07.ParkingLot/obj/Debug/netcoreapp3.1/_07.ParkingLot.genruntimeconfig.cache

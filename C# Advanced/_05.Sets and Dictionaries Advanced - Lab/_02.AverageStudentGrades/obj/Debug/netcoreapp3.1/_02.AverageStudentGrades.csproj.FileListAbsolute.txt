@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_02.AverageStudentGrades/bin/Debug/netcoreapp3.1/_02.AverageStudentGrades.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_02.AverageStudentGrades/bin/Debug/netcoreapp3.1/_02.AverageStudentGrades.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_02.AverageStudentGrades/bin/Debug/netcoreapp3.1/_02.AverageStudentGrades.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_02.AverageStudentGrades/bin/Debug/netcoreapp3.1/_02.AverageStudentGrades.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_02.AverageStudentGrades/bin/Debug/netcoreapp3.1/_02.AverageStudentGrades.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_02.AverageStudentGrades/obj/Debug/netcoreapp3.1/_02.AverageStudentGrades.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_02.AverageStudentGrades/obj/Debug/netcoreapp3.1/_02.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_02.AverageStudentGrades/obj/Debug/netcoreapp3.1/_02.AverageStudentGrades.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_02.AverageStudentGrades/obj/Debug/netcoreapp3.1/_02.AverageStudentGrades.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_02.AverageStudentGrades/obj/Debug/netcoreapp3.1/_02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_02.AverageStudentGrades/obj/Debug/netcoreapp3.1/_02.AverageStudentGrades.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_02.AverageStudentGrades/obj/Debug/netcoreapp3.1/_02.AverageStudentGrades.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_02.AverageStudentGrades/obj/Debug/netcoreapp3.1/_02.AverageStudentGrades.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_04.ProductShop/bin/Debug/netcoreapp3.1/_04.ProductShop.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_04.ProductShop/bin/Debug/netcoreapp3.1/_04.ProductShop.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_04.ProductShop/bin/Debug/netcoreapp3.1/_04.ProductShop.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_04.ProductShop/bin/Debug/netcoreapp3.1/_04.ProductShop.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_04.ProductShop/bin/Debug/netcoreapp3.1/_04.ProductShop.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_04.ProductShop/obj/Debug/netcoreapp3.1/_04.ProductShop.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_04.ProductShop/obj/Debug/netcoreapp3.1/_04.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_04.ProductShop/obj/Debug/netcoreapp3.1/_04.ProductShop.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_04.ProductShop/obj/Debug/netcoreapp3.1/_04.ProductShop.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_04.ProductShop/obj/Debug/netcoreapp3.1/_04.ProductShop.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_04.ProductShop/obj/Debug/netcoreapp3.1/_04.ProductShop.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_04.ProductShop/obj/Debug/netcoreapp3.1/_04.ProductShop.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_04.ProductShop/obj/Debug/netcoreapp3.1/_04.ProductShop.genruntimeconfig.cache

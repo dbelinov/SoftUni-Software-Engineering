@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_08.SoftUniParty/bin/Debug/netcoreapp3.1/_08.SoftUniParty.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_08.SoftUniParty/bin/Debug/netcoreapp3.1/_08.SoftUniParty.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_08.SoftUniParty/bin/Debug/netcoreapp3.1/_08.SoftUniParty.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_08.SoftUniParty/bin/Debug/netcoreapp3.1/_08.SoftUniParty.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_08.SoftUniParty/bin/Debug/netcoreapp3.1/_08.SoftUniParty.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_08.SoftUniParty/obj/Debug/netcoreapp3.1/_08.SoftUniParty.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_08.SoftUniParty/obj/Debug/netcoreapp3.1/_08.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_08.SoftUniParty/obj/Debug/netcoreapp3.1/_08.SoftUniParty.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_08.SoftUniParty/obj/Debug/netcoreapp3.1/_08.SoftUniParty.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_08.SoftUniParty/obj/Debug/netcoreapp3.1/_08.SoftUniParty.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_08.SoftUniParty/obj/Debug/netcoreapp3.1/_08.SoftUniParty.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_08.SoftUniParty/obj/Debug/netcoreapp3.1/_08.SoftUniParty.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_05.Sets and Dictionaries Advanced - Lab/_08.SoftUniParty/obj/Debug/netcoreapp3.1/_08.SoftUniParty.genruntimeconfig.cache
