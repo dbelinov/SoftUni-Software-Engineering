@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_05.CountSymbols/bin/Debug/netcoreapp3.1/_05.CountSymbols.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_05.CountSymbols/bin/Debug/netcoreapp3.1/_05.CountSymbols.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_05.CountSymbols/bin/Debug/netcoreapp3.1/_05.CountSymbols.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_05.CountSymbols/bin/Debug/netcoreapp3.1/_05.CountSymbols.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_05.CountSymbols/bin/Debug/netcoreapp3.1/_05.CountSymbols.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_05.CountSymbols/obj/Debug/netcoreapp3.1/_05.CountSymbols.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_05.CountSymbols/obj/Debug/netcoreapp3.1/_05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_05.CountSymbols/obj/Debug/netcoreapp3.1/_05.CountSymbols.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_05.CountSymbols/obj/Debug/netcoreapp3.1/_05.CountSymbols.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_05.CountSymbols/obj/Debug/netcoreapp3.1/_05.CountSymbols.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_05.CountSymbols/obj/Debug/netcoreapp3.1/_05.CountSymbols.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_05.CountSymbols/obj/Debug/netcoreapp3.1/_05.CountSymbols.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_05.CountSymbols/obj/Debug/netcoreapp3.1/_05.CountSymbols.genruntimeconfig.cache

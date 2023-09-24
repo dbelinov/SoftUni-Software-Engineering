@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_01.UniqueUsernames/bin/Debug/netcoreapp3.1/_01.UniqueUsernames.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_01.UniqueUsernames/bin/Debug/netcoreapp3.1/_01.UniqueUsernames.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_01.UniqueUsernames/bin/Debug/netcoreapp3.1/_01.UniqueUsernames.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_01.UniqueUsernames/bin/Debug/netcoreapp3.1/_01.UniqueUsernames.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_01.UniqueUsernames/bin/Debug/netcoreapp3.1/_01.UniqueUsernames.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_01.UniqueUsernames/obj/Debug/netcoreapp3.1/_01.UniqueUsernames.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_01.UniqueUsernames/obj/Debug/netcoreapp3.1/_01.UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_01.UniqueUsernames/obj/Debug/netcoreapp3.1/_01.UniqueUsernames.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_01.UniqueUsernames/obj/Debug/netcoreapp3.1/_01.UniqueUsernames.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_01.UniqueUsernames/obj/Debug/netcoreapp3.1/_01.UniqueUsernames.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_01.UniqueUsernames/obj/Debug/netcoreapp3.1/_01.UniqueUsernames.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_01.UniqueUsernames/obj/Debug/netcoreapp3.1/_01.UniqueUsernames.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_01.UniqueUsernames/obj/Debug/netcoreapp3.1/_01.UniqueUsernames.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_09.SoftUniExamResults/bin/Debug/netcoreapp3.1/_09.SoftUniExamResults.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_09.SoftUniExamResults/bin/Debug/netcoreapp3.1/_09.SoftUniExamResults.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_09.SoftUniExamResults/bin/Debug/netcoreapp3.1/_09.SoftUniExamResults.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_09.SoftUniExamResults/bin/Debug/netcoreapp3.1/_09.SoftUniExamResults.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_09.SoftUniExamResults/bin/Debug/netcoreapp3.1/_09.SoftUniExamResults.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_09.SoftUniExamResults/obj/Debug/netcoreapp3.1/_09.SoftUniExamResults.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_09.SoftUniExamResults/obj/Debug/netcoreapp3.1/_09.SoftUniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_09.SoftUniExamResults/obj/Debug/netcoreapp3.1/_09.SoftUniExamResults.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_09.SoftUniExamResults/obj/Debug/netcoreapp3.1/_09.SoftUniExamResults.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_09.SoftUniExamResults/obj/Debug/netcoreapp3.1/_09.SoftUniExamResults.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_09.SoftUniExamResults/obj/Debug/netcoreapp3.1/_09.SoftUniExamResults.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_09.SoftUniExamResults/obj/Debug/netcoreapp3.1/_09.SoftUniExamResults.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_09.SoftUniExamResults/obj/Debug/netcoreapp3.1/_09.SoftUniExamResults.genruntimeconfig.cache

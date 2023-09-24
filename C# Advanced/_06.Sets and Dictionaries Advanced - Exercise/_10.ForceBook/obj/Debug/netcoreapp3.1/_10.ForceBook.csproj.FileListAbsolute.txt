@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_10.ForceBook/bin/Debug/netcoreapp3.1/_10.ForceBook.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_10.ForceBook/bin/Debug/netcoreapp3.1/_10.ForceBook.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_10.ForceBook/bin/Debug/netcoreapp3.1/_10.ForceBook.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_10.ForceBook/bin/Debug/netcoreapp3.1/_10.ForceBook.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_10.ForceBook/bin/Debug/netcoreapp3.1/_10.ForceBook.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_10.ForceBook/obj/Debug/netcoreapp3.1/_10.ForceBook.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_10.ForceBook/obj/Debug/netcoreapp3.1/_10.ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_10.ForceBook/obj/Debug/netcoreapp3.1/_10.ForceBook.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_10.ForceBook/obj/Debug/netcoreapp3.1/_10.ForceBook.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_10.ForceBook/obj/Debug/netcoreapp3.1/_10.ForceBook.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_10.ForceBook/obj/Debug/netcoreapp3.1/_10.ForceBook.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_10.ForceBook/obj/Debug/netcoreapp3.1/_10.ForceBook.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_10.ForceBook/obj/Debug/netcoreapp3.1/_10.ForceBook.genruntimeconfig.cache

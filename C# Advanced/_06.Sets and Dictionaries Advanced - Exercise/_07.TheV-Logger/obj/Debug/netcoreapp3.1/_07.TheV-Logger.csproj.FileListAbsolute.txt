@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_07.TheV-Logger/bin/Debug/netcoreapp3.1/_07.TheV-Logger.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_07.TheV-Logger/bin/Debug/netcoreapp3.1/_07.TheV-Logger.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_07.TheV-Logger/bin/Debug/netcoreapp3.1/_07.TheV-Logger.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_07.TheV-Logger/bin/Debug/netcoreapp3.1/_07.TheV-Logger.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_07.TheV-Logger/bin/Debug/netcoreapp3.1/_07.TheV-Logger.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_07.TheV-Logger/obj/Debug/netcoreapp3.1/_07.TheV-Logger.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_07.TheV-Logger/obj/Debug/netcoreapp3.1/_07.TheV-Logger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_07.TheV-Logger/obj/Debug/netcoreapp3.1/_07.TheV-Logger.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_07.TheV-Logger/obj/Debug/netcoreapp3.1/_07.TheV-Logger.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_07.TheV-Logger/obj/Debug/netcoreapp3.1/_07.TheV-Logger.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_07.TheV-Logger/obj/Debug/netcoreapp3.1/_07.TheV-Logger.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_07.TheV-Logger/obj/Debug/netcoreapp3.1/_07.TheV-Logger.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_07.TheV-Logger/obj/Debug/netcoreapp3.1/_07.TheV-Logger.genruntimeconfig.cache

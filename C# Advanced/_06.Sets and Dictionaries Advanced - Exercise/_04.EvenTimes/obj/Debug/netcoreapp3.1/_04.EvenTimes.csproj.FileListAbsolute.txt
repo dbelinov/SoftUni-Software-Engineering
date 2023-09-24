@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_04.EvenTimes/bin/Debug/netcoreapp3.1/_04.EvenTimes.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_04.EvenTimes/bin/Debug/netcoreapp3.1/_04.EvenTimes.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_04.EvenTimes/bin/Debug/netcoreapp3.1/_04.EvenTimes.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_04.EvenTimes/bin/Debug/netcoreapp3.1/_04.EvenTimes.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_04.EvenTimes/bin/Debug/netcoreapp3.1/_04.EvenTimes.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_04.EvenTimes/obj/Debug/netcoreapp3.1/_04.EvenTimes.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_04.EvenTimes/obj/Debug/netcoreapp3.1/_04.EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_04.EvenTimes/obj/Debug/netcoreapp3.1/_04.EvenTimes.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_04.EvenTimes/obj/Debug/netcoreapp3.1/_04.EvenTimes.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_04.EvenTimes/obj/Debug/netcoreapp3.1/_04.EvenTimes.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_04.EvenTimes/obj/Debug/netcoreapp3.1/_04.EvenTimes.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_04.EvenTimes/obj/Debug/netcoreapp3.1/_04.EvenTimes.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_04.EvenTimes/obj/Debug/netcoreapp3.1/_04.EvenTimes.genruntimeconfig.cache

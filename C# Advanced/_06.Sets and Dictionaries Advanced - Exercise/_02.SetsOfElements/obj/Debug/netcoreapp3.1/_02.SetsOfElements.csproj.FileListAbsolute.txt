@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_02.SetsOfElements/bin/Debug/netcoreapp3.1/_02.SetsOfElements.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_02.SetsOfElements/bin/Debug/netcoreapp3.1/_02.SetsOfElements.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_02.SetsOfElements/bin/Debug/netcoreapp3.1/_02.SetsOfElements.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_02.SetsOfElements/bin/Debug/netcoreapp3.1/_02.SetsOfElements.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_02.SetsOfElements/bin/Debug/netcoreapp3.1/_02.SetsOfElements.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_02.SetsOfElements/obj/Debug/netcoreapp3.1/_02.SetsOfElements.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_02.SetsOfElements/obj/Debug/netcoreapp3.1/_02.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_02.SetsOfElements/obj/Debug/netcoreapp3.1/_02.SetsOfElements.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_02.SetsOfElements/obj/Debug/netcoreapp3.1/_02.SetsOfElements.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_02.SetsOfElements/obj/Debug/netcoreapp3.1/_02.SetsOfElements.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_02.SetsOfElements/obj/Debug/netcoreapp3.1/_02.SetsOfElements.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_02.SetsOfElements/obj/Debug/netcoreapp3.1/_02.SetsOfElements.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_02.SetsOfElements/obj/Debug/netcoreapp3.1/_02.SetsOfElements.genruntimeconfig.cache

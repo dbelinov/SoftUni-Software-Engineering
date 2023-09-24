@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_06.Wardrobe/bin/Debug/netcoreapp3.1/_06.Wardrobe.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_06.Wardrobe/bin/Debug/netcoreapp3.1/_06.Wardrobe.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_06.Wardrobe/bin/Debug/netcoreapp3.1/_06.Wardrobe.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_06.Wardrobe/bin/Debug/netcoreapp3.1/_06.Wardrobe.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_06.Wardrobe/bin/Debug/netcoreapp3.1/_06.Wardrobe.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_06.Wardrobe/obj/Debug/netcoreapp3.1/_06.Wardrobe.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_06.Wardrobe/obj/Debug/netcoreapp3.1/_06.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_06.Wardrobe/obj/Debug/netcoreapp3.1/_06.Wardrobe.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_06.Wardrobe/obj/Debug/netcoreapp3.1/_06.Wardrobe.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_06.Wardrobe/obj/Debug/netcoreapp3.1/_06.Wardrobe.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_06.Wardrobe/obj/Debug/netcoreapp3.1/_06.Wardrobe.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_06.Wardrobe/obj/Debug/netcoreapp3.1/_06.Wardrobe.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_06.Wardrobe/obj/Debug/netcoreapp3.1/_06.Wardrobe.genruntimeconfig.cache

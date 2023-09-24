@@ -1,0 +1,13 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_03.PeriodicTable/bin/Debug/netcoreapp3.1/_03.PeriodicTable.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_03.PeriodicTable/bin/Debug/netcoreapp3.1/_03.PeriodicTable.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_03.PeriodicTable/bin/Debug/netcoreapp3.1/_03.PeriodicTable.runtimeconfig.dev.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_03.PeriodicTable/bin/Debug/netcoreapp3.1/_03.PeriodicTable.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_03.PeriodicTable/bin/Debug/netcoreapp3.1/_03.PeriodicTable.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_03.PeriodicTable/obj/Debug/netcoreapp3.1/_03.PeriodicTable.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_03.PeriodicTable/obj/Debug/netcoreapp3.1/_03.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_03.PeriodicTable/obj/Debug/netcoreapp3.1/_03.PeriodicTable.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_03.PeriodicTable/obj/Debug/netcoreapp3.1/_03.PeriodicTable.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_03.PeriodicTable/obj/Debug/netcoreapp3.1/_03.PeriodicTable.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_03.PeriodicTable/obj/Debug/netcoreapp3.1/_03.PeriodicTable.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_03.PeriodicTable/obj/Debug/netcoreapp3.1/_03.PeriodicTable.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_06.Sets and Dictionaries Advanced - Exercise/_03.PeriodicTable/obj/Debug/netcoreapp3.1/_03.PeriodicTable.genruntimeconfig.cache
