@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/bin/Debug/net6.0/_05.SpecialCars
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/bin/Debug/net6.0/_05.SpecialCars.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/bin/Debug/net6.0/_05.SpecialCars.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/bin/Debug/net6.0/_05.SpecialCars.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/bin/Debug/net6.0/_05.SpecialCars.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/obj/Debug/net6.0/_05.SpecialCars.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/obj/Debug/net6.0/_05.SpecialCars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/obj/Debug/net6.0/_05.SpecialCars.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/obj/Debug/net6.0/_05.SpecialCars.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/obj/Debug/net6.0/_05.SpecialCars.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/obj/Debug/net6.0/_05.SpecialCars.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/obj/Debug/net6.0/refint/_05.SpecialCars.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/obj/Debug/net6.0/_05.SpecialCars.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/obj/Debug/net6.0/_05.SpecialCars.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/_11.DefiningClasses/_05.SpecialCars/obj/Debug/net6.0/ref/_05.SpecialCars.dll
