@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/bin/Debug/net6.0/_03.ClothesMagazine
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/bin/Debug/net6.0/_03.ClothesMagazine.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/bin/Debug/net6.0/_03.ClothesMagazine.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/bin/Debug/net6.0/_03.ClothesMagazine.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/bin/Debug/net6.0/_03.ClothesMagazine.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/obj/Debug/net6.0/_03.ClothesMagazine.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/obj/Debug/net6.0/_03.ClothesMagazine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/obj/Debug/net6.0/_03.ClothesMagazine.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/obj/Debug/net6.0/_03.ClothesMagazine.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/obj/Debug/net6.0/_03.ClothesMagazine.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/obj/Debug/net6.0/_03.ClothesMagazine.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/obj/Debug/net6.0/refint/_03.ClothesMagazine.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/obj/Debug/net6.0/_03.ClothesMagazine.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/obj/Debug/net6.0/_03.ClothesMagazine.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_03.ClothesMagazine/obj/Debug/net6.0/ref/_03.ClothesMagazine.dll

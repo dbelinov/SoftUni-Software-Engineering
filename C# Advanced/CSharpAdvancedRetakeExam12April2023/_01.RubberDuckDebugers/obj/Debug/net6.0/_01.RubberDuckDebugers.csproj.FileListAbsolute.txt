@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/bin/Debug/net6.0/_01.RubberDuckDebugers
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/bin/Debug/net6.0/_01.RubberDuckDebugers.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/bin/Debug/net6.0/_01.RubberDuckDebugers.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/bin/Debug/net6.0/_01.RubberDuckDebugers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/bin/Debug/net6.0/_01.RubberDuckDebugers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/obj/Debug/net6.0/_01.RubberDuckDebugers.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/obj/Debug/net6.0/_01.RubberDuckDebugers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/obj/Debug/net6.0/_01.RubberDuckDebugers.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/obj/Debug/net6.0/_01.RubberDuckDebugers.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/obj/Debug/net6.0/_01.RubberDuckDebugers.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/obj/Debug/net6.0/_01.RubberDuckDebugers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/obj/Debug/net6.0/refint/_01.RubberDuckDebugers.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/obj/Debug/net6.0/_01.RubberDuckDebugers.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/obj/Debug/net6.0/_01.RubberDuckDebugers.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_01.RubberDuckDebugers/obj/Debug/net6.0/ref/_01.RubberDuckDebugers.dll

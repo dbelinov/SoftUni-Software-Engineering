@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01.RubberDuckDebugers", "_01.RubberDuckDebugers\_01.RubberDuckDebugers.csproj", "{10BCF930-7A83-4814-B0B5-93E7F8EF1518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02.TheSquirrel", "_02.TheSquirrel\_02.TheSquirrel.csproj", "{95712E05-1DF4-424C-9DA2-2802AB578348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03.ClothesMagazine", "_03.ClothesMagazine\_03.ClothesMagazine.csproj", "{3E345E82-76CA-4C33-9466-06F954F412C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BCF930-7A83-4814-B0B5-93E7F8EF1518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BCF930-7A83-4814-B0B5-93E7F8EF1518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BCF930-7A83-4814-B0B5-93E7F8EF1518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BCF930-7A83-4814-B0B5-93E7F8EF1518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95712E05-1DF4-424C-9DA2-2802AB578348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95712E05-1DF4-424C-9DA2-2802AB578348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95712E05-1DF4-424C-9DA2-2802AB578348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95712E05-1DF4-424C-9DA2-2802AB578348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E345E82-76CA-4C33-9466-06F954F412C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E345E82-76CA-4C33-9466-06F954F412C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E345E82-76CA-4C33-9466-06F954F412C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E345E82-76CA-4C33-9466-06F954F412C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/bin/Debug/net6.0/_02.TheSquirrel
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/bin/Debug/net6.0/_02.TheSquirrel.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/bin/Debug/net6.0/_02.TheSquirrel.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/bin/Debug/net6.0/_02.TheSquirrel.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/bin/Debug/net6.0/_02.TheSquirrel.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/obj/Debug/net6.0/_02.TheSquirrel.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/obj/Debug/net6.0/_02.TheSquirrel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/obj/Debug/net6.0/_02.TheSquirrel.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/obj/Debug/net6.0/_02.TheSquirrel.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/obj/Debug/net6.0/_02.TheSquirrel.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/obj/Debug/net6.0/_02.TheSquirrel.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/obj/Debug/net6.0/refint/_02.TheSquirrel.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/obj/Debug/net6.0/_02.TheSquirrel.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/obj/Debug/net6.0/_02.TheSquirrel.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Advanced/CSharpAdvancedRetakeExam12April2023/_02.TheSquirrel/obj/Debug/net6.0/ref/_02.TheSquirrel.dll
