@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/bin/Debug/net6.0/_01.Person
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/bin/Debug/net6.0/_01.Person.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/bin/Debug/net6.0/_01.Person.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/bin/Debug/net6.0/_01.Person.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/bin/Debug/net6.0/_01.Person.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/obj/Debug/net6.0/_01.Person.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/obj/Debug/net6.0/_01.Person.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/obj/Debug/net6.0/_01.Person.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/obj/Debug/net6.0/_01.Person.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/obj/Debug/net6.0/_01.Person.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/obj/Debug/net6.0/_01.Person.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/obj/Debug/net6.0/refint/_01.Person.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/obj/Debug/net6.0/_01.Person.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/obj/Debug/net6.0/_01.Person.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_02.Inheritance-Exercise/_01.Person/obj/Debug/net6.0/ref/_01.Person.dll

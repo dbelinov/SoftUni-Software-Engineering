@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B017C35F-8072-418C-9ECE-29BC667A118C}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Person PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Person/StartUp.cs">
+    <Files>
+      <File FileName="Person/StartUp.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InheritanceExercise" expanded="True">
+            <Node name="Animals" expanded="True" />
+            <Node name="NeedForSpeed" expanded="True" selected="True" />
+            <Node name="Person" expanded="True" />
+            <Node name="PlayersAndMonsters" expanded="True" />
+            <Node name="Restaurant" expanded="True" />
+            <Node name="Zoo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
