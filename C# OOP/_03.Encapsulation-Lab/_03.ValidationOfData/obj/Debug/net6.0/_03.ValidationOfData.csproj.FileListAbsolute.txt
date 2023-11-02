@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/bin/Debug/net6.0/_03.ValidationOfData
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/bin/Debug/net6.0/_03.ValidationOfData.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/bin/Debug/net6.0/_03.ValidationOfData.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/bin/Debug/net6.0/_03.ValidationOfData.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/bin/Debug/net6.0/_03.ValidationOfData.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/obj/Debug/net6.0/_03.ValidationOfData.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/obj/Debug/net6.0/_03.ValidationOfData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/obj/Debug/net6.0/_03.ValidationOfData.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/obj/Debug/net6.0/_03.ValidationOfData.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/obj/Debug/net6.0/_03.ValidationOfData.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/obj/Debug/net6.0/_03.ValidationOfData.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/obj/Debug/net6.0/refint/_03.ValidationOfData.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/obj/Debug/net6.0/_03.ValidationOfData.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/obj/Debug/net6.0/_03.ValidationOfData.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_03.Encapsulation-Lab/_03.ValidationOfData/obj/Debug/net6.0/ref/_03.ValidationOfData.dll
