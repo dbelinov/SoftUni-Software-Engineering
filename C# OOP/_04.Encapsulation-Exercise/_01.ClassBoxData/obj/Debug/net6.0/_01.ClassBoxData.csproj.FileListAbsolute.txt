@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/bin/Debug/net6.0/_01.ClassBoxData
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/bin/Debug/net6.0/_01.ClassBoxData.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/bin/Debug/net6.0/_01.ClassBoxData.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/bin/Debug/net6.0/_01.ClassBoxData.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/bin/Debug/net6.0/_01.ClassBoxData.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/obj/Debug/net6.0/_01.ClassBoxData.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/obj/Debug/net6.0/_01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/obj/Debug/net6.0/_01.ClassBoxData.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/obj/Debug/net6.0/_01.ClassBoxData.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/obj/Debug/net6.0/_01.ClassBoxData.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/obj/Debug/net6.0/_01.ClassBoxData.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/obj/Debug/net6.0/refint/_01.ClassBoxData.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/obj/Debug/net6.0/_01.ClassBoxData.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/obj/Debug/net6.0/_01.ClassBoxData.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_04.Encapsulation-Exercise/_01.ClassBoxData/obj/Debug/net6.0/ref/_01.ClassBoxData.dll
