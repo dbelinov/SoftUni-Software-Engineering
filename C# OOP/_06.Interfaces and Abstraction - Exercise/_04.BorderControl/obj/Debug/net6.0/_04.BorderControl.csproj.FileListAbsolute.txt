@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/bin/Debug/net6.0/_04.BorderControl
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/bin/Debug/net6.0/_04.BorderControl.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/bin/Debug/net6.0/_04.BorderControl.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/bin/Debug/net6.0/_04.BorderControl.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/bin/Debug/net6.0/_04.BorderControl.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/obj/Debug/net6.0/_04.BorderControl.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/obj/Debug/net6.0/_04.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/obj/Debug/net6.0/_04.BorderControl.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/obj/Debug/net6.0/_04.BorderControl.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/obj/Debug/net6.0/_04.BorderControl.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/obj/Debug/net6.0/_04.BorderControl.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/obj/Debug/net6.0/refint/_04.BorderControl.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/obj/Debug/net6.0/_04.BorderControl.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/obj/Debug/net6.0/_04.BorderControl.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_04.BorderControl/obj/Debug/net6.0/ref/_04.BorderControl.dll

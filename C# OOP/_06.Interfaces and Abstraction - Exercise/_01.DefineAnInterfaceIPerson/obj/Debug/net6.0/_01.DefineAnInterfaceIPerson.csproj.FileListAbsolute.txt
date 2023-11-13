@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/bin/Debug/net6.0/_01.DefineAnInterfaceIPerson
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/bin/Debug/net6.0/_01.DefineAnInterfaceIPerson.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/bin/Debug/net6.0/_01.DefineAnInterfaceIPerson.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/bin/Debug/net6.0/_01.DefineAnInterfaceIPerson.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/bin/Debug/net6.0/_01.DefineAnInterfaceIPerson.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/obj/Debug/net6.0/_01.DefineAnInterfaceIPerson.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/obj/Debug/net6.0/_01.DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/obj/Debug/net6.0/_01.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/obj/Debug/net6.0/_01.DefineAnInterfaceIPerson.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/obj/Debug/net6.0/_01.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/obj/Debug/net6.0/_01.DefineAnInterfaceIPerson.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/obj/Debug/net6.0/refint/_01.DefineAnInterfaceIPerson.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/obj/Debug/net6.0/_01.DefineAnInterfaceIPerson.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/obj/Debug/net6.0/_01.DefineAnInterfaceIPerson.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_01.DefineAnInterfaceIPerson/obj/Debug/net6.0/ref/_01.DefineAnInterfaceIPerson.dll

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+8zI8MehXXwXJEhqKVVAMc8+4OFhnQ4HXxaq0oIMv9wRmEmMxKk+DD9PDin363DB5R31M/CBrG1O9JHdF2Bd1g==",
+  "dgSpecHash": "+w4oDRpxYxLWzTqf3YXmq2nnpE286pZoqzuv5wlB9Cccp2qoYLHk0cbDHvNCbSxE+azrBSW+OxO+xObGFopePQ==",
   "success": true,
   "projectFilePath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_16.Associative Arrays - Exercise/_07.CompanyUsers/_07.CompanyUsers.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/dbelinov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

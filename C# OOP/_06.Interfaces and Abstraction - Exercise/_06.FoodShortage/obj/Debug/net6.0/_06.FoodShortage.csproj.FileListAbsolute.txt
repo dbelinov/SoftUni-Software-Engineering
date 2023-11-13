@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/bin/Debug/net6.0/_06.FoodShortage
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/bin/Debug/net6.0/_06.FoodShortage.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/bin/Debug/net6.0/_06.FoodShortage.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/bin/Debug/net6.0/_06.FoodShortage.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/bin/Debug/net6.0/_06.FoodShortage.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/obj/Debug/net6.0/_06.FoodShortage.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/obj/Debug/net6.0/_06.FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/obj/Debug/net6.0/_06.FoodShortage.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/obj/Debug/net6.0/_06.FoodShortage.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/obj/Debug/net6.0/_06.FoodShortage.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/obj/Debug/net6.0/_06.FoodShortage.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/obj/Debug/net6.0/refint/_06.FoodShortage.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/obj/Debug/net6.0/_06.FoodShortage.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/obj/Debug/net6.0/_06.FoodShortage.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_06.FoodShortage/obj/Debug/net6.0/ref/_06.FoodShortage.dll

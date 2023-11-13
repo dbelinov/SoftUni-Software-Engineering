@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HkjnzuhSYmB7AvVFKj2R+dtVGXXiskhfexmn2/fa2jyqhLlE5u4sgivMUQSHt7zJOHug69maYl1Qw/71QUXxIA==",
+  "dgSpecHash": "cLvQBCoMqa331qJtyqVkLQ/7KRssl7rXia7LsB6Uh2gU6CsmdSs8RWzuqU+QLLgHl4tJyCiVNwim7pTV9XlDDg==",
   "success": true,
   "projectFilePath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Fundamentals/_16.Associative Arrays - Exercise/_01.CountCharsInAString/_01.CountCharsInAString.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/dbelinov/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

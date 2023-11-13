@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D19A1518-975C-45E1-82A8-31436B65A1ED}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="_05.Courses/Program.cs">
+    <Files>
+      <File FileName="_05.Courses/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="_16.Associative Arrays - Exercise" expanded="True">
+            <Node name="_05.Courses" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.__01.CountCharsInAString PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

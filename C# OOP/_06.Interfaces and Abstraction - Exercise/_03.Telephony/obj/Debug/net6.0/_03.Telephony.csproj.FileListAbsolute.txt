@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/bin/Debug/net6.0/_03.Telephony
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/bin/Debug/net6.0/_03.Telephony.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/bin/Debug/net6.0/_03.Telephony.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/bin/Debug/net6.0/_03.Telephony.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/bin/Debug/net6.0/_03.Telephony.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/obj/Debug/net6.0/_03.Telephony.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/obj/Debug/net6.0/_03.Telephony.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/obj/Debug/net6.0/_03.Telephony.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/obj/Debug/net6.0/_03.Telephony.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/obj/Debug/net6.0/_03.Telephony.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/obj/Debug/net6.0/_03.Telephony.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/obj/Debug/net6.0/refint/_03.Telephony.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/obj/Debug/net6.0/_03.Telephony.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/obj/Debug/net6.0/_03.Telephony.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_03.Telephony/obj/Debug/net6.0/ref/_03.Telephony.dll

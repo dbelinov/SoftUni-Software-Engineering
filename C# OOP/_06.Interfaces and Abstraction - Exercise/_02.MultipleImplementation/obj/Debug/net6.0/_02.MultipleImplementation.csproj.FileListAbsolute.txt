@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/bin/Debug/net6.0/_02.MultipleImplementation
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/bin/Debug/net6.0/_02.MultipleImplementation.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/bin/Debug/net6.0/_02.MultipleImplementation.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/bin/Debug/net6.0/_02.MultipleImplementation.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/bin/Debug/net6.0/_02.MultipleImplementation.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/obj/Debug/net6.0/_02.MultipleImplementation.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/obj/Debug/net6.0/_02.MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/obj/Debug/net6.0/_02.MultipleImplementation.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/obj/Debug/net6.0/_02.MultipleImplementation.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/obj/Debug/net6.0/_02.MultipleImplementation.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/obj/Debug/net6.0/_02.MultipleImplementation.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/obj/Debug/net6.0/refint/_02.MultipleImplementation.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/obj/Debug/net6.0/_02.MultipleImplementation.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/obj/Debug/net6.0/_02.MultipleImplementation.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_06.Interfaces and Abstraction - Exercise/_02.MultipleImplementation/obj/Debug/net6.0/ref/_02.MultipleImplementation.dll
