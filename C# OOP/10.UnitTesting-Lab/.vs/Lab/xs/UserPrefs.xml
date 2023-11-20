@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Skeleton.Tests/DummyTests.cs">
+    <Files>
+      <File FileName="Skeleton/Axe.cs" Line="32" Column="22" />
+      <File FileName="Skeleton/StartUp.cs" />
+      <File FileName="Skeleton/Dummy.cs" Line="19" Column="17" />
+      <File FileName="Skeleton.Tests/AxeTests.cs" Line="14" Column="10" />
+      <File FileName="Skeleton.Tests/DummyTests.cs" Line="39" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab" expanded="True">
+            <Node name="Skeleton" expanded="True" />
+            <Node name="Skeleton.Tests" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Skeleton PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

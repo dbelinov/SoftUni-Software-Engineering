@@ -1,0 +1,65 @@
+using System.Reflection;
+using System.Text;
+
+namespace Stealer;
+
+public class Spy
+{
+    public string StealFieldInfo(string className, params string[] fields)
+    {
+        Type classType = Type.GetType(className);
+        FieldInfo[] fieldInfos = classType.GetFields(BindingFlags.NonPublic | BindingFlags.Instance
+        | BindingFlags.Static | BindingFlags.Public);
+
+        StringBuilder sb = new StringBuilder();
+
+        Object objectInstance = Activator.CreateInstance(classType, new object[] {});
+
+        sb.AppendLine($"Class under investigation: {className}");
+
+        foreach (FieldInfo fieldInfo in fieldInfos.Where(fi => fields.Contains(fi.Name)))
+        {
+            sb.AppendLine($"{fieldInfo.Name} = {fieldInfo.GetValue(objectInstance)}");
+        }
+
+        return sb.ToString().Trim();
+    }
+
+    public string AnalyzeAccessModifiers(string className)
+    {
+        Type classType = Type.GetType(className);
+        FieldInfo[] fields = classType.GetFields(BindingFlags.Instance
+                                                 | BindingFlags.Public);
+        PropertyInfo[] properties = classType.GetProperties(BindingFlags.Public 
+                                                            | BindingFlags.NonPublic
+                                                            | BindingFlags.Instance
+                                                            | BindingFlags.Static);
+        
+        MethodInfo[] privateMethods = classType.GetMethods(BindingFlags.NonPublic 
+                                                    | BindingFlags.Instance);
+        
+        MethodInfo[] publicMethods = classType.GetMethods(BindingFlags.Public 
+                                                    | BindingFlags.Instance);
+
+        StringBuilder sb = new StringBuilder();
+
+        foreach (FieldInfo field in fields)
+        {
+            sb.AppendLine($"{field.Name} must be private!");
+        }
+
+        foreach (MethodInfo privateMethod in privateMethods
+                     .Where(prvm => prvm.Name.Contains("get")))
+        {
+            sb.AppendLine($"{privateMethod.Name} have to be public!");
+        }
+
+        foreach (MethodInfo publicMethod in publicMethods
+                     .Where(pm => pm.Name.Contains("set")))
+        {
+            sb.AppendLine($"{publicMethod.Name} have to be private!");
+        }
+
+        return sb.ToString().Trim();
+    }
+}

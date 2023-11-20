@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01.Stealer", "_01.Stealer\_01.Stealer.csproj", "{50D14FEC-87AE-4F68-83B5-911F57407A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02.HighQualityMistakes", "_02.HighQualityMistakes\_02.HighQualityMistakes.csproj", "{950C7C7F-A42B-4ED2-A558-C4DA2FE1A4AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D14FEC-87AE-4F68-83B5-911F57407A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D14FEC-87AE-4F68-83B5-911F57407A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D14FEC-87AE-4F68-83B5-911F57407A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D14FEC-87AE-4F68-83B5-911F57407A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950C7C7F-A42B-4ED2-A558-C4DA2FE1A4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950C7C7F-A42B-4ED2-A558-C4DA2FE1A4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950C7C7F-A42B-4ED2-A558-C4DA2FE1A4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950C7C7F-A42B-4ED2-A558-C4DA2FE1A4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

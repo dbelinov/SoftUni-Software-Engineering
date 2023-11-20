@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/obj/Debug/net6.0/_02.HighQualityMistakes.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/obj/Debug/net6.0/_02.HighQualityMistakes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/obj/Debug/net6.0/_02.HighQualityMistakes.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/obj/Debug/net6.0/_02.HighQualityMistakes.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/obj/Debug/net6.0/_02.HighQualityMistakes.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/bin/Debug/net6.0/_02.HighQualityMistakes
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/bin/Debug/net6.0/_02.HighQualityMistakes.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/bin/Debug/net6.0/_02.HighQualityMistakes.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/bin/Debug/net6.0/_02.HighQualityMistakes.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/bin/Debug/net6.0/_02.HighQualityMistakes.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/obj/Debug/net6.0/_02.HighQualityMistakes.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/obj/Debug/net6.0/refint/_02.HighQualityMistakes.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/obj/Debug/net6.0/_02.HighQualityMistakes.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/obj/Debug/net6.0/_02.HighQualityMistakes.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_02.HighQualityMistakes/obj/Debug/net6.0/ref/_02.HighQualityMistakes.dll

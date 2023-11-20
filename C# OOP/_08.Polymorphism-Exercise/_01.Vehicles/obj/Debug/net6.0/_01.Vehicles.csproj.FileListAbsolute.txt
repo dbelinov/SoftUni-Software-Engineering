@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/obj/Debug/net6.0/_01.Vehicles.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/obj/Debug/net6.0/_01.Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/obj/Debug/net6.0/_01.Vehicles.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/obj/Debug/net6.0/_01.Vehicles.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/obj/Debug/net6.0/_01.Vehicles.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/bin/Debug/net6.0/_01.Vehicles
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/bin/Debug/net6.0/_01.Vehicles.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/bin/Debug/net6.0/_01.Vehicles.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/bin/Debug/net6.0/_01.Vehicles.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/bin/Debug/net6.0/_01.Vehicles.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/obj/Debug/net6.0/_01.Vehicles.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/obj/Debug/net6.0/refint/_01.Vehicles.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/obj/Debug/net6.0/_01.Vehicles.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/obj/Debug/net6.0/_01.Vehicles.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_08.Polymorphism-Exercise/_01.Vehicles/obj/Debug/net6.0/ref/_01.Vehicles.dll

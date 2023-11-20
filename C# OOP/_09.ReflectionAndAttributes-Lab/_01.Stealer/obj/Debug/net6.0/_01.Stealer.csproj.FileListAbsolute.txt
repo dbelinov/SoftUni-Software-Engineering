@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/bin/Debug/net6.0/_01.Stealer
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/bin/Debug/net6.0/_01.Stealer.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/bin/Debug/net6.0/_01.Stealer.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/bin/Debug/net6.0/_01.Stealer.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/bin/Debug/net6.0/_01.Stealer.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/obj/Debug/net6.0/_01.Stealer.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/obj/Debug/net6.0/_01.Stealer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/obj/Debug/net6.0/_01.Stealer.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/obj/Debug/net6.0/_01.Stealer.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/obj/Debug/net6.0/_01.Stealer.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/obj/Debug/net6.0/_01.Stealer.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/obj/Debug/net6.0/refint/_01.Stealer.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/obj/Debug/net6.0/_01.Stealer.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/obj/Debug/net6.0/_01.Stealer.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_01.Stealer/obj/Debug/net6.0/ref/_01.Stealer.dll
