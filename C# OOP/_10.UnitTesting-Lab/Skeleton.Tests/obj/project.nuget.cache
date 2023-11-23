@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ocDYAHqBk5Zaa1JF28SIGKW9d6DAnKA8nr6MskmpOw0XWFLaNumU8ZZJxXhDGPXDEh1vbgiRSSFDFolokP6C7g==",
+  "dgSpecHash": "tUYmhchtC6izltXaB2b6llPDRM+LLNu2nEeM4pcSza1IXv6pAc1K76UIUKjohqNo7mBTcARKFywBEPl4AYzB6A==",
   "success": true,
-  "projectFilePath": "/Users/dbelinov/Downloads/09. CSharp-OOP-Unit-Testing-Lab-Skeleton_6/Skeleton.Tests/Skeleton.Tests.csproj",
+  "projectFilePath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_10.UnitTesting-Lab/Skeleton.Tests/Skeleton.Tests.csproj",
   "expectedPackageFiles": [
+    "/Users/dbelinov/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/microsoft.codecoverage/15.9.0/microsoft.codecoverage.15.9.0.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/microsoft.dotnet.internalabstractions/1.0.0/microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
@@ -16,6 +17,7 @@
     "/Users/dbelinov/.nuget/packages/microsoft.testplatform.testhost/15.9.0/microsoft.testplatform.testhost.15.9.0.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/microsoft.win32.primitives/4.3.0/microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/microsoft.win32.registry/4.3.0/microsoft.win32.registry.4.3.0.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/moq/4.20.69/moq.4.20.69.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/netstandard.library/1.6.0/netstandard.library.1.6.0.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/nunit/3.9.0/nunit.3.9.0.nupkg.sha512",
@@ -38,6 +40,7 @@
     "/Users/dbelinov/.nuget/packages/system.console/4.0.0/system.console.4.0.0.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/system.diagnostics.diagnosticsource/4.0.0/system.diagnostics.diagnosticsource.4.0.0.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/system.diagnostics.process/4.3.0/system.diagnostics.process.4.3.0.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/system.diagnostics.textwritertracelistener/4.0.0/system.diagnostics.textwritertracelistener.4.0.0.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/system.diagnostics.tools/4.0.1/system.diagnostics.tools.4.0.1.nupkg.sha512",

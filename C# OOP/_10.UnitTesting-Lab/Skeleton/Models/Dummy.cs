@@ -1,6 +1,9 @@
 ﻿using System;
+using Skeleton.Models.Interfaces;
 
-public class Dummy
+namespace Skeleton.Models;
+
+public class Dummy : ITarget
 {
     private int health;
     private int experience;
@@ -11,33 +14,30 @@ public class Dummy
         this.experience = experience;
     }
 
-    public int Health 
-    {
-        get { return this.health; }
-    }
+    public int Health => health;
 
     public void TakeAttack(int attackPoints)
     {
-        if (this.IsDead())
+        if (IsDead())
         {
             throw new InvalidOperationException("Dummy is dead.");
         }
 
-        this.health -= attackPoints;
+        health -= attackPoints;
     }
 
     public int GiveExperience()
     {
-        if (!this.IsDead())
+        if (!IsDead())
         {
             throw new InvalidOperationException("Target is not dead.");
         }
 
-        return this.experience;
+        return experience;
     }
 
     public bool IsDead()
     {
-        return this.health <= 0;
+        return health <= 0;
     }
 }

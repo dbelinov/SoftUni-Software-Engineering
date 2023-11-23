@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/bin/Debug/net6.0/_03.MissionPrivateImpossible
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/bin/Debug/net6.0/_03.MissionPrivateImpossible.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/bin/Debug/net6.0/_03.MissionPrivateImpossible.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/bin/Debug/net6.0/_03.MissionPrivateImpossible.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/bin/Debug/net6.0/_03.MissionPrivateImpossible.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/obj/Debug/net6.0/_03.MissionPrivateImpossible.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/obj/Debug/net6.0/_03.MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/obj/Debug/net6.0/_03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/obj/Debug/net6.0/_03.MissionPrivateImpossible.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/obj/Debug/net6.0/_03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/obj/Debug/net6.0/_03.MissionPrivateImpossible.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/obj/Debug/net6.0/refint/_03.MissionPrivateImpossible.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/obj/Debug/net6.0/_03.MissionPrivateImpossible.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/obj/Debug/net6.0/_03.MissionPrivateImpossible.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_03.MissionPrivateImpossible/obj/Debug/net6.0/ref/_03.MissionPrivateImpossible.dll

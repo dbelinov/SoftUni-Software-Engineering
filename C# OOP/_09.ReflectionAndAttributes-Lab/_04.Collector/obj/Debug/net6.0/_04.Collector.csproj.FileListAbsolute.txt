@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/bin/Debug/net6.0/_04.Collector
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/bin/Debug/net6.0/_04.Collector.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/bin/Debug/net6.0/_04.Collector.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/bin/Debug/net6.0/_04.Collector.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/bin/Debug/net6.0/_04.Collector.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/obj/Debug/net6.0/_04.Collector.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/obj/Debug/net6.0/_04.Collector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/obj/Debug/net6.0/_04.Collector.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/obj/Debug/net6.0/_04.Collector.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/obj/Debug/net6.0/_04.Collector.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/obj/Debug/net6.0/_04.Collector.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/obj/Debug/net6.0/refint/_04.Collector.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/obj/Debug/net6.0/_04.Collector.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/obj/Debug/net6.0/_04.Collector.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_09.ReflectionAndAttributes-Lab/_04.Collector/obj/Debug/net6.0/ref/_04.Collector.dll

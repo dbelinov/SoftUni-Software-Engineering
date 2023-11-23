@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e5fXtpB0WAfA8CXfkChw5tA0K0fLqI/A8CDuPFvV6kavKfrXR7jeb/AWPWbp3jk2+Sk9Ffz4qabdhB8317E0Mw==",
+  "dgSpecHash": "0TOzhRD6jPAwsRz1bl3u6u0oidsqCHfxRU2WBKAWBz29VE/QRj1ck0s4pqfb09TXGyrC52G7kyccG+iednzy7g==",
   "success": true,
-  "projectFilePath": "/Users/dbelinov/Downloads/09. CSharp-OOP-Unit-Testing-Lab-Skeleton_6/Skeleton/Skeleton.csproj",
+  "projectFilePath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/_10.UnitTesting-Lab/Skeleton/Skeleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
