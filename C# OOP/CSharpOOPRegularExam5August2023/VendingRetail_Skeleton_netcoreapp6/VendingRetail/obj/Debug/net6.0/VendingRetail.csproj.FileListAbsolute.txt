@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/bin/Debug/net6.0/VendingRetail
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/bin/Debug/net6.0/VendingRetail.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/bin/Debug/net6.0/VendingRetail.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/bin/Debug/net6.0/VendingRetail.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/bin/Debug/net6.0/VendingRetail.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/obj/Debug/net6.0/VendingRetail.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/obj/Debug/net6.0/VendingRetail.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/obj/Debug/net6.0/VendingRetail.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/obj/Debug/net6.0/VendingRetail.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/obj/Debug/net6.0/VendingRetail.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/obj/Debug/net6.0/VendingRetail.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/obj/Debug/net6.0/refint/VendingRetail.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/obj/Debug/net6.0/VendingRetail.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/obj/Debug/net6.0/VendingRetail.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail/obj/Debug/net6.0/ref/VendingRetail.dll

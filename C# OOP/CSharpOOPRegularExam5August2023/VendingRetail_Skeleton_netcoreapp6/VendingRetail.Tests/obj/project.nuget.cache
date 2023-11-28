@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "HqPEbhl6LqHFdf7xO1X4hRGtRkbuwnqu/h3KX25Ofpqe75JRYo+OPOgaXhin1HsJ3+rwB9N98Gsd5liwsmEEJw==",
+  "success": true,
+  "projectFilePath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam5August2023/VendingRetail_Skeleton_netcoreapp6/VendingRetail.Tests/VendingRetail.Tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/dbelinov/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/microsoft.net.test.sdk/17.5.0/microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/microsoft.testplatform.objectmodel/17.5.0/microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/microsoft.testplatform.testhost/17.5.0/microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/nunit3testadapter/4.4.2/nunit3testadapter.4.4.2.nupkg.sha512",
+    "/Users/dbelinov/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

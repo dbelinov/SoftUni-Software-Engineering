@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/dbelinov/Library/Caches/JetBrains/Rider2023.3/resharper-host/temp/Rider/vAny/CoverageData/_VendingRetail.-934404546/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25c4bdf1_002D5e35_002D4aaf_002D999d_002Dcb969496ad13/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Does_ConstructorInitializeAllObjectsCorrectly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::AA7F09B8-3C49-40EB-A592-013D06A6D1A8::net6.0::VendingRetail.Tests.Tests.Does_ConstructorInitializeAllObjectsCorrectly&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AA7F09B8-3C49-40EB-A592-013D06A6D1A8::net6.0::VendingRetail.Tests.Tests.Does_FillWaterTankMethod_ReturnCorrectString&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AA7F09B8-3C49-40EB-A592-013D06A6D1A8::net6.0::VendingRetail.Tests.Tests.Does_FillWaterTankMethod_ReturnCorrectStringWhenTankIsFull&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AA7F09B8-3C49-40EB-A592-013D06A6D1A8::net6.0::VendingRetail.Tests.Tests.Does_AddDrinkMethod_ReturnTrue_WhenDrinkAdded&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AA7F09B8-3C49-40EB-A592-013D06A6D1A8::net6.0::VendingRetail.Tests.Tests.Does_AddDrinkMethod_ReturnFalse_WhenButtonCountIsFull&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AA7F09B8-3C49-40EB-A592-013D06A6D1A8::net6.0::VendingRetail.Tests.Tests.Does_AddDrinkMethod_ReturnFalse_WhenDrinkAlreadyExists&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AA7F09B8-3C49-40EB-A592-013D06A6D1A8::net6.0::VendingRetail.Tests.Tests.Does_BuyDrinkMethod_IncreaseIncome&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AA7F09B8-3C49-40EB-A592-013D06A6D1A8::net6.0::VendingRetail.Tests.Tests.Does_BuyDrinkMethod_ReturnCorrectString&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AA7F09B8-3C49-40EB-A592-013D06A6D1A8::net6.0::VendingRetail.Tests.Tests.Does_BuyDrinkMethod_ReturnCorrectString_WhenWaterTankIsLessThan80&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AA7F09B8-3C49-40EB-A592-013D06A6D1A8::net6.0::VendingRetail.Tests.Tests.Does_IncomeIncrease_WhenUsingBuyDrinkMethod&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AA7F09B8-3C49-40EB-A592-013D06A6D1A8::net6.0::VendingRetail.Tests.Tests.Does_BuyDrinkMethod_ReturnCorrectString_WhenDrinkNotAvailable&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AA7F09B8-3C49-40EB-A592-013D06A6D1A8::net6.0::VendingRetail.Tests.Tests.Does_CollectIncomeMethod_ReturnCorrectIncome&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AA7F09B8-3C49-40EB-A592-013D06A6D1A8::net6.0::VendingRetail.Tests.Tests.Does_CollectIncomeMethod_MakeIncomeProperty0&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
