@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/bin/Debug/net6.0/BookingApp
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/bin/Debug/net6.0/BookingApp.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/bin/Debug/net6.0/BookingApp.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/bin/Debug/net6.0/BookingApp.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/bin/Debug/net6.0/BookingApp.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/obj/Debug/net6.0/BookingApp.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/obj/Debug/net6.0/BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/obj/Debug/net6.0/BookingApp.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/obj/Debug/net6.0/BookingApp.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/obj/Debug/net6.0/BookingApp.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/obj/Debug/net6.0/BookingApp.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/obj/Debug/net6.0/refint/BookingApp.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/obj/Debug/net6.0/BookingApp.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/obj/Debug/net6.0/BookingApp.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRetakeExam22August2022/obj/Debug/net6.0/ref/BookingApp.dll
