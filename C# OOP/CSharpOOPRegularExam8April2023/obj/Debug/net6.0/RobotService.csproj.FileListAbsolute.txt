@@ -1,0 +1,15 @@
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/bin/Debug/net6.0/RobotService
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/bin/Debug/net6.0/RobotService.deps.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/bin/Debug/net6.0/RobotService.runtimeconfig.json
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/bin/Debug/net6.0/RobotService.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/bin/Debug/net6.0/RobotService.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/obj/Debug/net6.0/RobotService.csproj.AssemblyReference.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/obj/Debug/net6.0/RobotService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/obj/Debug/net6.0/RobotService.AssemblyInfoInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/obj/Debug/net6.0/RobotService.AssemblyInfo.cs
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/obj/Debug/net6.0/RobotService.csproj.CoreCompileInputs.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/obj/Debug/net6.0/RobotService.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/obj/Debug/net6.0/refint/RobotService.dll
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/obj/Debug/net6.0/RobotService.pdb
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/obj/Debug/net6.0/RobotService.genruntimeconfig.cache
+/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# OOP/CSharpOOPRegularExam8April2023/obj/Debug/net6.0/ref/RobotService.dll
