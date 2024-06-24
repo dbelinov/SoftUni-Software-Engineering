@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni", "SoftUni\SoftUni.csproj", "{8D4C5897-83C8-479B-90F8-3A6D2FBE347B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D4C5897-83C8-479B-90F8-3A6D2FBE347B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4C5897-83C8-479B-90F8-3A6D2FBE347B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4C5897-83C8-479B-90F8-3A6D2FBE347B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4C5897-83C8-479B-90F8-3A6D2FBE347B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
