@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Entity Framework Core/EntityFrameworkIntroduction/SoftUni/SoftUni.csproj",
+      "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Entity Framework Core/_01.EntityFrameworkIntroduction/SoftUni/SoftUni.csproj",
       "projectName": "SoftUni",
-      "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Entity Framework Core/EntityFrameworkIntroduction/SoftUni/SoftUni.csproj",
+      "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Entity Framework Core/_01.EntityFrameworkIntroduction/SoftUni/SoftUni.csproj",
       "packagesPath": "/Users/dbelinov/.nuget/packages/",
-      "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Entity Framework Core/EntityFrameworkIntroduction/SoftUni/obj/",
+      "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Entity Framework Core/_01.EntityFrameworkIntroduction/SoftUni/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dbelinov/.nuget/NuGet/NuGet.Config"

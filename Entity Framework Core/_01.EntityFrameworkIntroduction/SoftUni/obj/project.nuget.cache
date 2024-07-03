@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QHoapfzVdU9Gegtk8n4s0GE/DmM1xEwl0JtC0jPO12MV0A0Q9sBlVKVddSJ7hUY8dA/aUrGzaIk5CRLXvnkZ9g==",
+  "dgSpecHash": "RNp0tbqKC1IgEn6V6kG8SLA0RM5lJQ6w+aZy8aMj36b9d4+cUkPA8n0C+WvyDfTYYiSm/xsuqyXTI5rbgC9eQg==",
   "success": true,
-  "projectFilePath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Entity Framework Core/EntityFrameworkIntroduction/SoftUni/SoftUni.csproj",
+  "projectFilePath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Entity Framework Core/_01.EntityFrameworkIntroduction/SoftUni/SoftUni.csproj",
   "expectedPackageFiles": [
     "/Users/dbelinov/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
