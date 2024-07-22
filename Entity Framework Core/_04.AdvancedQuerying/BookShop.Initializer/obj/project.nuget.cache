@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HwSZukIpIziuznDdZvJ3MqTeQGRitLpaq2Nza/QAg/U5UjPKnUVr71Net22g9aTsnpSFZctAsN7tAZjzhP+WGg==",
+  "dgSpecHash": "pbRekKNernmOU2Irf9oppzmrkHRPfZp8N9kpri2ne4W65Q2qgC4B9NLkrqW6p+1tAuUOMi9ucXC8jRqVRTH7Qw==",
   "success": true,
   "projectFilePath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/Entity Framework Core/_04.AdvancedQuerying/BookShop.Initializer/BookShop.Initializer.csproj",
   "expectedPackageFiles": [
