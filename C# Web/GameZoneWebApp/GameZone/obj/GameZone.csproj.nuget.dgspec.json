@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Web/GameZone-Skeleton (1)/GameZone/GameZone.csproj": {}
+    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Web/GameZoneWebApp/GameZone/GameZone.csproj": {}
   },
   "projects": {
-    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Web/GameZone-Skeleton (1)/GameZone/GameZone.csproj": {
+    "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Web/GameZoneWebApp/GameZone/GameZone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Web/GameZone-Skeleton (1)/GameZone/GameZone.csproj",
+        "projectUniqueName": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Web/GameZoneWebApp/GameZone/GameZone.csproj",
         "projectName": "GameZone",
-        "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Web/GameZone-Skeleton (1)/GameZone/GameZone.csproj",
+        "projectPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Web/GameZoneWebApp/GameZone/GameZone.csproj",
         "packagesPath": "/Users/dbelinov/.nuget/packages/",
-        "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Web/GameZone-Skeleton (1)/GameZone/obj/",
+        "outputPath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Web/GameZoneWebApp/GameZone/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [

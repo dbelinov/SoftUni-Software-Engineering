@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eiEe510wyn8=",
+  "dgSpecHash": "w1Jz+W7RmI0=",
   "success": true,
-  "projectFilePath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Web/GameZone-Skeleton (1)/GameZone/GameZone.csproj",
+  "projectFilePath": "/Users/dbelinov/Documents/GitHub/SoftUni-Software-Engineering/C# Web/GameZoneWebApp/GameZone/GameZone.csproj",
   "expectedPackageFiles": [
     "/Users/dbelinov/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/dbelinov/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
